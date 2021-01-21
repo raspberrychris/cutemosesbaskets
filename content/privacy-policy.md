@@ -1,11 +1,11 @@
 +++
-title = Privacy Policy
-description = Cutemosesbaskets.com is the #1 source for finding the best Moses Baskets
-date = 2019-02-28
-aliases = [about-us,about-cute-moses-baskets]
-author = Cutemosesbaskets.com
-menu = main
-weight = 5
+title = "Privacy Policy"
+description = "Cutemosesbaskets.com is the #1 source for finding the best Moses Baskets"
+date = "2019-02-28"
+aliases = ""[about-us,about-cute-moses-baskets]"
+author = "Cutemosesbaskets.com"
+menu = "main"
+weight = "5"
 +++
 
 At Cutemosesbaskets.com we value the privacy of our visitors. The aim of our privacy policy is to provide a user-friendly experience and at the same time protect the privacy of visitors.
