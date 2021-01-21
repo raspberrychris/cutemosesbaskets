@@ -1,0 +1,15 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Cute Moses Baskets"
+theme = "hugo-primer"
+paginate = 3
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+# Above are configs from hugoBasicExample
+hasCJKLanguage = true
+summaryLength = 70
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+googleAnalytics = ""
+disqusShortname=""
+copyright = "&copy;cutemosesbaskets.com 2021"
