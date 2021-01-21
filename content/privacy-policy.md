@@ -1,10 +1,10 @@
 +++
-title = "Privacy Policy"
-description = "Cutemosesbaskets.com is the #1 source for finding the best Moses Baskets"
-date = "2019-02-28"
-aliases = ["about-us","about-cute-moses-baskets"]
-author = "Cutemosesbaskets.com"
-menu = "main"
+title = Privacy Policy
+description = Cutemosesbaskets.com is the #1 source for finding the best Moses Baskets
+date = 2019-02-28
+aliases = [about-us,about-cute-moses-baskets]
+author = Cutemosesbaskets.com
+menu = main
 weight = 5
 +++
 
