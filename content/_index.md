@@ -31,15 +31,15 @@ Browse the very **best Cute Moses Baskets** from all around the internet in one 
 
 ### Product Description
 
-**EASY CARE** Suitable for a newborn to six months, this Moses Basket uses Easy-care Poly Cotton with a soft padding surround.
+- **EASY CARE** Suitable for a newborn to six months, this Moses Basket uses Easy-care Poly Cotton with a soft padding surround.
 
-**COMFORTABLE** A good balance between comfort and style, moses Basket will ensure safe and sound sleeping for you and your baby.
+- **COMFORTABLE** A good balance between comfort and style, moses Basket will ensure safe and sound sleeping for you and your baby.
 
-**EASILY ADJUSTABLE** The hood/canopy can be adjusted to the desired position by tightening plastic screws on the basket handles
+- **EASILY ADJUSTABLE** The hood/canopy can be adjusted to the desired position by tightening plastic screws on the basket handles
 
-**PERFECT STARTER BED** The Moses Basket is a perfect first bed for your baby. The mattress is also easily washable, for any spillages.
+- **PERFECT STARTER BED** The Moses Basket is a perfect first bed for your baby. The mattress is also easily washable, for any spillages.
 
-**WATER RESISTENT** The mattress is water resistant and breathable allowing easy air movement and heat dissipation.
+- **WATER RESISTENT** The mattress is water resistant and breathable allowing easy air movement and heat dissipation.
 
 ### Our Rating For This Product
 
@@ -77,11 +77,11 @@ Browse the very **best Cute Moses Baskets** from all around the internet in one 
 
 ### Product Description
 
-**STYLISH DESIGN** trolley with a wicker basket works great as a baby cradle.
+- **STYLISH DESIGN** trolley with a wicker basket works great as a baby cradle.
 
-**MOBILE** The wheels help you move the prams to a convenient place.
+- **MOBILE** The wheels help you move the prams to a convenient place.
 
-**LINED BASKET** The basket is neatly lined with a cover and one-piece insert that can be washed for maximum hygiene.
+- **LINED BASKET** The basket is neatly lined with a cover and one-piece insert that can be washed for maximum hygiene.
 
 ### Our Rating For This Product
 
@@ -103,7 +103,7 @@ Browse the very **best Cute Moses Baskets** from all around the internet in one 
 
 | ✅  Pros | ❌ Cons |
 |-|-|
-| 👉 Stylish Design |👉 More Pricy than other moses baskets   |
+| 👉 Stylish Design |👉 More expensive than other moses baskets   |
 | 👉 Mobile, wheeled design |👉   |
 | 👉 Good size |👉   |
 
@@ -111,19 +111,20 @@ Browse the very **best Cute Moses Baskets** from all around the internet in one 
 
 ## Kinder Valley Pink Dimple Moses Basket
 
-[![kinder-valley-pink-dimple-moses-basket](<https://cache.ndnb.live/84b8e0f44951d261f1495dce87308b9ddb5bcc6e/3591bb50-5c34-11eb-8832-4706e42e66a2.jpeg>)](<https://www.amazon.co.uk/Dimple-Moses-Basket-Dressings-included/dp/B019NF4U4E/?tag=cutemosesbaskets-21>)
+[![kinder-valley-pink-dimple-moses-basket](<https://images-na.ssl-images-amazon.com/images/I/81xR%2BBTL1KL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Dimple-Moses-Basket-Dressings-included/dp/B019NF4U4E/?tag=cutemosesbaskets-21>)
 
 [![kinder-valley-pink-dimple-moses-basket](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Dimple-Moses-Basket-Dressings-included/dp/B019NF4U4E/?tag=cutemosesbaskets-21>)
 
 ### Product Description
 
-your childs safety first these children valley bedding pool meets all the necessary steps to british standards and reach compliant bed pool adapted newborns and is back to sleep safely at night it is recommended by doctors that your baby sleeps in a crib or cot in the same room with you to the first six months this product has the quality of our gold standard the complete package is verified children valley basin of this bed is the perfect bed for your little booties on 1 september each bedding includes a body wrap cap padded quilted lining and padded for comfort and support the system consists of our dimpled soft tissue is ideal for sensitive skin suitable for most palm trees and pastures moses baskets complete warranty this is valid for 6 months from the date of purchase for the duration of use of the product so that certainly may be will take that which is not not renew the warranty claims and is only with the original input to keep it safe make sure you are covered the guarantee also covers scratches shock and tears when the first in the 14 days reported of receipt of goods to ensure that you are satisfied with the product as are easy of use this bedpan can be applied his bassinet in a few simple steps a united eleven of the visor is adjustable and the other the soft lining around the basket tighten the closure on the side or and the body comfort covered to ensure the covers can be hidden ideal to create a comfortable space for his precious little sleep industry experts one of the most reliable international brand with over 30 years experience in the field recognizes the children valley the importance of its customers and is proud to produce it and deliver the best products affordable prices you rigorous testing methods and materials are especially safe and comfortable selected for you and your baby his unwavering commitment to product innovation has helped cement his status as a true market leader
+This Kinder Valley Moses Basket Bedding Set is the perfect accessory for your basket and will send your little one off to sleep in no time. Using luxury dimple fabric which is perfect for delicate skin, this moses basket bedding set includes a hood, body, quilt and padded liner. Once attached the hood is adjustable using the fasteners on either side, the padded liner surrounds the basket and is covered by the body to ensure extra comfort perfect to create a cosy sleeping space for your precious little one. This bedding set is easily removed and is machine washable in case of any accidents. Basket not included.
+
 
 ### Our Rating For This Product
 
 4.7 out of 5 stars
 
-⭐⭐⭐⭐⭐
+⭐⭐⭐⭐
 
 ### Technical Details
 
