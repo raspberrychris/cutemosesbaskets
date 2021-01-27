@@ -2389,7 +2389,7 @@ a.tabnav-extra:hover{
 }
 .UnderlineNav--right .UnderlineNav-item{
 	margin-right:0;
-	margin-left:160px
+	margin-left:16px
 }
 .UnderlineNav--right .UnderlineNav-actions{
 	flex:1 1 auto
@@ -2402,7 +2402,7 @@ a.tabnav-extra:hover{
 	display:block
 }
 .UnderlineNav-octicon{
-	color:#959da5
+	color:#e08de3
 }
 .UnderlineNav-container{
 	display:flex;
