@@ -29,7 +29,6 @@ useTwitterCard = true
 # Use MathJax.js. Disabling site-wide and you still can enable in indivisual pages
 math = true
 
-shareTo = ["Twitter", "Hatena", "Facebook", "Pocket"]
 showFooterCredits = true
 
 sectionPagesMenu = "main"
