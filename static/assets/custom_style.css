@@ -15,7 +15,7 @@ img[src*='#center'] {
 }
 
 .social-share ul li p {
-	display: none;
+	display: block;
 }
 
 .social-share .share-icons li {
