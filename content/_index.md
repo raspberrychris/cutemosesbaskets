@@ -7,9 +7,11 @@ weight: 1
 canonicalUrl: “/"
 ---
 
-Welcome to [Cutemosesbaskets.com](https://Cutemosesbaskets.com) the top place for soon-to-be parents to find your baby a **moses basket**! **Cute Moses Baskets** is an independent expert UK based buying guide to find the best moses baskets for your newborn child.  We have reviewed some of the top moses baskets for your newborn baby.
+Welcome to [Cutemosesbaskets.com](https://Cutemosesbaskets.com) the top place for soon-to-be parents to find your baby a **moses basket**! **Cute Moses Baskets** is an independent expert UK based buying guide to find the best moses baskets for your newborn child.  We have reviewed some of the **best moses baskets** and bedding for your newborn baby.
 
 ## Considering buying a Moses Basket?  Read our buying guide to choose the perfect moses basket for your little one.
+
+A traditional **Moses basket** makes it easy to keep your new born baby by your side. Moses Baskets are often wicker baskets that have handles that you can take your baby with you on a quick errand. Most of our products come with rocking stands to gently soothe your baby to sleep. There's also the option to buy a special stand that can accommodate any size of Moses basket. These separate stands are useful if you travel often with the baby. You can keep the matching Moses basket stand in the nursery and put the more portable spare in the boot of your car.
 
 ![moses-basket-baby](<https://images.unsplash.com/photo-1601168313753-6797eabb6550?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80>)
 
@@ -109,7 +111,7 @@ Browse the very **best Cute Moses Baskets** from all around the internet in one 
 
 ---
 
-## Kinder Valley Pink Dimple Moses Basket
+## Kinder Valley Pink Dimple Moses Basket Bedding Set (Basket NOT included)
 
 [![kinder-valley-pink-dimple-moses-basket](<https://images-na.ssl-images-amazon.com/images/I/81xR%2BBTL1KL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Dimple-Moses-Basket-Dressings-included/dp/B019NF4U4E/?tag=cutemosesbaskets-21>)
 
@@ -117,7 +119,13 @@ Browse the very **best Cute Moses Baskets** from all around the internet in one 
 
 ### Product Description
 
-This Kinder Valley Moses Basket Bedding Set is the perfect accessory for your basket and will send your little one off to sleep in no time. Using luxury dimple fabric which is perfect for delicate skin, this moses basket bedding set includes a hood, body, quilt and padded liner. Once attached the hood is adjustable using the fasteners on either side, the padded liner surrounds the basket and is covered by the body to ensure extra comfort perfect to create a cosy sleeping space for your precious little one. This bedding set is easily removed and is machine washable in case of any accidents. Basket not included.
+- This Kinder Valley Moses Basket Bedding Set is the perfect accessory for your basket and will send your little one off to sleep in no time.
+
+- Using luxury dimple fabric which is perfect for delicate skin, this moses basket bedding set includes a hood, body, quilt and padded liner.
+
+- Once attached the hood is adjustable using the fasteners on either side, the padded liner surrounds the basket and is covered by the body to ensure extra comfort perfect to create a cosy sleeping space for your precious little one.
+
+- This bedding set is easily removed and is machine washable in case of any accidents. Basket not included.
 
 
 ### Our Rating For This Product
