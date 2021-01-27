@@ -20,7 +20,6 @@ shareTo = ["Twitter", "Hatena", "Facebook", "Pocket"]
 # You may disable copyright sentence by setting this to false.
 showFooterCredits = true
 
-[params]
 description = "Describe what your web page is about"
 twitter = "your_twitter_id"
 # You can use favicon by adding `favicon-64.png` to `static` directory.
