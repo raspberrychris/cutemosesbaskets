@@ -21,7 +21,7 @@ shareTo = ["Twitter", "Hatena", "Facebook", "Pocket"]
 showFooterCredits = true
 
 description = "Describe what your web page is about"
-twitter = "your_twitter_id"
+twitter = "@test"
 # You can use favicon by adding `favicon-64.png` to `static` directory.
 # You can also add `apple-touch-icon.png` and `pinned-icon.svg`.
 useIcon = true
