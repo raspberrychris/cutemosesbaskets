@@ -30,3 +30,5 @@ useTwitterCard = true
 math = true
 
 sectionPagesMenu = "main"
+
+social__link = "https://twitter.com"
