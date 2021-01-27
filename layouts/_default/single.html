@@ -7,6 +7,9 @@
 {{ define "main" }}
 <!-- Title -->
 {{ partial "breadcrumbs.html" . }}
+{{ $related := .Site.RegularPages.Related . }}
+
+
 <div class="Subhead">
   <div class="Subhead-heading">
     <div class="h1 mt-3 mb-1">{{ .Title }}</div>
