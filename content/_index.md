@@ -1,8 +1,8 @@
 ---
 title: Welcome to Cutemosesbaskets.com!
 type: top
-toc: true
-menu:
+toc: false
+menu: main
 weight: 1
 canonicalUrl: “/"
 ---
