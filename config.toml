@@ -32,3 +32,5 @@ math = true
 
 shareTo = ["Twitter", "Hatena", "Facebook", "Pocket"]
 showFooterCredits = true
+
+sectionPagesMenu = "main"
