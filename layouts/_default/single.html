@@ -44,6 +44,7 @@
 
 
 {{ define "side" }}
+  {{ partial "side.taxonomy.html" . }}
   {{ if and (gt .WordCount 0 ) (default true .Params.toc) }}
     <div id="toc" class="Box Box--blue mb-3">
       <b>{{ .Title }}</b>
