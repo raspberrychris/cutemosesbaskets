@@ -2,12 +2,12 @@
 title: Welcome to Cutemosesbaskets.com!
 type: top
 toc: true
-menu: 
+menu:
 weight: 1
 canonicalUrl: “/"
 ---
 
-{{< iframe "https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ez&f=ifr&linkID=feee9316a65aab1837768cf75aa16878&t=kidsteepees-21&tracking_id=cutemosesbaskets-21" >}}
+{{< iframe "URL HERE" >}}
 
 Welcome to [Cutemosesbaskets.com](https://Cutemosesbaskets.com) the top place for soon-to-be parents to find your baby a **moses basket**! **Cute Moses Baskets** is an independent expert UK based buying guide to find the best moses baskets for your newborn child.  We have reviewed some of the **best moses baskets** and bedding for your newborn baby.
 

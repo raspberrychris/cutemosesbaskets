@@ -32,3 +32,11 @@ math = true
 sectionPagesMenu = "main"
 
 social__link = "https://twitter.com"
+
+google_fonts = [
+    ["Fira Code", "400, 700"],
+    ["Open Sans", "400, 400i, 700, 700i"]
+  ]
+
+heading_font = "Fira Code"
+body_font = "Open Sans"
