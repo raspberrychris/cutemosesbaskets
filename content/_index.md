@@ -195,8 +195,7 @@ Browse the very **best Cute Moses Baskets** from all around the internet in one 
 
 ---
 
-
-## Shnuggle Dreami Moses Basket curve
+## Shnuggle Dreami Moses Basket Curve Review
 
 [![schnuggle-dreami-moses-basket-curve](<https://images-na.ssl-images-amazon.com/images/I/71FQAsnCZ9L._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Shnuggle-Dreami-Moses-Basket-Rocking/dp/B016APJP4A/?tag=cutemosesbaskets-21>)
 
@@ -205,9 +204,13 @@ Browse the very **best Cute Moses Baskets** from all around the internet in one 
 #### Product Description
 
 - **GREAT DESIGN** The perfect Moses Basket and Stand to keep baby close, day & night.
+
 - **BREATHABLE** 3D Mesh Covers and ventilated base for excellent airflow
+
 - **FOLDS UP**for easy storage and travel
+
 - **EASY TO CLEAN** Easy-to-clean and hypoallergenic base
+
 - **LARGE** Larger than standard Moses Baskets for longer use
 
 #### Our Rating For This Product
@@ -239,46 +242,55 @@ Update: I was really happy with the product but my baby outgrown it when she was
 
 | ✅  Pros | ❌ Cons |
 |-|-|
-| 👉  |👉   |
-| 👉  |👉   |
-| 👉  |👉   |
+| 👉 Excellent quality materials  |👉 Some Customers have retuned the product  |
+| 👉 Well packaged |👉 More expensive than other baskets  |
+| 👉 Lightweight |👉 Some Customers have reported it being hard to assemble  |
 
 ---
 
-## The Little Green Sheep Natural Knitted
+## The Little Green Sheep Natural Knitted Review (BEST BASKET FOR NATURAL DESIGN - NO CHEMICALS)
 
-[![null](<https://images-eu.ssl-images-amazon.com/images/I/61Fg5b%2B2BmL.__AC_SY300_QL70_ML2_.jpg>)](<https://www.amazon.co.uk/Little-Green-Sheep-Natural-Mattress/dp/B07K7ZCPBH/?tag=cutemosesbaskets-21>)
+[![little-green-sheep-natural-knitted](<https://images-eu.ssl-images-amazon.com/images/I/61Fg5b%2B2BmL.__AC_SY300_QL70_ML2_.jpg>)](<https://www.amazon.co.uk/Little-Green-Sheep-Natural-Mattress/dp/B07K7ZCPBH/?tag=cutemosesbaskets-21>)
 
-[![null](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Little-Green-Sheep-Natural-Mattress/dp/B07K7ZCPBH/?tag=cutemosesbaskets-21>)
+[![little-green-sheep-natural-knitted](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Little-Green-Sheep-Natural-Mattress/dp/B07K7ZCPBH/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
-set the mood for the most impressive natural sleep foams basket comes organic point of the small sheep green basket with a strong natural palm leaves and a sheep free small green certified organic cotton chemical mattressincludes linersuitable beautiful spot birth to about 3 4 dimensions l84 x w44cm
+- **HANDMADE!** Each Little Green Sheep moses basket mattress is handmade using the best natural ingredients, so you can rest easy knowing your baby is sleeping in a safe and healthy environment away from chemicals. Coconut fibres form a supportive core, acting as thousands of tiny springs and reducing pressure points.
+
+- **HYPO-ALLERGENIC & ORGANIC** With hypo-allergenic and temperature regulating properties, the comfy layers of organic sheep’s wool remove the need for chemical fire retardant sprays due to its naturally fire-proofing properties
+
+- **EASY CLEAN** Non removable outer cover, sponge clean only. Always use with a waterproof mattress protector
 
 #### Our Rating For This Product
 
 4.7 out of 5 stars
 
-⭐⭐⭐⭐⭐
+⭐⭐⭐⭐
 
 #### Technical Details
 
+| Model Number       | FN010B                       |
+|--------------------|------------------------------|
+| Product Dimensions | 76 x 30 x 24 cm; 2 Kilograms |
+| Item model number  | FN010B                       |
+| Target gender      | Unisex                       |
+| Batteries required | No                           |
+| Item Weight        | 2 kg                         |
 
 #### Customers Say about this product
 
->  
+>  "Lovely Moses basket, easy to move around the house and to transport when we are going to visit family. Great quality and colour."
 
-
+![natural-organic-moses-basket](https://m.media-amazon.com/images/S/aplus-media/vc/9beb87ae-8b7b-48bd-85e8-8c52ac82ed8a.__CR0,814,2048,633_PT0_SX970_V1___.jpg)
 
 #### Pros and Cons
 
 | ✅  Pros | ❌ Cons |
 |-|-|
-| 👉  |👉   |
-| 👉  |👉   |
-| 👉  |👉   |
-
-
+| 👉 Beautiful Handmade Design |👉 1 customer had quality issue with the straps  |
+| 👉 Natural Sleeping Environment for your newborn |👉 -  |
+| 👉 Comfortable |👉 -  |
 
 ---
 
