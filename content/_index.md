@@ -373,48 +373,65 @@ this item74 x 28cmsspunbond fabric mattresses also available for moonlight baske
 
 ## Kinder Valley Waffle Moses Basket (White)
 
-[![kinder-valley-waffle-moses-basket-white](<https://cache.ndnb.live/391e76a316d2378a14f5bff3b171e3862379129d/395281f0-5c36-11eb-843c-1d48ef5e706a.jpeg>)](<https://www.amazon.co.uk/Kinder-Valley-Waffle-Moses-Basket/dp/B00OEAWVDG/?tag=cutemosesbaskets-21>)
+[![kinder-valley-waffle-moses-basket-white](<https://images-na.ssl-images-amazon.com/images/I/91aWu3PwTcL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Kinder-Valley-Waffle-Moses-Basket/dp/B00OEAWVDG/?tag=cutemosesbaskets-21>)
 
 [![kinder-valley-waffle-moses-basket-white](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Kinder-Valley-Waffle-Moses-Basket/dp/B00OEAWVDG/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
-suitable from birth to 6 months this bassinet using poly cotton easy maintenance with a mattress of soft padding surroundthe is the air movement waterproof and breathable cap light engine allowing and perfect dissipationadjustable to create a comfortable place to sleep for very little one comfort and a good balance between style sleeping the basin will certainly ensure that you and your bed babythe a perfect start for your baby pool is
+- Suitable from newborn to 6 months, this Moses Basket uses Easy-care Poly Cotton with a soft padding surround
+
+- The mattress is water resistant and breathable allowing easy air movement and heat dissipation
+Adjustable hood perfect to create a cosy sleeping space for your precious little one
+
+- A good balance between comfort and style, the Moses Basket will ensure safe and sound sleeping for you and your baby
 
 #### Our Rating For This Product
 
 4.6 out of 5 stars
 
-⭐⭐⭐⭐⭐
+⭐⭐⭐⭐
 
 #### Technical Details
 
+| Model Number       | WHITEWAFPALM                   |
+|--------------------|--------------------------------|
+| Product Dimensions | 86 x 47 x 30 cm; 2.3 Kilograms |
+| Item model number  | WHITEWAFPALM                   |
+| Material Type      | Cotton                         |
+| Item Weight        | 2.3 kg                         |
 
 #### Customers Say about this product
 
->  
-
-
+>  "I really love this Moses basket I had bought a more expensive one and my little one just wouldn’t settle in it, bought this to go on the stand I already had and my little boy loved it, mattress is rather thin but it’s very cosy and never bothered my little boy, it’s also nice and dark in the Moses basket with the hood up for little ones to sleep"
 
 #### Pros and Cons
 
 | ✅  Pros | ❌ Cons |
 |-|-|
-| 👉  |👉   |
-| 👉  |👉   |
-| 👉  |👉   |
+| 👉 Beautiful clean design  |👉 Creaky Basket can wake some newborns  |
+| 👉 Classic Design |👉 Mattress is a bit thin  |
+| 👉 Soft Materials |👉 Not straight forward to wash  |
 
 ---
 
 ## Mcc Full Set Natural Palm Moses
 
-[![mcc-full-set-natural-palm-moses](<https://cache.ndnb.live/149037e00fb3879cdd2980e3f61e2f6ba922ce76/432264a0-5c3d-11eb-b6d0-a999bf5e59ff.jpeg>)](<https://www.amazon.co.uk/Natural-Moses-Basket-Mattress-Rocking/dp/B00JGZAGJK/?tag=cutemosesbaskets-21>)
+[![mcc-full-set-natural-palm-moses](<https://images-na.ssl-images-amazon.com/images/I/71oeCfAzeLL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Natural-Moses-Basket-Mattress-Rocking/dp/B00JGZAGJK/?tag=cutemosesbaskets-21>)
 
 [![mcc-full-set-natural-palm-moses](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Natural-Moses-Basket-Mattress-Rocking/dp/B00JGZAGJK/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
-natural palm classic bassinet with matching bag and thick padding in inside hand substances foot tec upholstery square foot hypoallergenic mattress manufacturer british origin bs 7177 2008 a lower risk for domestic use made of authentic swing manufacturer curved british media superb preparation quality is movement a head to toe smooth and very sturdy our swing position holder folding farm cheap contrary and is resilient buy with confidence
+- **CLASSIC DESIGN** Classic natural palm moses basket with matching handles and a thicker padding on the inside.
+
+- **HAND WOVEN** Hand woven Space-Tec Padding Quilted Hypo-Allergenic Feet to Foot mattress
+
+- **GREAT QUALITY** Superb quality dressing made from Genuine UK manufacturer.
+
+- **ROCKING STAND** Curved rocking stand gives a gentle "head to toe" motion, and is very sturdy.
+
+- **STURDY** Our rocking stands are strong and sturdy unlike the cheap folding stand. Buy with confidence.
 
 #### Our Rating For This Product
 
@@ -424,12 +441,15 @@ natural palm classic bassinet with matching bag and thick padding in inside hand
 
 #### Technical Details
 
+| Product Dimensions | 84 x 40 x 30 cm; 5.38 Kilograms |
+|--------------------|---------------------------------|
+| Material Type      | Leather                         |
+| Batteries required | No                              |
+| Item Weight        | 5.38 kg                         |
 
 #### Customers Say about this product
 
->  
-
-
+>  "The picture does not give justice to this wonderful moses basket. This has been the single most practical baby item in our household. It rocks, it is easy to move around and it is very sturdy. Unfortunately, our baby son has outgrown it now. Yet, we still put him in it from time to time when we are moving him from one place to another. The basket arrived from France and we loved it from the first moment it arrived."
 
 #### Pros and Cons
 
@@ -573,10 +593,7 @@ made from 100 cotton fabric and a super soft jersey waffles and with a complete 
 | 👉  |👉   |
 | 👉  |👉   |
 
-
-
 ---
-
 
 ## Kinder Valley White Waffle Grey Wicker
 
