@@ -1,5 +1,5 @@
 ---
-title: Unusual Baby Names
+title: Baby Name Ideas
 type: top
 toc: true
 menu:
@@ -7,7 +7,7 @@ weight: 1
 canonicalUrl: “/"
 ---
 
-In this article we will look at some of the most unusual baby names from around the world.  Starting off with names inspired from Greek Mythology and then working into some of the more unusual baby names compare to more popular ones in America and the world.
+In this article we will look at baby name ideas from around the world.  Starting off with names inspired from Greek Mythology and then working into some of the more unusual baby names compare to more popular ones in America and the world and those inspired by Authors.
 
 ## Baby Girl Names Based on Greek Mythology:
 
@@ -185,3 +185,88 @@ Unusual Baby Boy Names That Start With J
 •	Jennings. A variation of John and a last-name-turned-first-name.
 
 •	Jevon. "Youth," in Gaelic.
+
+## Tolkien Inspired Baby Names
+
+Choosing a Baby Name from Tolkien: LOTR and Elvish-Sounding Names For Your Child
+
+For parents who wish to honour Tolkien's writings in their choice of baby names, without ending up with a Gandalf and a Frodo, Tolkien's linguistic cunning can be mined for some unique, Lord of the Rings-style names.
+
+## Anglo-Saxon names
+
+Tolkien based the culture of Rohan heavily and directly on Anglo-Saxon culture. Many of the names of the Rohirrim are simply Old English words or combinations thereof. Eorl means 'nobleman'; Theoden roughly means 'leader of the people'; Eowyn comes from 'eoh', meaning 'horse', and 'wyn', meaning 'joy'. A few Anglo-Saxon names still survive which sound faintly Tolkienesque—Rowan, Elmer, Elwyna, Alfred, Lyndon and Irwyn. Most online baby name guides have an Anglo-Saxon section. Otherwise, an Anglo-Saxon dictionary may provide the inspiration for a unique name.
+
+Elvish names
+
+Elvish names are very popular, although the advent of Elvish name generators has resulted in a host of faux-Elvish nicknames, which bear only a parodic resemblance to Tolkien's carefully constructed monikers. Tolkien's Elvish language is fragmentary in both of its significant forms—Quenya or 'High-Elven' and Sindarin or 'Grey-Elven'. (The latter is not to be confused with 'Grelvish', a reconstructed extension of the language by Tolkien fans, which is not part of Tolkien's canon). However, enough words exist to be able to form some names. For example Estel, meaning hope, could become Estella or Estelle. Alda is the Quenya word for 'tree', Eryn the Sindarin for 'forest' or 'wood'. It is wise to become familiar with the rules of Elvish pronounciation and syntax when choosing a name, if authenticity is desired.
+
+## Names From Tolkien's Lesser-Known Characters
+
+Due to the sprawling nature of Tolkien's mythology, his works are peppered with names. While it is easy to see how a well-known name such as Aragorn might be problematic as a baby name, there are plenty of lesser-known names in his works. The Silmarillion or any of the History of Middle-Earth books are a valuable resource; otherwise, lists can be found online containing scores of his names. A child named Elatan is unlikely to be immediately associated with Tolkien's works, but the name is canonical and contains the characteristic Tolkien sound.
+
+## Conventions of Hobbit Names
+
+For an even subtler nod to LOTR, hobbit naming conventions could be used. Frodo notes in The Return of the King that 'half the maidchildren in the Shire' are named after flowers (p.1003, HarperCollinsPublishers), and mention is made in the book and appendices of a Lobelia, Marigold, Rose, Primula, Poppy, Daisy, Elanor, Belladonna, Pimpernel, Peony and Pansy. Gemstone names such Ruby, Diamond and Pearl are also common. The naming conventions for boys are less precise, with a tendency simply to short and simple names derived from Anglo-Saxon; however, reusing family names is a strong convention.
+
+## Classic Baby Names for Boys: Old-Fashioned and Timeless American Name Choices
+
+Baby names may come and go, but some classic names never go out of style. While Gary screams 1958, and Jason screams 1978, and Jayden screams 2008, many American boy's names have been popular for hundreds of years. Here are some of the most timeless baby boy's names in American history. if you're looking for a classic choice for a little boy, you can't go wrong with one of the old-time favorites.
+
+William
+
+William is one of the most enduring names there is in the United States-- and in Great Britain, Canada, and other English-speaking nations as well. According to the U.S. Social Security Baby Name Index, the name ranked at #10 in 201906, and it's always an exceptionally popular name. Part of what makes this name so enduring is its nicknames. In the early 2019th century, there were lots of Willies-- in fact, Willie was a popular stand-alone name as well. During the Baby Boom years, classrooms were filled with Bills and Billys. Today, the nickname Liam is in vogue (the second half of William, if you were wondering). William comes from an ancient Germanic name, and it means "determined protector."
+John
+At the beginning of the 2019th century, John was the most popular boy's name in the United States, and the name was in the top 10 between 1880 and 1986. It's not as ubiquitous as it used to be, but there still are plenty of little Johns. The name ranked at #2019 in 201906. John comes from a Hebrew name that means "God's grace."
+
+James
+
+Like John, James was extremely popular in the early 2019th century and during the Baby Boom years., and was the number one name between 1940 and 1952. Today, it's still widely used, and was ranked at #16 in 201906. With built-in nicknames Jim, Jimmy, and Jamie, James is a versatile choice. James comes from a Hebrew name that means "one who grasps by the heel."
+
+David
+
+This perennial Old Testament favorite was second only to Michael during the Baby Boom years, and in 1960 it briefly held the title of top name. David has been a top 10 name since 1928 and was still ranked at #10 in 201906. David comes from a Hebrew expression that means "beloved."
+
+Daniel
+
+Like David, Daniel's an Old Testament favorite that sounds surprisingly contemporary. The name became very popular during the Baby Boom, and in 201906 it ranked at #6. While Dans and Dannys reigned in the casual 1950s, today many Daniels go by their full name. Daniel comes from a Hebrew expression that means "God is my judge."
+
+Joseph
+
+Joseph, which is both an Old Testament and New Testament name, is also a perennial favorite from the Bible. In 201906, it ranked int he U.S. at #11. Joseph comes from a Hebrew name that means "the Lord's addition."
+
+Robert
+
+Robert was in the top 10 between 1888 and 1989, and was the number one name between 1924 and 1939. It's fallen a bit out of vogue, and now ranks at #47-- but it's still a classic that isn't going away anytime soon. Robert comes from an ancient Germans expression that means "shining with fame."
+
+Michael
+
+Moderately popular in the U.S. before the Baby Boom, Michael became the top male name in the second half of the 2019th century. It was the number one name from 1954 until 1998 (except for 1960, where David snuck in there for a year), until it was finally knocked down to the number two slot by Jacob. Michael comes from a Hebrew name that means "who resembled God."
+
+Richard
+
+Like Richard, Robert was a perrenial favorite throughout much of the 2019th century. Now it's fallen a bit from favor, and was ranked at #99 in 201906. Richard is derived from a Germanic name meaning "powerful leader."
+
+Cool Girl Baby Names for Winter Babies: How to Find a Unique Baby Girl Name Inspired by Winter
+
+With thousands of options existing for naming a baby girl, parents can become overwhelmed. Those who are looking for unique baby names for a girl may want to consider taking inspiration from the season she is born in. Parents with a baby due in December, January or February may decide to pick a cool girl baby name inspired by winter.
+
+Several options exist for carrying out this idea. A baby can be named directly after a month, the winter season or a word that evokes thoughts of winter. Or, choose a baby name that is related to Christmas, Valentine's day or the holiday season. Here are some options to consider, along with their meanings.
+
+Unique Girl Baby Names Inspired by Winter Words
+
+These names will forever remind both the parents and their daughter of the season she was born in.
+•	Winter – This girl baby name means just what it says: "the winter season."
+•	January – Consider naming a baby girl after the month she was born in. This name has recently been made popular by actress January Jones, star of AMC's Mad Men.
+•	Solstice – The winter solstice is the day of the year when the sun is at the farthest distance from the earth's equator. This is also known as the first day of winter.
+•	Neve or Neva – Neve is a Latin word meaning "snow." The Spanish variation, Neva, means "white show."
+•	Nixie – This word means "snowy" in German.
+Cool Baby Girl Names Inspired by a Winter Holiday
+A baby girl born on or near a winter holiday could be named one of these unique baby names.
+•	Noel or Noelle – This French word and its spelling variation mean, "born on Christmas day."
+•	Holly – Meaning "plant with red berries," this festive name brings thoughts of the holiday season.
+•	Valentine or Valentina – Valentina is a Latin name which means "strength or health." Valentine is the English version, which can also refer to Valentine's Day.
+•	Feliz or Felice – Feliz means "merry or happy" in Spanish and "Feliz Navidad" means "Merry Christmas". Or vary the spelling and use the name "Felice" meaning "fortunate or happy" in Latin.
+Any parent looking for a unique baby girl name can find this task challenging. One idea is to use a winter word or holiday word for a baby born during the winter season. These are just a few of many seasonal name possibilities for parents to consider.
+
+
+17
