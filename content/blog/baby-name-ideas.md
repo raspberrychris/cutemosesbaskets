@@ -269,4 +269,175 @@ A baby girl born on or near a winter holiday could be named one of these unique 
 Any parent looking for a unique baby girl name can find this task challenging. One idea is to use a winter word or holiday word for a baby born during the winter season. These are just a few of many seasonal name possibilities for parents to consider.
 
 
-17
+Unique Baby Names With Nature Meanings for Girls
+Naturally-inspired names come from a wide variety of sources such as rocks and gems, flowers and trees, birds and other animals, mountains, rivers, and place names, weather, and colors. Some cultures, such as Asian and Native American, carry long traditions of giving names inspired by nature.
+Some names with nature-based meanings have become so common that the meanings have been commonly forgotten. The name Susan, for example comes from a Hebrew word for "lily" or "rose," and Tamara comes from a Russian word for "palm tree."
+Baby Names From Flowers, Plants, Trees, Rocks, Gems, and Minerals
+Some commonly given flower and plant names for girls, in alphabetical order, include Daisy, Heather, Iris, Ivy, Jasmine, Lilac, Lilah, Lily, Olivia, Rose, Sage, Sorrel, and Violet. Less common flower and plant names include Amaranta, Azelia, Azelie, Briony, Calantha, Calla, Fern, Ginger, Juniper, Magnolia, Oma, Tigerlily, and Zinnia.
+Commonly given tree names include Ashley, Ashlynn, Hazel, Holly, Laura, Laurel, Lauren, Tamara (Hebrew "palm tree"), and Willow. Less common tree names for girls include Alaqua ("sweet gum tree"), Apple, Aisley, Ashla, Ashton, Athdara (Irish "from the oak ford"), Athilda (English "at the elder tree"), Byhalia (Choctaw "white oak standing"), Cherry, Daliah, Elswyth (Anglo-Saxon "elf from the willows"), Ilana (Hebrew "tree"), and Hollis ("holly trees").
+
+
+
+Baby names from rocks, gems, and minerals include Agate, Ambra, Amber, Azure, Cordelia, Crystal, Diamanta, Ebony, Esmeralda, Gemma, Greta, Gretel, Iony, Jada, Jetta, Jin, Kenya, Kiri, Mai, Mairead, Megan, Opal, Panna, Pearl, Reena, Ruby, Ruri, Safira, Topaz, and Ula.
+Top Nature-Inspired Popular Baby Names for Girls
+Among the top baby names of 2020 – as listed in "Popular Baby Names" on the U.S. Social Security Administration website – the following names, in order of popularity, have nature-inspired meanings.
+•	Olivia, meaning "olive," comes from Latin
+•	Chloe, meaning "green shoot" from Greek
+•	Lily, a flowering plant, from Latin
+•	Samantha, meaning "flower" from Greek
+•	Alyssa, variant of Alice, influenced by "Alyssum flower," from Greek
+•	Ashley, derived from a place name meaning "ash tree clearing," from Old English
+•	Brianna, possibly related to bre, meaning "hill," from Old Celtic
+•	Hailey, derived from a town name meaning "hay clearing," from Old English
+•	Kayla, a variant of Kelila meaning "crown of laurel," from Hebrew
+•	Lillian, based on a flowering plant name, from Latin
+•	Lauren, a variant of Laurence, based on a city name meaning "laurel," from Latin
+•	Savannah, meaning "large grassy plain," from Taíno Maipurean
+•	Riley, derived from a place name meaning "rye clearing," from Old English
+•	Jasmine, a fragrant flowering plant, from Persian
+•	Morgan, meaning "sea circle," from Old Welsh
+•	Brooklyn, meaning "broken land," from Dutch
+•	Sydney, meaning "wide island," from Old English
+Nature-Inspired Celebrity Baby Names for Girls
+Many celebrities have also chosen nature names for their daughters. Here's a look at some of them.
+•	Apple, the name given to the daughter of Gwyneth Paltrow and Chris Martin
+•	Dandelion, the name given to the daughter of Keith Richards
+•	Hazel, the name given to the daughter of Julia Roberts
+•	Reignbeau, the name given to the daughter of Ving Rhames and Deborah Reed
+•	Sunday Rose, the name given to the daughter of Nicole Kidman and Keith Urban
+•	Peaches Honeyblossom Michelle Charlotte Angel Vanessa and Heavenly Hiraani Tigerlily, names given to two daughters of Paula Yates
+•	Chastity Sun, the name given to the daughter of Cher
+•	Moon Unit, the name given to the daughter of Frank Zappa
+Nature names vary from popular and relatively common (i.e., Olivia, Lily) to unusual (i.e., Alaqua, Elswyth). Baby names inspired by nature can come in the form of English words describing natural objects and phenomena (i.e., Cloud, Misty), as well as words in other languages which have nature-based meanings. See also Nature Names for Boys.
+
+## Twilight Baby Names and Their Meanings
+
+When choosing a baby name, many parents are drawn to names that have meaning to them. Favorite stories, films or television shows often influence name trends.
+
+## Twilight-Inspired Baby Names Grow in Popularity
+
+An example is The Twilight Saga, which is having a big influence on the name game in America. According to the US Social Security Administration’s list of baby names, Cullen (surname of vampire Edward) is the fastest rising boy’s name, moving up almost 300 places to 485, while his love interest Isabella knocked Emma off the number one position in the girl’s chart.
+
+The shortened version of her name, Bella, rose to number 58. There was bad news for Team Edward fans, however, as Edward’s rival Jacob was revealed as the top boy’s name, while Edward only reached 137.
+
+## Twilight Baby Names for Boys
+
+Edward – The main vampire in The Twilight Saga is Edward Cullen. The name comes from Old English and means "wealth protector."
+Jacob – A werewolf from the Quileute tribe, Jacob Black is Bella’s best friend. Another Hebrew name, meaning "supplanter" or "held by the heel", Jacob is a popular Jewish name.
+Cullen – Although this is Edward’s surname in The Twilight Saga, it is also a first name, deriving from an Irish Gaelic expression meaning "chieftain" or, appropriately, "handsome."
+Carlisle – Doctor Carlisle Cullen is a vampire and the adoptive father of Edward. This unusual name is an English boy’s name meaning "fortress" or "from Carlisle/Isle of Carl."
+Emmett – Edward’s adopted vampire brother, Emmett Cullen is the partner of Rosalie. The name is Germanic and derives from the female name Emma. Its most common meaning is "universal" but can also mean "all-containing" and "strength."
+Jasper – Edward’s adopted vampire brother, Jasper Hale is the partner of Alice. This is a Persian name which means "treasure-spotter" or "treasurer". Jasper is also a form of precious stone.
+Charlie – Police Chief Charlie Swan is Bella’s father. Charlie is a nickname for Charles and is Germanic in origin, meaning "freeholder" or "free man." It can also be a nickname for the girl’s name Charlotte.
+Robert – Edward Cullen is played by Robert Pattinson in the Twilight films. It is an ancient Germanic name meaning, appropriately, "shining fame."
+Taylor – Jacob Black is played by Taylor Lautner in the Twilight films. Taylor can be a name for a boy or girl, and literally means "tailor". It derives from the Norman French word taillier, meaning "to cut."
+
+## Twilight Baby Names for Girls
+
+Bella or Isabella – Bella Swan is the main human character in Twilight, and is a shortened version of Isabella, which is said to be Hebrew in origin and means "my God is a vow." It is also thought to be sourced from the English name Elizabeth, which means "God’s promise." Isabella is also described as a Latin form of Isabel.
+Esme – Vampire Esme Cullen is Carlisle’s wife and adoptive mother to Edward. The name is French and means "loved" and "esteemed."
+Alice – Edward’s adopted vampire sister Alice Cullen is partner to Jasper. The name is Germanic and means "of noble kind." Its source is Alis, an Old French name meaning "exalted nature."
+
+Rosalie – Another of Edward’s adopted vampire sisters, Rosalie Hale is partner to Emmett. The name has its origins in Latin and means, unsurprisingly, "rose." It also derives from the Italian name Rosalia, an elaborated form of Rosa, and an ancient festival honoring fallen soldiers, marked by laying rose garlands.
+Renée – The dizzy Renée Dwyer is Bella’s mother. The name is of Latin origin, from Renata, and also French, meaning "reborn." It can be spelled with or without the accent.
+
+Renesmee – The half-vampire daughter of Edward and Bella is Renesmee.This is a fictitious name from the Twilight Saga, created by combining the names of Bella and Edward’s mothers, Renée and Esme. Her middle name is Carlie, a combination of Carlisle and Charlie.
+
+Kristen – Bella Swan is played by Kristen Stewart in the Twilight movies. This is a Latin name originating from Christiana, meaning "Christ’s follower".
+Other Baby Names Inspired by Twilight
+
+Whether parents are looking for something mainstream or more unusual in a name, here are some more suggestions for Twilight-inspired baby names!
+•	Victoria
+•	Laurent
+•	Sam
+•	Embry
+•	Quil
+•	Leah
+•	Seth
+•	Paul
+•	Jared
+•	Collin
+•	Jane
+•	Demetri
+•	Aro
+•	Marcus
+•	Caius
+•	Stefan
+•	James
+•	Billy
+•	Phil
+•	Jessica
+•	Angela
+•	Mike
+•	Eric
+•	Ben
+•	Lauren
+•	Tyler
+•	Brady
+•	Irina
+•	Carmen
+•	Alec
+•	Felix
+•	Tia
+•	Sarah
+•	Rachel
+•	Rebecca
+
+When choosing a baby name, remember that name that will need to last a lifetime, so opt for a name that is genuinely liked, not because it is part of a trend.
+
+## Trendy and Unique Unisex Baby Name Ideas
+
+While some parents may want to know the gender of their baby, others may want to be surprised. Finding out the gender of the baby on the day he or she is born can be a wonderful experience for some parents. One of the biggest challenges of not knowing the gender of the baby is choosing a name. Parents can choose names that they may give a girl or a boy, but they may want to choose baby name items for the nursery before the baby is delivered. Unisex baby names can solve this problem for parents who want to be surprised about the gender of their baby.
+
+## Trendy Unisex Baby Name Ideas
+
+Parents who are expecting surprise gender babies will be pleased to know that unisex baby names are very trendy right now. There are many popular and beautiful names which can be used for both boys and girls. Here are some unisex baby names that parents may want to take into consideration.
+
+•	Addison
+•	Alex
+•	Ashton
+•	Avery
+•	Bailey
+•	Bryce
+•	Cameron
+•	Carson
+•	Dakota
+•	Embry
+•	Hayden
+•	Jaden
+•	Jordan
+•	Keegan
+•	Mackenzie
+•	Madison
+•	Peyton
+•	Riley
+•	Sydney
+•	Taylor
+
+Unique Baby Names for Girls or Boys
+
+Some parents may not like the idea of giving their child a name that every other kid in his or her kindergarten class will share. The good news is that there are quite a few unique baby names which can be used for either girls or boys. Note that while some of these baby names are most commonly associated with one gender, they can be used for both. Here is a list of unique unisex baby name ideas.
+•	Adrian
+•	Andy
+•	Angel
+•	Ariel
+•	Blake
+•	Brody
+•	Colby
+•	Corbin
+•	Devin
+•	Dylan
+•	Jamie
+•	Julian
+•	Harlow
+•	Harper
+•	Ryan
+•	Shane
+•	Skylar
+•	Spencer
+
+## Choosing a Middle Name for a Unisex Baby Name
+
+Parents have two options when choosing a middle name to go with their baby’s unisex name. They can opt for another unisex name as a middle name or they can choose to wait until the baby is born to find out the gender before deciding on a middle name. Although some unisex names can sound great together, other names may be better suited with a middle name which is intended for boys or girls.
+
+There are many options for parents who wish to give their baby a unisex name. While there are such names that are very trendy right now, there are plenty of unique options for parents who want to find a name which can be used for both genders. Anyone who is planning to be surprised about their baby's gender may want to think about choosing a name which could be used for either boys or girls.
