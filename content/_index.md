@@ -455,39 +455,36 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 | ✅  Pros | ❌ Cons |
 |-|-|
-| 👉  |👉   |
-| 👉  |👉   |
-| 👉  |👉   |
-
-
+| 👉 Great Value |👉 Some customers have reported problems with the screws going through the basket.  |
+| 👉 Easy to put together |👉 Customers have reported that the rocking stand "hardly moves"   |
+| 👉 Easy to wash |👉 Hood Doesn't stay up very well   |
 
 ---
 
-
 ## Kinder Valley White 100% Cotton Waffle
 
-[![kinder-valley-white-100-cotton-white](<https://cache.ndnb.live/9d4e1b09664fa444c25832bf8fc98d393553c3ea/cf7aced0-5c3b-11eb-b86f-9d8429d135bc.jpeg>)](<https://www.amazon.co.uk/White-Waffle-Bedding-Basket-Included/dp/B07T6F74BP/?tag=cutemosesbaskets-21>)
+[![kinder-valley-white-100-cotton-white](<https://images-na.ssl-images-amazon.com/images/I/91yYDXfZYDL._AC_SX450_.jpg>)](<https://www.amazon.co.uk/White-Waffle-Bedding-Basket-Included/dp/B07T6F74BP/?tag=cutemosesbaskets-21>)
 
 [![kinder-valley-white-100-cotton-white](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/White-Waffle-Bedding-Basket-Included/dp/B07T6F74BP/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
-your childs safety first the valley children s pool are bedding pod all necessary measures to british standards and reach compliant bed pool adapted newborns and is back to sleep safely at night it is recommended by doctors that your baby sleeps in a crib or cot in the same room with you to the first six months this product was verified standard the complete package for the quality of our gold children valley basin pod this bed is the perfect bed for your little booties on 1 september each bedding includes a full wrap padding of the body and a double ceiling the set consists of 100 cotton waffle is made perfect for sensitive skin suitable for most of the wicker basket moses baskets complete warranty this is valid for 6 months from the date of purchase for the duration of use of the product so that you can be sure it will last which is not not renewed with warranty claims and apply only with the original receipt in order to keep them safe that you make fall the guarantee also covers scratches shock and tears when the first reported in the days after receipt of the goods 14 to ensure that you are satisfied with the product as are easy of use this can apply bed pool pod your pelvis in a few simple steps the whole body wraps padded and to ensure fabric style covered more comfort the covers can be hidden ideal to create a comfortable place to sleep for very little one industry experts an international brands trust with over 30 years of experience in the field recognizes children valle the importance of its customers and is proud to produce the best products at affordable prices and deliver you rigorous testing methods and materials are especially safe and comfortable selected for you and your baby his unwavering commitment to product innovation has helped cement his status as a true market leader
+- **EASY TO USE** Easy to Use: This Moses Basket Pod Bedding Set can be applied to your moses basket in a few simple steps. The full body surround is padded and is covered by the styled fabric to ensure extra comfort, the coverlet can be tucked in, perfect to create a cosy sleeping space for your precious little one.
+
+- **SAFETY FIRST** Your Childs Safety First: This Kinder Valley Moses Basket Pod Bedding Set conforms to all necessary British Standards and is REACH compliant.
+
+-**SAFE** The Moses Basket Bedding is suitable from new born and is safe for over night sleeping. It is recommended by health professionals that your baby should sleep in a Moses Basket or Cot in the same room as you for the first 6 months. This product has been quality checked to our Gold standard.
+
 
 #### Our Rating For This Product
 
 4.6 out of 5 stars
 
-⭐⭐⭐⭐⭐
-
-#### Technical Details
-
+⭐⭐⭐⭐
 
 #### Customers Say about this product
 
->  
-
-
+>  "Fits perfectly, ensure you wash as per instructions as it shrinks otherwise! Really nice set that looks lovely and is soft for baby! Bought 2 different (white and grey bobble) both really good quality and not too expensive!"
 
 #### Pros and Cons
 
@@ -497,10 +494,7 @@ your childs safety first the valley children s pool are bedding pod all necessar
 | 👉  |👉   |
 | 👉  |👉   |
 
-
-
 ---
-
 
 ## Clair De Lune Silver Lining Palm
 
