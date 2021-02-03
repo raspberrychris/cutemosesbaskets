@@ -528,17 +528,21 @@ made from 100 cotton fabric and a super soft jersey waffles and with a complete 
 
 #### Product Description
 
-Shnuggle Classic Moses Basket with stay up hood
-Hypoallergenic and easy to clean
-Super strong and long lasting
-Product dimensions 90 x 46 x 54 cm
-Designed and made in the UK
+- **CLASSIC DESIGN** Shnuggle Classic Moses Basket with stay up hood
+
+- **HYPOALLERGENIC** Hypoallergenic and easy to clean
+
+- **DURABLE** Super strong and long lasting
+
+- **GOOD SIZE** Product dimensions 90 x 46 x 54 cm
+
+- **UK DESIGN** Designed and made in the UK
 
 #### Our Rating For This Product
 
 4.6 out of 5 stars
 
-⭐⭐⭐⭐⭐
+⭐⭐⭐⭐
 
 ![cute-moses-basket](https://m.media-amazon.com/images/S/aplus-media/vc/ef391f89-d135-47e3-a0b2-803b64317adb.__CR24,233,1554,961_PT0_SX970_V1___.jpg)
 
