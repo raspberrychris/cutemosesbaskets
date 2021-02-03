@@ -7,6 +7,7 @@ weight: 1
 canonicalUrl: “/"
 ---
 
+In this article we will look at some of the most unusual baby names from around the world.  Starting off with names inspired from Greek Mythology and then working into some of the more unusual baby names compare to more popular ones in America and the world.
 
 ## Baby Girl Names Based on Greek Mythology:
 
@@ -21,6 +22,7 @@ Parents searching for a name that automatically conjures up images of love and b
 Homer writes that Aphrodite was the daughter of Zeus and Dione. In his tale of the Trojan War, he spins a story of Zeus admonishing his daughter, telling her to leave matters of war to her brother Ares. Zeus tells Aphrodite that she should instead focus on marriage and matters of the heart. Her Roman equivalent is Venus.
 
 ## Artemis
+
 For a name that captures a sporty feel, Artemis is a good choice. Artemis could be considered the original tomboy. She was depicted as the virgin (young) goddess of the hunt. Artemis is often depicted together with her twin brother Apollo. She assisted women with childbirth, but was also quick to kill with an arrow from her quiver constantly strapped to her back. Her Roman equivalent is Diana.
 
 ## Athena
@@ -77,9 +79,11 @@ If you're looking for a baby boy name that starts with the letter M, you'll find
 •	Michael. Michael was the #1 name in the United States from 1954 until 1998, when Jacob finally pushed Michael into the #2 spot. During the Baby Boom, when casual names were more prevalent, Mike was a common stand-alone name-- but it isn't any longer. Michael comes from a Hebrew expression that means" who resembles God." For a less common variation, try Mitchell.
 
 •	Matthew. Ranking at #5 in 202006, Matthew has been in the top 10 since 1972. This New Testament Biblical name comes from a Hebrew expression that means "God's gift." For something more unusual, try Matteo.
+
 •	Mason. Mason's a last-name-turned-first-name with a Western sound-- two factors that account for its current trendiness. Rarely used as a first name in the past, it ranked at #39 in 202006. The meaning of Mason is the same as the word-- "one who works with stone."
 
 •	Miguel. One of the more popular Spanish name choices, this Spanish equivalent of Michael ranked at #89 in 202006. Manuel, a Spanish name with a similar sound that means "God is with us," ranked at #161.
+
 •	Mark. A top 10 name during the 1960s, Mark has dropped down to #129. Marcus, which also used to be rmore popular, ranked at #112. A New Testament name, Mark comes from a Latin name that means "dedicated to Mars," who was the Roman war god. For a different twist, try Marco.
 
 •	Micah. Looking for a less common variation of Michael? Micah was ranked at #148 in 202006, and like many less common Hebrew names, it's gaining in popularity. Also rising in popularity quickly is Malachi, a Hebrew name which means "messenger."
@@ -111,6 +115,7 @@ Baby boy names that begin with J are the most popular names in the United States
 ## Popular Baby Boy Biblical Names That Start With J
 
 Quite a few of the most popular baby boy names that start with J are Biblical names. This includes Jacob, the top male name in the U.S., which replaced the long-standing top name Michael in 1999. Also wildly popular is the name Joshua, which ranked at #3 in 202006. Here's a summary of the most popular Biblical boy's names in the United States that start with J, along with their 202006 rankings and their meanings.
+
 •	Jacob (1). "One who grasps by the heel." Alternate spelling Jakob ranked at #293, and Jake as a stand-alone name ranked at #107.
 
 •	Joshua (3). "God is salvation."
