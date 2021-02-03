@@ -7,7 +7,8 @@ weight: 1
 canonicalUrl: “/"
 ---
 
-{{< iframe "URL HERE" >}}
+
+
 
 Welcome to [Cutemosesbaskets.com](https://Cutemosesbaskets.com) the top place for soon-to-be parents to find your baby a **moses basket**! **Cute Moses Baskets** is an independent expert UK based buying guide to find the best moses baskets for your newborn child.  We have reviewed some of the **best moses baskets** and bedding for your newborn baby.
 
