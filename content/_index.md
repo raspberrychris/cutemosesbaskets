@@ -198,13 +198,17 @@ Browse the very **best Cute Moses Baskets** from all around the internet in one 
 
 ## Shnuggle Dreami Moses Basket curve
 
-[![schnuggle-dreami-moses-basket-curve](<https://cache.ndnb.live/f4a7cfb87254f18ff9bd62b9c1bb4848818761c7/f02e40f0-5c34-11eb-a677-9d8dc31c06c5.jpeg>)](<https://www.amazon.co.uk/Shnuggle-Dreami-Moses-Basket-Rocking/dp/B016APJP4A/?tag=cutemosesbaskets-21>)
+[![schnuggle-dreami-moses-basket-curve](<https://images-na.ssl-images-amazon.com/images/I/71FQAsnCZ9L._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Shnuggle-Dreami-Moses-Basket-Rocking/dp/B016APJP4A/?tag=cutemosesbaskets-21>)
 
 [![schnuggle-dreami-moses-basket-curve](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Shnuggle-Dreami-Moses-Basket-Rocking/dp/B016APJP4A/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
-the basin and support for keeping the baby close day and night breathable 3d mesh and ventilated base for excellent airflowquickly change position folds to the rock attached for storage and travel easy basel recharger easy to clean and hypoallergenic couffins this standard usesuitable and birth to 6 months
+- **GREAT DESIGN** The perfect Moses Basket and Stand to keep baby close, day & night.
+- **BREATHABLE** 3D Mesh Covers and ventilated base for excellent airflow
+- **FOLDS UP**for easy storage and travel
+- **EASY TO CLEAN** Easy-to-clean and hypoallergenic base
+- **LARGE** Larger than standard Moses Baskets for longer use
 
 #### Our Rating For This Product
 
@@ -214,10 +218,20 @@ the basin and support for keeping the baby close day and night breathable 3d mes
 
 #### Technical Details
 
+| Model Number                | DREAMI-GRY                   |
+|-----------------------------|------------------------------|
+| Product Dimensions          | 88 x 45 x 61 cm; 6 Kilograms |
+| Item model number           | DREAMI-GRY                   |
+| Target gender               | Unisex                       |
+| Material Type               | Fabric                       |
+| Additional product features | Hypoallergenic               |
+| Batteries required          | No                           |
+| Item Weight                 | 6 kg                         |
 
 #### Customers Say about this product
 
->  
+>  "Great product, we have chicco next to me as well but I prefer this one. Perfect size, easy to transport.
+Update: I was really happy with the product but my baby outgrown it when she was 3 months old (she’s not massive baby) such a shame cause it was really good product"
 
 
 
