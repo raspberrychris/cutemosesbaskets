@@ -27,7 +27,7 @@ We only choose the best moses baskets that you will absolutely **LOVE!** We have
 
 Browse the very **best Cute Moses Baskets** from all around the internet in one single page.  Check out our blog for the latest updates.  
 
-## Kinder Valley Broderie Anglaise Moses Basket
+## Kinder Valley Broderie Anglaise Moses Basket Review
 
 [![kinder-valley-broderie-anglaise-moses-basket](<https://images-na.ssl-images-amazon.com/images/I/91aBNIs6MbL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Kinder-Valley-Broderie-Anglaise-Basket/dp/B00OHMH44M/?tag=cutemosesbaskets-21>)
 
@@ -73,7 +73,7 @@ Browse the very **best Cute Moses Baskets** from all around the internet in one 
 
 ---
 
-## Wicker Wheel Moses Basket Baby Full
+## Wicker Wheel Moses Basket Baby Full Review
 
 [![wicker-wheel-moses-basket-baby-full](<https://images-na.ssl-images-amazon.com/images/I/51E-a4NM0pL._AC_SY679_.jpg>)](<https://www.amazon.co.uk/Wicker-Wheel-Basket-Bedding-Canopy/dp/B07VFYCZ8V?&linkCode=ll1&tag=kidsteepees-21&linkId=21d5f03353c99d6a2771231a481e5c57&language=en_GB&ref_=as_li_ss_tl>)
 
@@ -113,7 +113,7 @@ Browse the very **best Cute Moses Baskets** from all around the internet in one 
 
 ---
 
-## Kinder Valley Pink Dimple Moses Basket Bedding Set (Basket NOT included)
+## Kinder Valley Pink Dimple Moses Basket Bedding Set Review (Please note: Basket **NOT** included)
 
 [![kinder-valley-pink-dimple-moses-basket](<https://images-na.ssl-images-amazon.com/images/I/81xR%2BBTL1KL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Dimple-Moses-Basket-Dressings-included/dp/B019NF4U4E/?tag=cutemosesbaskets-21>)
 
@@ -121,7 +121,7 @@ Browse the very **best Cute Moses Baskets** from all around the internet in one 
 
 #### Product Description
 
-- This Kinder Valley Moses Basket Bedding Set is the perfect accessory for your basket and will send your little one off to sleep in no time.
+- This Kinder Valley Moses Basket **Bedding Set** is the perfect accessory for your basket and will send your little one off to sleep in no time.
 
 - Using luxury dimple fabric which is perfect for delicate skin, this moses basket bedding set includes a hood, body, quilt and padded liner.
 
@@ -137,36 +137,34 @@ Browse the very **best Cute Moses Baskets** from all around the internet in one 
 ⭐⭐⭐⭐
 
 
-
 #### Customers Say about this product
 
->  
-
+>  "I like how soft and I love the colour, however. I opened my package to make sure it fits the Moses basket and it has a stain on it. Not very impressed because i haven’t had this happen before. Would like a new one sent to me but have not got a reply yet."
 
 
 #### Pros and Cons
 
 | ✅  Pros | ❌ Cons |
 |-|-|
-| 👉  |👉   |
-| 👉  |👉   |
-| 👉  |👉   |
-
-
+| 👉 Good Colour |👉 Some customers say it doesn't look as good as the photos  |
+| 👉 Soft materials  |👉 Top cover is not moses basket shaped  |
+| 👉 Packaged Well |👉 Returns are expensive  |
 
 ---
 
+## Mcc Full Set Grey Wicker Moses Basket Review - (**TOP PICK!!**)
 
-## Mcc Full Set Grey Wicker Moses Basket
-
-[![Mcc-Full-Set-Grey-Wicker-Moses-Basket](<https://cache.ndnb.live/2047ab48b9edfc43b013ab31783ffd4d4789a5f2/f46428d0-5c3c-11eb-b86f-9d8429d135bc.jpeg>)](<https://www.amazon.co.uk/Mcc%C2%AE-Wicker-Cocoon-Dressing-Rocking/dp/B0754HZKSD/?tag=cutemosesbaskets-21>)
+[![Mcc-Full-Set-Grey-Wicker-Moses-Basket](<https://images-na.ssl-images-amazon.com/images/I/81de%2Bsk2gyL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Mcc%C2%AE-Wicker-Cocoon-Dressing-Rocking/dp/B0754HZKSD/?tag=cutemosesbaskets-21>)
 
 [![Mcc-Full-Set-Grey-Wicker-Moses-Basket](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Mcc%C2%AE-Wicker-Cocoon-Dressing-Rocking/dp/B0754HZKSD/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
-cocoon bassinet gray wicker moses filling tissue tec basket hand room and hypoallergenic mattress set to bs 7177 2008 beautiful oscillating support white 100 cotton cover curved light movement from side to side allows coined sturdy robust very durable and weighing
+- **STUNNING DESIGN** Perfectly designed moses basket that will suit any bedroom. 100% Cotton Cover
 
+- **ROBUST AND DURABLE** Durable materials mean that this is safe for your baby and will provide more than adequate protection.
+
+- **ROCKING MOVEMENT** Curved rocking stand allows rocking motion from side to side.
 #### Our Rating For This Product
 
 4.7 out of 5 stars
@@ -175,22 +173,25 @@ cocoon bassinet gray wicker moses filling tissue tec basket hand room and hypoal
 
 #### Technical Details
 
+| Model Number       | AFF1837-XS                        |
+|--------------------|-----------------------------------|
+| Product Dimensions | 84 x 40.01 x 30 cm; 6.5 Kilograms |
+| Item model number  | AFF1837-XS                        |
+| Material Type      | Wicker                            |
+| Batteries required | No                                |
+| Item Weight        | 6.5 kg                            |
 
 #### Customers Say about this product
 
->  
-
-
+>  "Beautiful Moses basket! I loved it from moment I first saw it and my baby loves it and sleeps great in it and looks so comfortable and is content, loves to be gently rocked too, definitely recommend!"
 
 #### Pros and Cons
 
 | ✅  Pros | ❌ Cons |
 |-|-|
-| 👉  |👉   |
-| 👉  |👉   |
-| 👉  |👉   |
-
-
+| 👉 Absolutely Beautiful design |👉 Some customers have reported damage to the item on arrival   |
+| 👉 Reasonable Price Point |👉 -  |
+| 👉 Spacious |👉 -  |
 
 ---
 
