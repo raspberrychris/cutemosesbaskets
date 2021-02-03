@@ -8,7 +8,7 @@ menu = "main"
 weight = "5"
 +++
 
-At Cutemosesbaskets.com we value the privacy of our visitors. The aim of our privacy policy is to provide a user-friendly experience and at the same time protect the privacy of visitors.
+At ![Cutemosesbaskets.com](https://Cutemosesbaskets.com) we value the privacy of our visitors. The aim of our privacy policy is to provide a user-friendly experience and at the same time protect the privacy of visitors.
 
 We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
 

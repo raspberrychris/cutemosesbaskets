@@ -295,11 +295,11 @@ Update: I was really happy with the product but my baby outgrown it when she was
 ---
 
 
-## Kinder Valley Classic Pink Broderie Anglaise
+## Kinder Valley Classic Pink Broderie Anglaise Review
 
-[![null](<https://cache.ndnb.live/bfec0569161f49be720adfaaa1e6c0d3cf94617d/c9034ca0-5c39-11eb-9e5c-39234c6c35f4.jpeg>)](<https://www.amazon.co.uk/Broderie-Anglaise-Moses-Basket-Folding/dp/B01D55UQCI/?tag=cutemosesbaskets-21>)
+[![kinder-valley-classic-pink-broderie-anglaise](<https://images-na.ssl-images-amazon.com/images/I/81vJhLHESFL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Broderie-Anglaise-Moses-Basket-Folding/dp/B01D55UQCI/?tag=cutemosesbaskets-21>)
 
-[![null](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Broderie-Anglaise-Moses-Basket-Folding/dp/B01D55UQCI/?tag=cutemosesbaskets-21>)
+[![kinder-valley-classic-pink-broderie-anglaise](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Broderie-Anglaise-Moses-Basket-Folding/dp/B01D55UQCI/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
@@ -309,39 +309,39 @@ your childs safety first these children palm valley and pelvis wrinkles opal car
 
 4.7 out of 5 stars
 
-⭐⭐⭐⭐⭐
+⭐⭐⭐⭐
 
 #### Technical Details
 
+| Package Dimensions | 89 x 43 x 27 cm; 3.8 Kilograms |
+|--------------------|--------------------------------|
+| Material Type      | Fabric                         |
+| Batteries required | No                             |
+| Item Weight        | 3.8 kg                         |
 
 #### Customers Say about this product
 
->  
-
-
+>  "Arrived within a couple of days of ordering, it’s really easy to fit stand together and it looks beautiful. I think it’s great value for money."
 
 #### Pros and Cons
 
 | ✅  Pros | ❌ Cons |
 |-|-|
-| 👉  |👉   |
-| 👉  |👉   |
-| 👉  |👉   |
-
-
+| 👉 Gorgeous basket |👉 Customers have complained about the straps  |
+| 👉 Fanastic Value for money |👉 Legs look a little unsturdy  |
+| 👉 Beautiful Colour |👉 Longevity of the basket may be an issue  |
 
 ---
 
+## Clair De Lune Palm Moses Basket/Noah Mattress Review
 
-## Clair De Lune Palm Moses Basket/Noah
+[![clair-de-lune-palm-moses-basket-noah](<https://cache.ndnb.live/483f88df0cff90f8aa1ab617b3c532dd7468257b/00fc8d40-5c37-11eb-8689-3530ec2e7393.jpeg>)](<https://www.amazon.co.uk/Clair-Lune-Moses-Basket-Mattress/dp/B01BBVPXFS/?tag=cutemosesbaskets-21>)
 
-[![null](<https://cache.ndnb.live/483f88df0cff90f8aa1ab617b3c532dd7468257b/00fc8d40-5c37-11eb-8689-3530ec2e7393.jpeg>)](<https://www.amazon.co.uk/Clair-Lune-Moses-Basket-Mattress/dp/B01BBVPXFS/?tag=cutemosesbaskets-21>)
-
-[![null](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Clair-Lune-Moses-Basket-Mattress/dp/B01BBVPXFS/?tag=cutemosesbaskets-21>)
+[![clair-de-lune-palm-moses-basket-noah](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Clair-Lune-Moses-Basket-Mattress/dp/B01BBVPXFS/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
-this item74 x 28cmsspunbond fabric mattresses also available for moonlight basketsapproximately depthwipe cleaning pastures only from birth
+this item74 x 28cmsspunbond fabric mattresses also available for moonlight baskets approximately depthwipe cleaning pastures only from birth
 
 #### Our Rating For This Product
 
@@ -373,9 +373,9 @@ this item74 x 28cmsspunbond fabric mattresses also available for moonlight baske
 
 ## Kinder Valley Waffle Moses Basket (White)
 
-[![null](<https://cache.ndnb.live/391e76a316d2378a14f5bff3b171e3862379129d/395281f0-5c36-11eb-843c-1d48ef5e706a.jpeg>)](<https://www.amazon.co.uk/Kinder-Valley-Waffle-Moses-Basket/dp/B00OEAWVDG/?tag=cutemosesbaskets-21>)
+[![kinder-valley-waffle-moses-basket-white](<https://cache.ndnb.live/391e76a316d2378a14f5bff3b171e3862379129d/395281f0-5c36-11eb-843c-1d48ef5e706a.jpeg>)](<https://www.amazon.co.uk/Kinder-Valley-Waffle-Moses-Basket/dp/B00OEAWVDG/?tag=cutemosesbaskets-21>)
 
-[![null](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Kinder-Valley-Waffle-Moses-Basket/dp/B00OEAWVDG/?tag=cutemosesbaskets-21>)
+[![kinder-valley-waffle-moses-basket-white](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Kinder-Valley-Waffle-Moses-Basket/dp/B00OEAWVDG/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
@@ -446,9 +446,9 @@ natural palm classic bassinet with matching bag and thick padding in inside hand
 
 ## Kinder Valley White 100% Cotton Waffle
 
-[![null](<https://cache.ndnb.live/9d4e1b09664fa444c25832bf8fc98d393553c3ea/cf7aced0-5c3b-11eb-b86f-9d8429d135bc.jpeg>)](<https://www.amazon.co.uk/White-Waffle-Bedding-Basket-Included/dp/B07T6F74BP/?tag=cutemosesbaskets-21>)
+[![kinder-valley-white-100-cotton-white](<https://cache.ndnb.live/9d4e1b09664fa444c25832bf8fc98d393553c3ea/cf7aced0-5c3b-11eb-b86f-9d8429d135bc.jpeg>)](<https://www.amazon.co.uk/White-Waffle-Bedding-Basket-Included/dp/B07T6F74BP/?tag=cutemosesbaskets-21>)
 
-[![null](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/White-Waffle-Bedding-Basket-Included/dp/B07T6F74BP/?tag=cutemosesbaskets-21>)
+[![kinder-valley-white-100-cotton-white](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/White-Waffle-Bedding-Basket-Included/dp/B07T6F74BP/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
@@ -484,9 +484,9 @@ your childs safety first the valley children s pool are bedding pod all necessar
 
 ## Clair De Lune Silver Lining Palm
 
-[![null](<https://cache.ndnb.live/3e6284f99a553d56539b9c7a6e1c88a2fc03e1c3/710ef8f0-5c39-11eb-95c1-518296b24b1b.jpeg>)](<https://www.amazon.co.uk/Clair-Lune-Silver-Lining-Basket/dp/B01NBQZV3R/?tag=cutemosesbaskets-21>)
+[![clair-de-lune-silver-lining-palm](<https://cache.ndnb.live/3e6284f99a553d56539b9c7a6e1c88a2fc03e1c3/710ef8f0-5c39-11eb-95c1-518296b24b1b.jpeg>)](<https://www.amazon.co.uk/Clair-Lune-Silver-Lining-Basket/dp/B01NBQZV3R/?tag=cutemosesbaskets-21>)
 
-[![null](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Clair-Lune-Silver-Lining-Basket/dp/B01NBQZV3R/?tag=cutemosesbaskets-21>)
+[![clair-de-lune-silver-lining-palm](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Clair-Lune-Silver-Lining-Basket/dp/B01NBQZV3R/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
@@ -522,13 +522,17 @@ made from 100 cotton fabric and a super soft jersey waffles and with a complete 
 
 ## Shnuggle Moses Basket With White Waffle
 
-[![null](<https://cache.ndnb.live/b0cf55d8091c7ed76dcdf7e7d8af6ea3e92f78b6/c3e53890-5c3a-11eb-a2d6-c359b17717a2.jpeg>)](<https://www.amazon.co.uk/Shnuggle-Basket-Waffle-Dressing-Mattress/dp/B00GSW9OV0/?tag=cutemosesbaskets-21>)
+[![shnuggle-moses-basket-with-white-waffle](<https://cache.ndnb.live/b0cf55d8091c7ed76dcdf7e7d8af6ea3e92f78b6/c3e53890-5c3a-11eb-a2d6-c359b17717a2.jpeg>)](<https://www.amazon.co.uk/Shnuggle-Basket-Waffle-Dressing-Mattress/dp/B00GSW9OV0/?tag=cutemosesbaskets-21>)
 
-[![null](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Shnuggle-Basket-Waffle-Dressing-Mattress/dp/B00GSW9OV0/?tag=cutemosesbaskets-21>)
+[![shnuggle-moses-basket-with-white-waffle](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Shnuggle-Basket-Waffle-Dressing-Mattress/dp/B00GSW9OV0/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
-with classic shnuggle hoodhypoallergenic stay bassinet strong and easy to clean super long lastingproduct dimensions 90 x 46 x 54 cmdesigned and manufactured in the uk
+Shnuggle Classic Moses Basket with stay up hood
+Hypoallergenic and easy to clean
+Super strong and long lasting
+Product dimensions 90 x 46 x 54 cm
+Designed and made in the UK
 
 #### Our Rating For This Product
 
@@ -536,14 +540,26 @@ with classic shnuggle hoodhypoallergenic stay bassinet strong and easy to clean 
 
 ⭐⭐⭐⭐⭐
 
+![cute-moses-basket](https://m.media-amazon.com/images/S/aplus-media/vc/ef391f89-d135-47e3-a0b2-803b64317adb.__CR24,233,1554,961_PT0_SX970_V1___.jpg)
+
 #### Technical Details
 
+| Awards won                  | Junior Design Award             |
+|-----------------------------|---------------------------------|
+| Model Number                | SHN-GRY-WAF                     |
+| Product Dimensions          | 90 x 46 x 54 cm; 3.14 Kilograms |
+| Item model number           | SHN-GRY-WAF                     |
+| Target gender               | Unisex                          |
+| Material Type               | Cotton                          |
+| Additional product features | Hypoallergenic                  |
+| Batteries required          | No                              |
+| Frustration-free packaging  | Certified frustration-free      |
+| Is portable                 | No                              |
+| Item Weight                 | 3.14 kg                         |
 
 #### Customers Say about this product
 
->  
-
-
+>  "A beautiful sturdy product Easily assembled excellent value for money larger than a normal Moses basket breathable base lasted a good 6 months"
 
 #### Pros and Cons
 
@@ -560,9 +576,9 @@ with classic shnuggle hoodhypoallergenic stay bassinet strong and easy to clean 
 
 ## Kinder Valley White Waffle Grey Wicker
 
-[![null](<https://cache.ndnb.live/c1a54874b2d4a48a1ccc5c8af15e77ebb7333957/0054e2f0-5c34-11eb-a677-9d8dc31c06c5.jpeg>)](<https://www.amazon.co.uk/Waffle-Wicker-Basket-Rocking-Textile/dp/B07SNDY9G9/?tag=cutemosesbaskets-21>)
+[![kinder-valley-white-waffle-grey-wicker](<https://images-na.ssl-images-amazon.com/images/I/81Wbf63mYTL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Waffle-Wicker-Basket-Rocking-Textile/dp/B07SNDY9G9/?tag=cutemosesbaskets-21>)
 
-[![null](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Waffle-Wicker-Basket-Rocking-Textile/dp/B07SNDY9G9/?tag=cutemosesbaskets-21>)
+[![kinder-valley-white-waffle-grey-wicker](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Waffle-Wicker-Basket-Rocking-Textile/dp/B07SNDY9G9/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
