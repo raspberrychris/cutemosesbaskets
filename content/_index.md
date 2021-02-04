@@ -617,9 +617,7 @@ your childs safety first this children s valley pod wicker rocking cradle with l
 
 #### Customers Say about this product
 
->  
-
-
+>  "Quality materials and beautifully made."
 
 #### Pros and Cons
 
@@ -629,10 +627,7 @@ your childs safety first this children s valley pod wicker rocking cradle with l
 | 👉  |👉   |
 | 👉  |👉   |
 
-
-
 ---
-
 
 ## Kinder Valley Beary Nice Blue Moses Review
 
@@ -675,7 +670,7 @@ your childs safety first these children valley bedding pool meets all the necess
 
 [![white-dimple-moses-basket-deluxe-rocking](<https://images-eu.ssl-images-amazon.com/images/I/91ev0FWUV1L.__AC_SY300_SX300_QL70_ML2_.jpg>)](<https://www.amazon.co.uk/Dimple-Basket-Deluxe-Rocking-Starter/dp/B07NS29KTT/?tag=cutemosesbaskets-21>)
 
-[![null](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Dimple-Basket-Deluxe-Rocking-Starter/dp/B07NS29KTT/?tag=cutemosesbaskets-21>)
+[![white-dimple-moses-basket-deluxe-rocking](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Dimple-Basket-Deluxe-Rocking-Starter/dp/B07NS29KTT/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
@@ -782,7 +777,7 @@ from birth the baby sleep quietly steady front rear sway motion solid clean come
 
 [![kinder-valley-brown-giraffe-moses-basket](<https://images-eu.ssl-images-amazon.com/images/I/91uxKzwf5wL.__AC_SX300_SY300_QL70_ML2_.jpg>)](<https://www.amazon.co.uk/Brown-Giraffe-Moses-Basket-Folding/dp/B01LZCIR20/?tag=cutemosesbaskets-21>)
 
-[![null](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Brown-Giraffe-Moses-Basket-Folding/dp/B01LZCIR20/?tag=cutemosesbaskets-21>)
+[![kinder-valley-brown-giraffe-moses-basket](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Brown-Giraffe-Moses-Basket-Folding/dp/B01LZCIR20/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
@@ -921,44 +916,6 @@ deluxe fast deliveryhypo allergen excellent rating mattressplease moses wicker b
 
 ---
 
-## Fittings  Moses Baskets (Nuts Bolts
-
-[![null](<https://cache.ndnb.live/fba8e26fec395b429c9db2b35edfca98282d24b6/2f2fab00-5c34-11eb-9d87-1dd2f9c2de87.jpeg>)](<https://www.amazon.co.uk/fittings-Moses-baskets-Bolts-Washer/dp/B0168TBKSM/?tag=cutemosesbaskets-21>)
-
-[![null](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/fittings-Moses-baskets-Bolts-Washer/dp/B0168TBKSM/?tag=cutemosesbaskets-21>)
-
-#### Product Description
-
-parts washers and nuts and bolts for couffins
-
-#### Our Rating For This Product
-
-4.5 out of 5 stars
-
-⭐⭐⭐⭐⭐
-
-#### Technical Details
-
-
-#### Customers Say about this product
-
->  
-
-
-
-#### Pros and Cons
-
-| ✅  Pros | ❌ Cons |
-|-|-|
-| 👉  |👉   |
-| 👉  |👉   |
-| 👉  |👉   |
-
-
-
----
-
-
 ## Wicker Wheel Moses Basket Baby Full Review
 
 [![wicker-wheel-moses-basket-baby-full-review](<https://cache.ndnb.live/1654887212b582b013b9508c85dcff9bdba70e40/af52aa90-5c33-11eb-95c1-518296b24b1b.jpeg>)](<https://www.amazon.co.uk/Wicker-Wheel-Basket-Bedding-Canopy/dp/B07V9PP2QK/?tag=cutemosesbaskets-21>)
@@ -979,7 +936,6 @@ wicker solid wheelssuitable frames in natural wood from birth to 9 months approx
 #### Customers Say about this product
 
 >  
-
 
 
 #### Pros and Cons
@@ -1016,7 +972,6 @@ your childs safety first this wicker rocking cradle chester children valley meet
 >  
 
 
-
 #### Pros and Cons
 
 | ✅  Pros | ❌ Cons |
@@ -1044,7 +999,7 @@ cotton tale designs pool tea time
 
 4.6 out of 5 stars
 
-⭐⭐⭐⭐⭐
+⭐⭐⭐⭐
 
 #### Technical Details
 
@@ -1063,16 +1018,13 @@ cotton tale designs pool tea time
 | 👉  |👉   |
 | 👉  |👉   |
 
-
-
 ---
-
 
 ## Clair De Lune Dimple Grey Noah
 
-[![null](<https://cache.ndnb.live/ebf37f2ae838db57739fa9aaacd28c8bc8fd541f/d5866fd0-5c3d-11eb-9e5c-39234c6c35f4.jpeg>)](<https://www.amazon.co.uk/Clair-Lune-Dimple-Wicker-Basket/dp/B014F4PXK8/?tag=cutemosesbaskets-21>)
+[![clair-de-lune-dimple-grey-noah](<https://images-na.ssl-images-amazon.com/images/I/6109rCtTfgL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Clair-Lune-Dimple-Wicker-Basket/dp/B014F4PXK8/?tag=cutemosesbaskets-21>)
 
-[![null](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Clair-Lune-Dimple-Wicker-Basket/dp/B014F4PXK8/?tag=cutemosesbaskets-21>)
+[![clair-de-lune-dimple-grey-noah](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Clair-Lune-Dimple-Wicker-Basket/dp/B014F4PXK8/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
@@ -1084,12 +1036,17 @@ size w45cm x l100cm h25cmcolour pink gray material 100 basketball wicker dressin
 
 #### Technical Details
 
+| Model Number       | CL5537GPK     |
+|--------------------|---------------|
+| Item Weight        | 2.1 Kilograms |
+| Item model number  | CL5537GPK     |
+| Material Type      | Wicker        |
+| Batteries required | No            |
+| Item Weight        | 2.1 kg        |
 
 #### Customers Say about this product
 
->  
-
-
+>  "Stunning product! Inside so soft and picture does not do it justice! It is absolutely beautiful! Can’t wait for my little one to come along to enjoy it! Thank you!"
 
 #### Pros and Cons
 
@@ -1099,16 +1056,13 @@ size w45cm x l100cm h25cmcolour pink gray material 100 basketball wicker dressin
 | 👉  |👉   |
 | 👉  |👉   |
 
-
-
 ---
 
+## Three Little Birds Moses Basket Folding Review
 
-## Three Little Birds Moses Basket Folding
+[![three-little-birds-moses-basket-folding](<https://images-na.ssl-images-amazon.com/images/I/81fGY23UzLL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Little-Basket-Folding-Starter-Bundle/dp/B07NS2M49P/?tag=cutemosesbaskets-21>)
 
-[![null](<https://cache.ndnb.live/3691662b7b666eb0489d6866e70798bb5627d85e/febe3d60-5c33-11eb-95c1-518296b24b1b.jpeg>)](<https://www.amazon.co.uk/Little-Basket-Folding-Starter-Bundle/dp/B07NS2M49P/?tag=cutemosesbaskets-21>)
-
-[![null](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Little-Basket-Folding-Starter-Bundle/dp/B07NS2M49P/?tag=cutemosesbaskets-21>)
+[![three-little-birds-moses-basket-folding](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Little-Basket-Folding-Starter-Bundle/dp/B07NS2M49P/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
@@ -1118,16 +1072,16 @@ cotton blend basketopulent elegant style with unique cot with deluxe package cus
 
 4.6 out of 5 stars
 
-⭐⭐⭐⭐⭐
+⭐⭐⭐⭐
 
 #### Technical Details
 
+| Material Type | Canvas |
+|---------------|--------|
 
 #### Customers Say about this product
 
->  
-
-
+>  "As described - great value and quality"
 
 #### Pros and Cons
 
@@ -1137,16 +1091,13 @@ cotton blend basketopulent elegant style with unique cot with deluxe package cus
 | 👉  |👉   |
 | 👉  |👉   |
 
-
-
 ---
-
 
 ## Kinder Valley Beary Nice Blue Moses
 
-[![null](<https://cache.ndnb.live/417d7f10086710dcb226b0b72a5c6544b3e09d3c/60855390-5c33-11eb-b6d0-a999bf5e59ff.jpeg>)](<https://www.amazon.co.uk/Beary-Basket-Deluxe-Natural-Rocking/dp/B01DMT6LKI/?tag=cutemosesbaskets-21>)
+[![kinder-valley-beary-nice-blue-moses](<https://cache.ndnb.live/417d7f10086710dcb226b0b72a5c6544b3e09d3c/60855390-5c33-11eb-b6d0-a999bf5e59ff.jpeg>)](<https://www.amazon.co.uk/Beary-Basket-Deluxe-Natural-Rocking/dp/B01DMT6LKI/?tag=cutemosesbaskets-21>)
 
-[![null](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Beary-Basket-Deluxe-Natural-Rocking/dp/B01DMT6LKI/?tag=cutemosesbaskets-21>)
+[![kinder-valley-beary-nice-blue-moses](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Beary-Basket-Deluxe-Natural-Rocking/dp/B01DMT6LKI/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
@@ -1154,7 +1105,7 @@ your childs safety first these children palm valley and pelvis wrinkles opal car
 
 #### Our Rating For This Product
 
-⭐⭐⭐⭐⭐
+⭐⭐⭐⭐
 
 #### Technical Details
 
@@ -1180,7 +1131,7 @@ your childs safety first these children palm valley and pelvis wrinkles opal car
 
 ## Hood Bars  Fittings  Moses
 
-[![null](<https://cache.ndnb.live/85a5389b35b25f6ac43ab42025ed2dff27fa131b/392ba9f0-5c3f-11eb-843c-1d48ef5e706a.jpeg>)](<https://www.amazon.co.uk/fittings-Moses-Baskets-BASKET-INCLUDED/dp/B017W3OXEQ/?tag=cutemosesbaskets-21>)
+[![hood-bars-fit](<https://cache.ndnb.live/85a5389b35b25f6ac43ab42025ed2dff27fa131b/392ba9f0-5c3f-11eb-843c-1d48ef5e706a.jpeg>)](<https://www.amazon.co.uk/fittings-Moses-Baskets-BASKET-INCLUDED/dp/B017W3OXEQ/?tag=cutemosesbaskets-21>)
 
 [![null](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/fittings-Moses-Baskets-BASKET-INCLUDED/dp/B017W3OXEQ/?tag=cutemosesbaskets-21>)
 
