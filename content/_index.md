@@ -121,13 +121,13 @@ Browse the very **best Cute Moses Baskets** from all around the internet in one 
 
 #### Product Description
 
-- This Kinder Valley Moses Basket **Bedding Set** is the perfect accessory for your basket and will send your little one off to sleep in no time.
+- **BEDDING SET** This Kinder Valley Moses Basket **Bedding Set** is the perfect accessory for your basket and will send your little one off to sleep in no time.
 
-- Using luxury dimple fabric which is perfect for delicate skin, this moses basket bedding set includes a hood, body, quilt and padded liner.
+- **LUXURY FABRIC** Using luxury dimple fabric which is perfect for delicate skin, this moses basket bedding set includes a hood, body, quilt and padded liner.
 
-- Once attached the hood is adjustable using the fasteners on either side, the padded liner surrounds the basket and is covered by the body to ensure extra comfort perfect to create a cosy sleeping space for your precious little one.
+- **ADJUSTABLE HOOD** Once attached the hood is adjustable using the fasteners on either side, the padded liner surrounds the basket and is covered by the body to ensure extra comfort perfect to create a cosy sleeping space for your precious little one.
 
-- This bedding set is easily removed and is machine washable in case of any accidents. Basket not included.
+- **EASILY REMOVED** This bedding set is easily removed and is machine washable in case of any accidents. Basket not included.
 
 
 #### Our Rating For This Product
@@ -236,8 +236,6 @@ Browse the very **best Cute Moses Baskets** from all around the internet in one 
 >  "Great product, we have chicco next to me as well but I prefer this one. Perfect size, easy to transport.
 Update: I was really happy with the product but my baby outgrown it when she was 3 months old (she’s not massive baby) such a shame cause it was really good product"
 
-
-
 #### Pros and Cons
 
 | ✅  Pros | ❌ Cons |
@@ -294,7 +292,6 @@ Update: I was really happy with the product but my baby outgrown it when she was
 
 ---
 
-
 ## Kinder Valley Classic Pink Broderie Anglaise Review
 
 [![kinder-valley-classic-pink-broderie-anglaise](<https://images-na.ssl-images-amazon.com/images/I/81vJhLHESFL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Broderie-Anglaise-Moses-Basket-Folding/dp/B01D55UQCI/?tag=cutemosesbaskets-21>)
@@ -303,7 +300,6 @@ Update: I was really happy with the product but my baby outgrown it when she was
 
 #### Product Description
 
-your childs safety first these children palm valley and pelvis wrinkles opal carrier meets all the necessary british standards bassinet and carrier adapted newborns and is safe to sleep at night it is recommended by doctors that your baby sleeps in a crib or cot in the same room with you to the first six months this product is the quality of our complete package these children gold palm valley standard the pool bundle is the perfect starter kit is verified for your small bed each packet contains a bassinet a mattress palm fiber cushion cover the complete bed system comprises a solid body adjustable hood and quilted bedspread and a foldable opal carrier the bed linen set includes our easy poly mild cleaning produced and covers waterproof mattress and breathable is washable complete machine manufacturer to ensure that this is valid for 6 months from the date of purchase for the period of use of the product so that sure take that is it may be with warranty claims is not renewed valid and their only guaranteed with the original receipt for the security covered the guarantee also covers scratches shock and tears when the first reported in the days after receipt of the goods 14 to ensure that you are satisfied with the product such as assembly are easy the basin palm ended at attention detailed manual and all linens safety and soundness to sleep nights care needs for you and your baby the bell can be adjusted with both sides fasteners and dressed for very little in order to create a comfortable sleeping area the carrier is equipped with a complete set of tool and instructions for quick and easy installation and is equipped with plastic bands around the pool to keep secure industry experts one of the most reliable international brand with over 30 years experience in the field understands children valley the importance of its customers and is proud to produce the best products at affordable prices and deliver you rigorous testing methods and materials are especially safe and comfortable selected for you and your baby his unwavering commitment to product innovation has helped cement his status as a true market leader
 
 #### Our Rating For This Product
 
@@ -328,7 +324,7 @@ your childs safety first these children palm valley and pelvis wrinkles opal car
 | ✅  Pros | ❌ Cons |
 |-|-|
 | 👉 Gorgeous basket |👉 Customers have complained about the straps  |
-| 👉 Fanastic Value for money |👉 Legs look a little unsturdy  |
+| 👉 Fantastic Value for money |👉 Legs look a little unsteady  |
 | 👉 Beautiful Colour |👉 Longevity of the basket may be an issue  |
 
 ---
@@ -341,13 +337,13 @@ your childs safety first these children palm valley and pelvis wrinkles opal car
 
 #### Product Description
 
-this item74 x 28cmsspunbond fabric mattresses also available for moonlight baskets approximately depthwipe cleaning pastures only from birth
+
 
 #### Our Rating For This Product
 
 4.6 out of 5 stars
 
-⭐⭐⭐⭐⭐
+⭐⭐⭐⭐
 
 #### Technical Details
 
@@ -355,8 +351,6 @@ this item74 x 28cmsspunbond fabric mattresses also available for moonlight baske
 #### Customers Say about this product
 
 >  
-
-
 
 #### Pros and Cons
 
@@ -366,10 +360,7 @@ this item74 x 28cmsspunbond fabric mattresses also available for moonlight baske
 | 👉  |👉   |
 | 👉  |👉   |
 
-
-
 ---
-
 
 ## Kinder Valley Waffle Moses Basket (White)
 
@@ -504,22 +495,41 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 #### Product Description
 
-made from 100 cotton fabric and a super soft jersey waffles and with a complete outfit of silver star comes with quilted lining finished tog 2 0 quilt gently embroidery and a mattress as sold separately bell adjustable a comfortable sleeping space for the creation of very little one designed kg perfect and with attention and care in the uk suitable from birth up to a maximum weight of 9 or upwards out that the baby begins to roll jump or sit unaided
+- **PALM BASKET** – A sturdy Moses basket crafted using lightweight palm leaf that enhances airflow throughout the basket. A beautiful, portable design with integrated handles, it’s a traditional choice for your baby’s first bed without skimping on style!
+
+- **INCLUDES BEDDING** - Comes complete with padded liner surround for comfort, reversible coverlet, mattress and adjustable, removable hood. *Stand sold separately
+
+- **QUALITY FABRICS** – Crafted with a mix of super-soft Waffle cotton and jersey cotton fabrics to create a luxurious sleep space for your newborn. The perfect finishing touch is the star that hangs from the canopy embroidered with silver thread.
+
+- **SAFE SLEEPING** – It’s recommended that your newborn sleeps in the same room as you and our wicker Moses basket provides a safe, cocooned sleep environment. The Moses basket conforms to BS EN 1466:2014 and goes through rigorous quality checks of the bedding and the basket before it leaves the building.
+
+- **MADE IN GREAT BRITAIN** – With over 75 years of experience in manufacturing baby bedding, each Clair de Lune basket is stitched and dressed with lots of love. The materials we use are especially selected for your baby’s comfort and your peace of mind.
 
 #### Our Rating For This Product
 
 4.6 out of 5 stars
 
-⭐⭐⭐⭐⭐
+⭐⭐⭐⭐
 
 #### Technical Details
 
+| Model Number                  | CL5426WE                                      |
+|-------------------------------|-----------------------------------------------|
+| Product Dimensions            | 74 x 28 x 23 cm; 2.2 Kilograms                |
+| Item model number             | CL5426WE                                      |
+| Target gender                 | Unisex                                        |
+| Maximum Weight Recommendation | 9 Kilograms                                   |
+| Material Type                 | Cotton                                        |
+| Material composition          | 100% Cotton                                   |
+| Care Instructions             | Dressings are removable and machine washable  |
+| Style                         | Clair de Lune Silver Lining Palm Moses Basket |
+| Best uses                     | Bassinet                                      |
+| Batteries required            | No                                            |
+| Item Weight                   | 2.2 kg                                        |
 
 #### Customers Say about this product
 
->  
-
-
+>  "Very nice basket, I love it!!"
 
 #### Pros and Cons
 
@@ -529,10 +539,7 @@ made from 100 cotton fabric and a super soft jersey waffles and with a complete 
 | 👉  |👉   |
 | 👉  |👉   |
 
-
-
 ---
-
 
 ## Shnuggle Moses Basket With White Waffle
 
