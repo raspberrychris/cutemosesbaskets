@@ -816,11 +816,11 @@ your childs safety first these children palm valley and pelvis wrinkles opal car
 ---
 
 
-## Kinder Valley White White Waffle Wicker
+## Kinder Valley White Waffle Wicker Review
 
-[![null](<https://cache.ndnb.live/9fab9ff5d9a3c245447131b35a16827641a2cd3c/9adf3920-5c33-11eb-b6d0-a999bf5e59ff.jpeg>)](<https://www.amazon.co.uk/White-Waffle-Dressing-Deluxe-Rocking/dp/B072N5FP88/?tag=cutemosesbaskets-21>)
+[![kinder-valley-white-waffle-wicker](<https://cache.ndnb.live/9fab9ff5d9a3c245447131b35a16827641a2cd3c/9adf3920-5c33-11eb-b6d0-a999bf5e59ff.jpeg>)](<https://www.amazon.co.uk/White-Waffle-Dressing-Deluxe-Rocking/dp/B072N5FP88/?tag=cutemosesbaskets-21>)
 
-[![null](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/White-Waffle-Dressing-Deluxe-Rocking/dp/B072N5FP88/?tag=cutemosesbaskets-21>)
+[![kinder-valley-white-waffle-wicker](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/White-Waffle-Dressing-Deluxe-Rocking/dp/B072N5FP88/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
@@ -830,16 +830,11 @@ your childs safety first these children valley pod bassinet with gems swing meet
 
 4.5 out of 5 stars
 
-⭐⭐⭐⭐⭐
-
-#### Technical Details
-
+⭐⭐⭐⭐
 
 #### Customers Say about this product
 
->  
-
-
+>  "My daughter loved this Moses basket, for her first baby. The only complaint was the mattress could have been a little more better fit."
 
 #### Pros and Cons
 
@@ -849,16 +844,13 @@ your childs safety first these children valley pod bassinet with gems swing meet
 | 👉  |👉   |
 | 👉  |👉   |
 
-
-
 ---
 
+## Clair De Lune My Dolly White Review
 
-## Clair De Lune My Dolly White
+[![clair-de-lune-my-dolly-white](<https://images-na.ssl-images-amazon.com/images/I/91QoHzFgk5L._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Clair-Lune-Bedding-Mattress-Adjustable/dp/B00EPLKJJM/?tag=cutemosesbaskets-21>)
 
-[![null](<https://cache.ndnb.live/d75cd520fa0290b869d04743cc0d05f1ae7297a9/93b4a8b0-5c33-11eb-8689-3530ec2e7393.jpeg>)](<https://www.amazon.co.uk/Clair-Lune-Bedding-Mattress-Adjustable/dp/B00EPLKJJM/?tag=cutemosesbaskets-21>)
-
-[![null](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Clair-Lune-Bedding-Mattress-Adjustable/dp/B00EPLKJJM/?tag=cutemosesbaskets-21>)
+[![clair-de-lune-my-dolly-white](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Clair-Lune-Bedding-Mattress-Adjustable/dp/B00EPLKJJM/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
@@ -868,7 +860,7 @@ excellent decoration princess includes women shopping dressing and detailuntil b
 
 4.5 out of 5 stars
 
-⭐⭐⭐⭐⭐
+⭐⭐⭐⭐
 
 #### Technical Details
 
