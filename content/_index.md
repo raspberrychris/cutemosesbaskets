@@ -362,7 +362,7 @@ Update: I was really happy with the product but my baby outgrown it when she was
 
 ---
 
-## Kinder Valley Waffle Moses Basket (White)
+## Kinder Valley Waffle Moses Basket (White) Review
 
 [![kinder-valley-waffle-moses-basket-white](<https://images-na.ssl-images-amazon.com/images/I/91aWu3PwTcL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Kinder-Valley-Waffle-Moses-Basket/dp/B00OEAWVDG/?tag=cutemosesbaskets-21>)
 
@@ -406,7 +406,7 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 ---
 
-## Mcc Full Set Natural Palm Moses
+## Mcc Full Set Natural Palm Moses Review
 
 [![mcc-full-set-natural-palm-moses](<https://images-na.ssl-images-amazon.com/images/I/71oeCfAzeLL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Natural-Moses-Basket-Mattress-Rocking/dp/B00JGZAGJK/?tag=cutemosesbaskets-21>)
 
@@ -452,7 +452,7 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 ---
 
-## Kinder Valley White 100% Cotton Waffle
+## Kinder Valley White 100% Cotton Waffle Review
 
 [![kinder-valley-white-100-cotton-white](<https://images-na.ssl-images-amazon.com/images/I/91yYDXfZYDL._AC_SX450_.jpg>)](<https://www.amazon.co.uk/White-Waffle-Bedding-Basket-Included/dp/B07T6F74BP/?tag=cutemosesbaskets-21>)
 
@@ -487,7 +487,7 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 ---
 
-## Clair De Lune Silver Lining Palm
+## Clair De Lune Silver Lining Palm Review
 
 [![clair-de-lune-silver-lining-palm](<https://cache.ndnb.live/3e6284f99a553d56539b9c7a6e1c88a2fc03e1c3/710ef8f0-5c39-11eb-95c1-518296b24b1b.jpeg>)](<https://www.amazon.co.uk/Clair-Lune-Silver-Lining-Basket/dp/B01NBQZV3R/?tag=cutemosesbaskets-21>)
 
@@ -541,9 +541,9 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 ---
 
-## Shnuggle Moses Basket With White Waffle
+## Shnuggle Moses Basket With White Waffle Review
 
-[![shnuggle-moses-basket-with-white-waffle](<https://cache.ndnb.live/b0cf55d8091c7ed76dcdf7e7d8af6ea3e92f78b6/c3e53890-5c3a-11eb-a2d6-c359b17717a2.jpeg>)](<https://www.amazon.co.uk/Shnuggle-Basket-Waffle-Dressing-Mattress/dp/B00GSW9OV0/?tag=cutemosesbaskets-21>)
+[![shnuggle-moses-basket-with-white-waffle](<https://images-na.ssl-images-amazon.com/images/I/81Do9sHpyEL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Shnuggle-Basket-Waffle-Dressing-Mattress/dp/B00GSW9OV0/?tag=cutemosesbaskets-21>)
 
 [![shnuggle-moses-basket-with-white-waffle](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Shnuggle-Basket-Waffle-Dressing-Mattress/dp/B00GSW9OV0/?tag=cutemosesbaskets-21>)
 
@@ -596,7 +596,7 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 ---
 
-## Kinder Valley White Waffle Grey Wicker
+## Kinder Valley White Waffle Grey Wicker Review
 
 [![kinder-valley-white-waffle-grey-wicker](<https://images-na.ssl-images-amazon.com/images/I/81Wbf63mYTL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Waffle-Wicker-Basket-Rocking-Textile/dp/B07SNDY9G9/?tag=cutemosesbaskets-21>)
 
@@ -634,11 +634,11 @@ your childs safety first this children s valley pod wicker rocking cradle with l
 ---
 
 
-## Kinder Valley Beary Nice Blue Moses
+## Kinder Valley Beary Nice Blue Moses Review
 
-[![null](<https://cache.ndnb.live/e264a2fe35e81dac031e06a815d7a80fb98f5fcb/7c5b0da0-5c3b-11eb-95c1-518296b24b1b.jpeg>)](<https://www.amazon.co.uk/Beary-Moses-Basket-Dressings-included/dp/B019NH1Q76/?tag=cutemosesbaskets-21>)
+[![kinder-valley-beary-nice-blue-moses](<https://images-na.ssl-images-amazon.com/images/I/91g6qarYB8L._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Beary-Moses-Basket-Dressings-included/dp/B019NH1Q76/?tag=cutemosesbaskets-21>)
 
-[![null](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Beary-Moses-Basket-Dressings-included/dp/B019NH1Q76/?tag=cutemosesbaskets-21>)
+[![kinder-valley-beary-nice-blue-moses](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Beary-Moses-Basket-Dressings-included/dp/B019NH1Q76/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
@@ -648,16 +648,18 @@ your childs safety first these children valley bedding pool meets all the necess
 
 4.5 out of 5 stars
 
-⭐⭐⭐⭐⭐
+⭐⭐⭐⭐
 
-#### Technical Details
+#### Technical
 
+| Package Dimensions | 36 x 20.6 x 10.6 cm; 400 Grams |
+|--------------------|--------------------------------|
+| Batteries required | No                             |
+| Item Weight        | 400 g                          |
 
 #### Customers Say about this product
 
->  
-
-
+>  "I bought this as a second moses basket for my daughter and couldn't believe it when it came its absolutely gorgeous and fantastic value for money and the colour is beautiful aswell wpuld definitely recommend very very happy customer."
 
 #### Pros and Cons
 
@@ -667,14 +669,11 @@ your childs safety first these children valley bedding pool meets all the necess
 | 👉  |👉   |
 | 👉  |👉   |
 
-
-
 ---
 
+## White Dimple Moses Basket Deluxe Rocking Review
 
-## White Dimple Moses Basket Deluxe Rocking
-
-[![null](<https://images-eu.ssl-images-amazon.com/images/I/91ev0FWUV1L.__AC_SY300_SX300_QL70_ML2_.jpg>)](<https://www.amazon.co.uk/Dimple-Basket-Deluxe-Rocking-Starter/dp/B07NS29KTT/?tag=cutemosesbaskets-21>)
+[![white-dimple-moses-basket-deluxe-rocking](<https://images-eu.ssl-images-amazon.com/images/I/91ev0FWUV1L.__AC_SY300_SX300_QL70_ML2_.jpg>)](<https://www.amazon.co.uk/Dimple-Basket-Deluxe-Rocking-Starter/dp/B07NS29KTT/?tag=cutemosesbaskets-21>)
 
 [![null](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Dimple-Basket-Deluxe-Rocking-Starter/dp/B07NS29KTT/?tag=cutemosesbaskets-21>)
 
