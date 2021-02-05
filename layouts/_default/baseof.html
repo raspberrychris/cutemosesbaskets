@@ -101,7 +101,7 @@ Hello my name is Chris and I run Cutemosesbaskets.com.
         <aside class="pr-3">
           {{ block "side" . }}
               <!-- TOC for front page -->
-            <div id="toc" class="Box Box--blue mb-3">
+            <div id="toc" class="Box Box--white mb-3">
               <b>{{ .Title }}</b>
               {{- $toc := .TableOfContents -}}
               {{- $toc := replaceRE `<nav id="TableOfContents">\n<ul>\n<li>\n<ul>` `<nav id="TableOfContents"><ul>` $toc -}}
