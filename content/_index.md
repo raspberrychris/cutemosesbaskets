@@ -1,8 +1,8 @@
 ---
-title: Welcome to Cutemosesbaskets.com!
+title: Moses Baskets
 type: top
 toc: true
-menu:
+menu: main
 weight: 1
 canonicalUrl: “/"
 ---
