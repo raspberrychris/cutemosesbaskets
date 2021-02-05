@@ -7,7 +7,7 @@ weight: 1
 canonicalUrl: “/"
 ---
 
-{{< iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=22&l=ez&f=ifr&linkID=6c25c14d74580632dd12387e1207c275&t=cutemosesbaskets-21&tracking_id=cutemosesbaskets-21" >}}
+{{<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=22&l=ez&f=ifr&linkID=6c25c14d74580632dd12387e1207c275&t=cutemosesbaskets-21&tracking_id=cutemosesbaskets-21">}}
 
 Welcome to [Cute Moses Baskets](/) the top place for soon-to-be parents to find your baby a **moses basket**! **Cute Moses Baskets** is an independent expert UK based buying guide to find the best moses baskets for your newborn child.  We have reviewed some of the **best moses baskets** and bedding for your newborn baby.
 
