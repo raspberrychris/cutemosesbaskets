@@ -884,11 +884,19 @@ deluxe fast deliveryhypo allergen excellent rating mattressplease moses wicker b
 
 #### Technical Details
 
+| Model Number       | B00IJG23KW                           |
+|--------------------|--------------------------------------|
+| Product Dimensions | 83.01 x 48.01 x 30 cm; 2.5 Kilograms |
+| Item model number  | B00IJG23KW                           |
+| Target gender      | Unisex                               |
+| Material Type      | Wicker                               |
+| Number Of Items    | 1                                    |
+| Batteries required | No                                   |
+| Item Weight        | 2.5 kg                               |
 
 #### Customers Say about this product
 
->  
-
+>  "Bought this for my granddaughter she's not due till end of June 16, so not been used yet but it seems very sturdy and is a lovely design my daughter is really pleased with it."
 
 #### Pros and Cons
 
@@ -902,7 +910,7 @@ deluxe fast deliveryhypo allergen excellent rating mattressplease moses wicker b
 
 ## Wicker Wheel Moses Basket Baby Full Review
 
-[![wicker-wheel-moses-basket-baby-full-review](<https://cache.ndnb.live/1654887212b582b013b9508c85dcff9bdba70e40/af52aa90-5c33-11eb-95c1-518296b24b1b.jpeg>)](<https://www.amazon.co.uk/Wicker-Wheel-Basket-Bedding-Canopy/dp/B07V9PP2QK/?tag=cutemosesbaskets-21>)
+[![wicker-wheel-moses-basket-baby-full-review](<https://images-na.ssl-images-amazon.com/images/I/51S2QqtSPpL._AC_SY879_.jpg>)](<https://www.amazon.co.uk/Wicker-Wheel-Basket-Bedding-Canopy/dp/B07V9PP2QK/?tag=cutemosesbaskets-21>)
 
 [![wicker-wheel-moses-basket-baby-full-review](</images/checkprice.png>)](<https://www.amazon.co.uk/Wicker-Wheel-Basket-Bedding-Canopy/dp/B07V9PP2QK/?tag=cutemosesbaskets-21>)
 
@@ -916,11 +924,16 @@ wicker solid wheelssuitable frames in natural wood from birth to 9 months approx
 
 #### Technical Details
 
+| Model Number      | 1           |
+|-------------------|-------------|
+| Item Weight       | 7 Kilograms |
+| Item model number | 1           |
+| Material Type     | Polyester   |
+| Item Weight       | 7 kg        |
 
 #### Customers Say about this product
 
->  
-
+>  "Absolutely love this item.  Looks so beautiful"
 
 #### Pros and Cons
 
