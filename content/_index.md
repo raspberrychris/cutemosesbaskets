@@ -329,39 +329,6 @@ Update: I was really happy with the product but my baby outgrown it when she was
 
 ---
 
-## Clair De Lune Palm Moses Basket/Noah Mattress Review
-
-[![clair-de-lune-palm-moses-basket-noah](<https://cache.ndnb.live/483f88df0cff90f8aa1ab617b3c532dd7468257b/00fc8d40-5c37-11eb-8689-3530ec2e7393.jpeg>)](<https://www.amazon.co.uk/Clair-Lune-Moses-Basket-Mattress/dp/B01BBVPXFS/?tag=cutemosesbaskets-21>)
-
-[![clair-de-lune-palm-moses-basket-noah](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Clair-Lune-Moses-Basket-Mattress/dp/B01BBVPXFS/?tag=cutemosesbaskets-21>)
-
-#### Product Description
-
-
-
-#### Our Rating For This Product
-
-4.6 out of 5 stars
-
-⭐⭐⭐⭐
-
-#### Technical Details
-
-
-#### Customers Say about this product
-
->  
-
-#### Pros and Cons
-
-| ✅  Pros | ❌ Cons |
-|-|-|
-| 👉  |👉   |
-| 👉  |👉   |
-| 👉  |👉   |
-
----
-
 ## Kinder Valley Waffle Moses Basket (White) Review
 
 [![kinder-valley-waffle-moses-basket-white](<https://images-na.ssl-images-amazon.com/images/I/91aWu3PwTcL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Kinder-Valley-Waffle-Moses-Basket/dp/B00OEAWVDG/?tag=cutemosesbaskets-21>)
@@ -481,15 +448,15 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 | ✅  Pros | ❌ Cons |
 |-|-|
-| 👉  |👉   |
-| 👉  |👉   |
-| 👉  |👉   |
+| 👉 High quality materials |👉 There are better options out there  |
+| 👉 Good fit |👉 Some customers have reported it shrinking in the wash  |
+| 👉 Not too Expensive |👉 On the smaller side  |
 
 ---
 
 ## Clair De Lune Silver Lining Palm Review
 
-[![clair-de-lune-silver-lining-palm](<https://cache.ndnb.live/3e6284f99a553d56539b9c7a6e1c88a2fc03e1c3/710ef8f0-5c39-11eb-95c1-518296b24b1b.jpeg>)](<https://www.amazon.co.uk/Clair-Lune-Silver-Lining-Basket/dp/B01NBQZV3R/?tag=cutemosesbaskets-21>)
+[![clair-de-lune-silver-lining-palm](<https://images-na.ssl-images-amazon.com/images/I/61BaORDb3yL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Clair-Lune-Silver-Lining-Basket/dp/B01NBQZV3R/?tag=cutemosesbaskets-21>)
 
 [![clair-de-lune-silver-lining-palm](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/Clair-Lune-Silver-Lining-Basket/dp/B01NBQZV3R/?tag=cutemosesbaskets-21>)
 
