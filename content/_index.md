@@ -11,7 +11,7 @@ Welcome to [Cute Moses Baskets](/) the top place for soon-to-be parents to find 
 
 ![moses-basket-baby](<https://images.unsplash.com/photo-1601168313753-6797eabb6550?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80>)
 
-## Considering buying a Moses Basket?  Read our buying guide to choose the perfect moses basket for your little one.
+## Considering buying a Moses Basket?  Read our moses baskets buying guide to choose the perfect moses basket for your little one.
 
 A traditional **Moses basket** makes it easy to keep your new born baby by your side. Moses Baskets are often wicker baskets that have handles that you can take your baby with you on a quick errand. Most of our products come with rocking stands to gently soothe your baby to sleep. There's also the option to buy a special stand that can accommodate any size of Moses basket. These separate stands are useful if you travel often with the baby. You can keep the matching Moses basket stand in the nursery and put the more portable spare in the boot of your car.
 
@@ -287,8 +287,8 @@ Update: I was really happy with the product but my baby outgrown it when she was
 | ✅  Pros | ❌ Cons |
 |-|-|
 | 👉 Beautiful Handmade Design |👉 1 customer had quality issue with the straps  |
-| 👉 Natural Sleeping Environment for your newborn |👉 -  |
-| 👉 Comfortable |👉 -  |
+| 👉 Natural Sleeping Environment for your newborn |👉   |
+| 👉 Comfortable |👉   |
 
 ---
 
@@ -502,9 +502,9 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 | ✅  Pros | ❌ Cons |
 |-|-|
-| 👉  |👉   |
-| 👉  |👉   |
-| 👉  |👉   |
+| 👉 UK made |👉 Some customers believe the base is not strong enough  |
+| 👉 Quality Fabric |👉 Some customers have reported the item smelling  |
+| 👉 Comes with Bedding |👉   |
 
 ---
 
