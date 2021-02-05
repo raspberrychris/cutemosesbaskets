@@ -720,7 +720,11 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 #### Product Description
 
-from birth the baby sleep quietly steady front rear sway motion solid clean comes jaw and clean with adjustable straps for different car size quick and easy installation
+- **SOOTHING FOR YOUR BABY** Suitable from birth, soothing baby to sleep
+- **ROCKING MOTION** Steady forwards/backwards rocking motion
+- **SOLID BUILD** Solid Pine and wipe clean
+- **ADJUSTABLE STRAPS** Comes with adjustable straps for different basket sizes
+- **EASY ASSEMBLY** Quick and easy assembly
 
 #### Our Rating For This Product
 
@@ -750,7 +754,8 @@ from birth the baby sleep quietly steady front rear sway motion solid clean come
 
 #### Product Description
 
-your childs safety first these children palm valley and pelvis wrinkles opal carrier meets all the necessary british standards bassinet and carrier adapted newborns and is safe to sleep at night it is recommended by doctors that your baby sleeps in a crib or cot in the same room with you to the first six months this product is the quality of our complete package these children gold palm valley standard the pool bundle is the perfect starter kit is verified for your small bed each packet contains a bassinet a mattress palm fiber cushion cover the complete bed system comprises a solid body adjustable hood and quilted bedspread and a foldable opal carrier the bed linen set includes our easy poly mild cleaning produced and covers waterproof mattress and breathable is washable complete machine manufacturer to ensure that this is valid for 6 months from the date of purchase for the period of use of the product so that sure take that is it may be with warranty claims is not renewed valid and their only guaranteed with the original receipt for the security covered the guarantee also covers scratches shock and tears when the first reported in the days after receipt of the goods 14 to ensure that you are satisfied with the product such as assembly are easy the basin palm ended at attention detailed manual and all linens safety and soundness to sleep nights care needs for you and your baby the bell can be adjusted with both sides fasteners and dressed for very little in order to create a comfortable sleeping area the carrier is equipped with a complete set of tool and instructions for quick and easy installation and is equipped with plastic bands around the pool to keep secure industry experts one of the most reliable international brand with over 30 years experience in the field understands children valley the importance of its customers and is proud to produce the best products at affordable prices and deliver you rigorous testing methods and materials are especially safe and comfortable selected for you and your baby his unwavering commitment to product innovation has helped cement his status as a true market leader
+- **LUXURY MATERIALS** Using luxury easy-care poly cotton with a soft padding surround on a handmade Palm Moses Baske
+- **WATER RESISTANT** The mattress is water resistant and breathable allowing easy air movement and heat dissipation around your baby's body keeping them cosy all night long
 
 #### Our Rating For This Product
 
@@ -769,7 +774,8 @@ your childs safety first these children palm valley and pelvis wrinkles opal car
 
 #### Customers Say about this product
 
->  
+>  "Lovely gender neutral basket. I love this item! Only thing I would mention is the picture is misleading the way the top cover sits on the basket. It just sinks in as there's nothing to attach it to the basket itself."
+
 
 
 #### Pros and Cons
@@ -782,7 +788,6 @@ your childs safety first these children palm valley and pelvis wrinkles opal car
 
 ---
 
-
 ## Kinder Valley White Waffle Wicker Review
 
 [![kinder-valley-white-waffle-wicker](<https://images-na.ssl-images-amazon.com/images/I/81PiBJQdmJL._AC_SX425_.jpg>)](<https://www.amazon.co.uk/White-Waffle-Dressing-Deluxe-Rocking/dp/B072N5FP88/?tag=cutemosesbaskets-21>)
@@ -791,7 +796,11 @@ your childs safety first these children palm valley and pelvis wrinkles opal car
 
 #### Product Description
 
-your childs safety first these children valley pod bassinet with gems swing meets all the necessary support to british standards bassinet and carrier adapted newborns and is safe to sleep at night it is recommended by doctors that your baby sleeps in a crib or cot in the same room with you to the first six months this product is the quality of our complete set of gold standard these children bassinet valley pastures pod bundle is the perfect starter kit verified for your small bed each bassinet includes a casing comfortable mattress fiber pad envelope and a duvet wool support the bed system is 100 cotton and cookie cover mattress is waterproof and breathable made of solid pine the carrier has rocking a smooth function that soothes the baby sleep complete warranty helps the manufacturer s warranty for 6 months from the date of purchase is valid valid with the original invoice are not renewed exchanges and warranty so please keep the two together in a safe place to make sure it is completely covered our warranty covers the same strip shock and tears when the first 14 a few days after receiving the product reported to ensure that you are satisfied with the product such as assembly are easy with a manicure and all necessary bedding your baby sleeps safely to ensure nights the bell can be adjusted by means of fasteners on each side and tensioned the mattress has a removable cover washable linen is easy to remove and is machine washable the support comes with a complete kit and manual tools for quick and easy mounting straps and adjustable basin to keep secure industry experts one of the most reliable international brands valley children recognizes the importance of customers and prides yes in the manufacture and the best products at affordable prices strict testing procedures in all products and materials that are safe specially selected for you and your baby his commitment to product innovation has helped cement his status as a true market leader
+-**HANDMADE & GOOD MATERIALS** This handmade wicker pod basket comes with a soft padded 100% Cotton Waffle fabric surround, an embroidered coverlet, and also includes a comfortable mattress, perfect to create a cosy sleeping space for your precious little one.
+
+- **WATER RESISTANT** The mattress is water resistant and breathable allowing easy air movement and heat dissipation around your baby's body keeping them cosy all night long. It has a removable, washable cover for your convenience. It also includes our Little Gem Rocking Stand which has a smooth rocking function which can help to soothe your baby to sleep. It is made from solid pine wood and has a beautiful, classic natural finish making it perfect for any nursery. A
+
+- **COMFORT AND STYLE** A good balance between comfort and style, our Wicker Pod Moses Basket will ensure safe and sound sleeping for you and your baby. WARNING: This product is suitable only for a child who cannot sit unaided, roll over and cannot push themselves up on its hands and knees.
 
 #### Our Rating For This Product
 
@@ -821,7 +830,10 @@ your childs safety first these children valley pod bassinet with gems swing meet
 
 #### Product Description
 
-excellent decoration princess includes women shopping dressing and detailuntil baby washable mattressbeautiful sewing unaidedmachine sit
+- **GORGEOUS DESIGN** Gorgeous Design for your little one
+- **INCLUDES ACCESSORIES** Includes basket, dressing and mattress
+- **BEAUTIFUL DETAIL** Beautiful stitching detail
+- **MACHINE WASHABLE** Machine washable
 
 #### Our Rating For This Product
 
