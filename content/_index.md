@@ -1092,7 +1092,7 @@ cotton blend basketopulent elegant style with unique cot with deluxe package cus
 
 ## Kinder Valley Beary Nice Blue Moses
 
-[![kinder-valley-beary-nice-blue-moses](<https://cache.ndnb.live/417d7f10086710dcb226b0b72a5c6544b3e09d3c/60855390-5c33-11eb-b6d0-a999bf5e59ff.jpeg>)](<https://www.amazon.co.uk/Beary-Basket-Deluxe-Natural-Rocking/dp/B01DMT6LKI/?tag=cutemosesbaskets-21>)
+[![kinder-valley-beary-nice-blue-moses](<https://images-na.ssl-images-amazon.com/images/I/91zSZxMU0wL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Beary-Basket-Deluxe-Natural-Rocking/dp/B01DMT6LKI/?tag=cutemosesbaskets-21>)
 
 [![kinder-valley-beary-nice-blue-moses](</images/checkprice.png>)](<https://www.amazon.co.uk/Beary-Basket-Deluxe-Natural-Rocking/dp/B01DMT6LKI/?tag=cutemosesbaskets-21>)
 
@@ -1126,11 +1126,11 @@ your childs safety first these children palm valley and pelvis wrinkles opal car
 ---
 
 
-## Hood Bars  Fittings  Moses
+## Hood Bars Fittings  Moses
 
-[![hood-bars-fit](<https://cache.ndnb.live/85a5389b35b25f6ac43ab42025ed2dff27fa131b/392ba9f0-5c3f-11eb-843c-1d48ef5e706a.jpeg>)](<https://www.amazon.co.uk/fittings-Moses-Baskets-BASKET-INCLUDED/dp/B017W3OXEQ/?tag=cutemosesbaskets-21>)
+[![hood-bars-fit](<https://images-na.ssl-images-amazon.com/images/I/41MI06KLtPL._AC_.jpg>)](<https://www.amazon.co.uk/fittings-Moses-Baskets-BASKET-INCLUDED/dp/B017W3OXEQ/?tag=cutemosesbaskets-21>)
 
-[![null](</images/checkprice.png>)](<https://www.amazon.co.uk/fittings-Moses-Baskets-BASKET-INCLUDED/dp/B017W3OXEQ/?tag=cutemosesbaskets-21>)
+[![hood-bars-fit](</images/checkprice.png>)](<https://www.amazon.co.uk/fittings-Moses-Baskets-BASKET-INCLUDED/dp/B017W3OXEQ/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
@@ -1140,7 +1140,7 @@ bar bell and metal equipment moses moses basketsfits rods most baskets 36 plasti
 
 4.3 out of 5 stars
 
-⭐⭐⭐⭐⭐
+⭐⭐⭐⭐
 
 #### Technical Details
 
@@ -1159,16 +1159,13 @@ bar bell and metal equipment moses moses basketsfits rods most baskets 36 plasti
 | 👉  |👉   |
 | 👉  |👉   |
 
-
-
 ---
-
 
 ## 6-Piece Grey Waffle White Wicker Moses
 
-[![null](<https://cache.ndnb.live/8ee1a352b1d96785039aa5d7d6cfb276e494367c/f75252a0-5c3d-11eb-869c-c577dcf58eb8.jpeg>)](<https://www.amazon.co.uk/6-Piece-Waffle-Wicker-Basket-Starter/dp/B019QSEKEI/?tag=cutemosesbaskets-21>)
+[![6-piece-grey-waffle-white-wicker-moses](<https://images-na.ssl-images-amazon.com/images/I/819ssKfVI4L._AC_SY879_.jpg>)](<https://www.amazon.co.uk/6-Piece-Waffle-Wicker-Basket-Starter/dp/B019QSEKEI/?tag=cutemosesbaskets-21>)
 
-[![null](</images/checkprice.png>)](<https://www.amazon.co.uk/6-Piece-Waffle-Wicker-Basket-Starter/dp/B019QSEKEI/?tag=cutemosesbaskets-21>)
+[![6-piece-grey-waffle-white-wicker-moses](</images/checkprice.png>)](<https://www.amazon.co.uk/6-Piece-Waffle-Wicker-Basket-Starter/dp/B019QSEKEI/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
@@ -1202,9 +1199,9 @@ drape with self supporting rod to complete moses sides basket comes game with lu
 
 ## Kinder Valley Blue Spots & Stripes
 
-[![null](<https://cache.ndnb.live/041d5d89c35a8a836e9da50593d65b646fc46728/6cdb9730-5c33-11eb-a2d6-c359b17717a2.jpeg>)](<https://www.amazon.co.uk/Stripes-Wicker-Basket-Deluxe-Rocking/dp/B06XJ5KZ37/?tag=cutemosesbaskets-21>)
+[![kinder-valley-blue-spots-stripes](<https://cache.ndnb.live/041d5d89c35a8a836e9da50593d65b646fc46728/6cdb9730-5c33-11eb-a2d6-c359b17717a2.jpeg>)](<https://www.amazon.co.uk/Stripes-Wicker-Basket-Deluxe-Rocking/dp/B06XJ5KZ37/?tag=cutemosesbaskets-21>)
 
-[![null](</images/checkprice.png>)](<https://www.amazon.co.uk/Stripes-Wicker-Basket-Deluxe-Rocking/dp/B06XJ5KZ37/?tag=cutemosesbaskets-21>)
+[![kinder-valley-blue-spots-stripes](</images/checkprice.png>)](<https://www.amazon.co.uk/Stripes-Wicker-Basket-Deluxe-Rocking/dp/B06XJ5KZ37/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
@@ -1214,7 +1211,7 @@ your childs safety first this wicker rocking cradle chester children valley meet
 
 4.7 out of 5 stars
 
-⭐⭐⭐⭐⭐
+⭐⭐⭐⭐
 
 #### Technical Details
 
@@ -1233,16 +1230,13 @@ your childs safety first this wicker rocking cradle chester children valley meet
 | 👉  |👉   |
 | 👉  |👉   |
 
-
-
 ---
-
 
 ## Fylo Blue Waffle Grey Wicker Moses
 
-[![null](<https://images-eu.ssl-images-amazon.com/images/I/718u34LA3-L.__AC_SX300_SY300_QL70_ML2_.jpg>)](<https://www.amazon.co.uk/Waffle-Wicker-Moses-Basket-Rocking/dp/B07NPXMBFH/?tag=cutemosesbaskets-21>)
+[![fylo-blue-waffle-grey-wicker-moses](<https://images-eu.ssl-images-amazon.com/images/I/718u34LA3-L.__AC_SX300_SY300_QL70_ML2_.jpg>)](<https://www.amazon.co.uk/Waffle-Wicker-Moses-Basket-Rocking/dp/B07NPXMBFH/?tag=cutemosesbaskets-21>)
 
-[![null](</images/checkprice.png>)](<https://www.amazon.co.uk/Waffle-Wicker-Moses-Basket-Rocking/dp/B07NPXMBFH/?tag=cutemosesbaskets-21>)
+[![fylo-blue-waffle-grey-wicker-moses](</images/checkprice.png>)](<https://www.amazon.co.uk/Waffle-Wicker-Moses-Basket-Rocking/dp/B07NPXMBFH/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
@@ -1278,9 +1272,9 @@ mecedora support included this rocking wicker bassinet with media is the perfect
 
 ## Beautiful Dolls Moses Basket Broderie Anglaise
 
-[![null](<https://cache.ndnb.live/3a82c5b91b848e4417b9c715bf5e35af454a6726/688e0e00-5c3e-11eb-b6d0-a999bf5e59ff.jpeg>)](<https://www.amazon.co.uk/Beautiful-Dolls-Basket-Broderie-Anglaise/dp/B01N9F0JH3/?tag=cutemosesbaskets-21>)
+[![beautiful-dolls-moses-basket-broderie-anglaise](<https://images-na.ssl-images-amazon.com/images/I/813wWWf5XXL._AC_SY679_.jpg>)](<https://www.amazon.co.uk/Beautiful-Dolls-Basket-Broderie-Anglaise/dp/B01N9F0JH3/?tag=cutemosesbaskets-21>)
 
-[![null](</images/checkprice.png>)](<https://www.amazon.co.uk/Beautiful-Dolls-Basket-Broderie-Anglaise/dp/B01N9F0JH3/?tag=cutemosesbaskets-21>)
+[![beautiful-dolls-moses-basket-broderie-anglaise](</images/checkprice.png>)](<https://www.amazon.co.uk/Beautiful-Dolls-Basket-Broderie-Anglaise/dp/B01N9F0JH3/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
@@ -1290,7 +1284,7 @@ enter foryourlittleone baskets aesthetically pleasing light for your little doll
 
 4.4 out of 5 stars
 
-⭐⭐⭐⭐⭐
+⭐⭐⭐⭐
 
 #### Technical Details
 
@@ -1309,16 +1303,13 @@ enter foryourlittleone baskets aesthetically pleasing light for your little doll
 | 👉  |👉   |
 | 👉  |👉   |
 
-
-
 ---
-
 
 ## Clair De Lune Dimple Grey Noah
 
-[![null](<https://cache.ndnb.live/e65fe0655efa89447fda91cb2930901cf7a1b1c1/e8ad95b0-5c3e-11eb-a2d6-c359b17717a2.jpeg>)](<https://www.amazon.co.uk/Clair-Lune-Dimple-Wicker-Basket/dp/B014F4IMFQ/?tag=cutemosesbaskets-21>)
+[![clair-de-lune-dimple-grey-noah](<https://cache.ndnb.live/e65fe0655efa89447fda91cb2930901cf7a1b1c1/e8ad95b0-5c3e-11eb-a2d6-c359b17717a2.jpeg>)](<https://www.amazon.co.uk/Clair-Lune-Dimple-Wicker-Basket/dp/B014F4IMFQ/?tag=cutemosesbaskets-21>)
 
-[![null](</images/checkprice.png>)](<https://www.amazon.co.uk/Clair-Lune-Dimple-Wicker-Basket/dp/B014F4IMFQ/?tag=cutemosesbaskets-21>)
+[![clair-de-lune-dimple-grey-noah](</images/checkprice.png>)](<https://www.amazon.co.uk/Clair-Lune-Dimple-Wicker-Basket/dp/B014F4IMFQ/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
@@ -1350,11 +1341,11 @@ size w45cm x l100cm h25cmcolour blue gray material 100 basketball wicker dressin
 ---
 
 
-## Padding  Moses Baskets (Padding Only
+## Padding Moses Baskets (Padding Only)
 
-[![null](<https://cache.ndnb.live/34def11c5ce2cfb293aa495c47132f00a8ee8525/ed76b680-5c3e-11eb-95c1-518296b24b1b.jpeg>)](<https://www.amazon.co.uk/Padding-Moses-Baskets-padding-basket/dp/B00EUA47TG/?tag=cutemosesbaskets-21>)
+[![padding-moses-baskets-padding-only](<https://images-na.ssl-images-amazon.com/images/I/61%2BbipEHaGL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Padding-Moses-Baskets-padding-basket/dp/B00EUA47TG/?tag=cutemosesbaskets-21>)
 
-[![null](</images/checkprice.png>)](<https://www.amazon.co.uk/Padding-Moses-Baskets-padding-basket/dp/B00EUA47TG/?tag=cutemosesbaskets-21>)
+[![padding-moses-baskets-padding-only](</images/checkprice.png>)](<https://www.amazon.co.uk/Padding-Moses-Baskets-padding-basket/dp/B00EUA47TG/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
@@ -1364,14 +1355,9 @@ extra padding basketpadding for moses if you want to dress up their own baskets 
 
 ⭐⭐⭐⭐⭐
 
-#### Technical Details
-
-
 #### Customers Say about this product
 
->  
-
-
+>  "Overall, I am pleased with the item. I think it's good value for money. Not as thick as I thought it would be, however, as it's for a new born's moses basket, the padding is sufficient.""
 
 #### Pros and Cons
 
@@ -1381,16 +1367,13 @@ extra padding basketpadding for moses if you want to dress up their own baskets 
 | 👉  |👉   |
 | 👉  |👉   |
 
-
-
 ---
-
 
 ## Kinder Valley White Honeycomb White Wicker
 
-[![null](<https://images-eu.ssl-images-amazon.com/images/I/A1zowPF3FuL.__AC_SY300_QL70_ML2_.jpg>)](<https://www.amazon.co.uk/White-Basket-Honeycomb-Dressing-Rocking/dp/B06XTRQLRG/?tag=cutemosesbaskets-21>)
+[![kinder-valley-white-honeycomb-white-wicker](<https://images-eu.ssl-images-amazon.com/images/I/A1zowPF3FuL.__AC_SY300_QL70_ML2_.jpg>)](<https://www.amazon.co.uk/White-Basket-Honeycomb-Dressing-Rocking/dp/B06XTRQLRG/?tag=cutemosesbaskets-21>)
 
-[![null](</images/checkprice.png>)](<https://www.amazon.co.uk/White-Basket-Honeycomb-Dressing-Rocking/dp/B06XTRQLRG/?tag=cutemosesbaskets-21>)
+[![kinder-valley-white-honeycomb-white-wicker](</images/checkprice.png>)](<https://www.amazon.co.uk/White-Basket-Honeycomb-Dressing-Rocking/dp/B06XTRQLRG/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
@@ -1426,9 +1409,9 @@ your childs safety first these children valley pod bassinet with gems swing meet
 
 ## Kinder Valley Beary Nice Cream Moses
 
-[![null](<https://cache.ndnb.live/5936703686656dfdda8bc0c69d1af11e15ba012d/6cc74ae0-5c3e-11eb-95c1-518296b24b1b.jpeg>)](<https://www.amazon.co.uk/Beary-Basket-Deluxe-Natural-Rocking/dp/B01DMULO0E/?tag=cutemosesbaskets-21>)
+[![kinder-valley-beary-nice-cream-moses](<https://images-na.ssl-images-amazon.com/images/I/91yzXl5La2L._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Beary-Basket-Deluxe-Natural-Rocking/dp/B01DMULO0E/?tag=cutemosesbaskets-21>)
 
-[![null](</images/checkprice.png>)](<https://www.amazon.co.uk/Beary-Basket-Deluxe-Natural-Rocking/dp/B01DMULO0E/?tag=cutemosesbaskets-21>)
+[![kinder-valley-beary-nice-cream-moses](</images/checkprice.png>)](<https://www.amazon.co.uk/Beary-Basket-Deluxe-Natural-Rocking/dp/B01DMULO0E/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
@@ -1440,12 +1423,14 @@ your childs safety first this rocker children palm valley and chester moses meet
 
 #### Technical Details
 
+| Package Dimensions | 86 x 40 x 30 cm; 4.3 Kilograms |
+|--------------------|--------------------------------|
+| Batteries required | No                             |
+| Item Weight        | 4.3 kg                         |
 
 #### Customers Say about this product
 
->  
-
-
+>  "Great design and material, more importantly, my new born sleeps beautifully when in it, so can't complain about anything! A great product!"
 
 #### Pros and Cons
 
@@ -1455,16 +1440,13 @@ your childs safety first this rocker children palm valley and chester moses meet
 | 👉  |👉   |
 | 👉  |👉   |
 
-
-
 ---
-
 
 ## Izziwotnot Gift Blue On Dark Wicker
 
-[![null](<https://cache.ndnb.live/35511b00ac06c4cb1ea020f2ff5c49b713ac29d6/76bd5760-5c3e-11eb-8689-3530ec2e7393.jpeg>)](<https://www.amazon.co.uk/Izziwotnot-Gift-Wicker-Moses-Basket/dp/B00CE8Z402/?tag=cutemosesbaskets-21>)
+[![izziwotnot-gift-blue-on-dark-wicker](<https://images-na.ssl-images-amazon.com/images/I/71ycjqpx%2BqL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Izziwotnot-Gift-Wicker-Moses-Basket/dp/B00CE8Z402/?tag=cutemosesbaskets-21>)
 
-[![null](</images/checkprice.png>)](<https://www.amazon.co.uk/Izziwotnot-Gift-Wicker-Moses-Basket/dp/B00CE8Z402/?tag=cutemosesbaskets-21>)
+[![izziwotnot-gift-blue-on-dark-wicker](</images/checkprice.png>)](<https://www.amazon.co.uk/Izziwotnot-Gift-Wicker-Moses-Basket/dp/B00CE8Z402/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
@@ -1474,16 +1456,24 @@ lightweight and durable the finished leather handles and can be moved with you a
 
 4.6 out of 5 stars
 
-⭐⭐⭐⭐⭐
+⭐⭐⭐⭐
 
 #### Technical Details
 
+| Model Number               | IRGIFT-WAFF-P/BLUE-WK-DK-BASK                 |
+|----------------------------|-----------------------------------------------|
+| Product Dimensions         | 85 x 50 x 25 cm; 3 Kilograms                  |
+| Item model number          | IRGIFT-WAFF-P/BLUE-WK-DK-BASK                 |
+| Target gender              | Male                                          |
+| Material Type              | Cotton                                        |
+| Care Instructions          | Machine washable with wipeclean peva mattress |
+| Batteries required         | No                                            |
+| Frustration-free packaging | Certified frustration-free                    |
+| Item Weight                | 3 kg                                          |
 
 #### Customers Say about this product
 
->  
-
-
+>  "This is absolutely beautiful!!...it was delivered faster than we anticipated and we are very pleased with it"
 
 #### Pros and Cons
 
@@ -1493,16 +1483,13 @@ lightweight and durable the finished leather handles and can be moved with you a
 | 👉  |👉   |
 | 👉  |👉   |
 
-
-
 ---
-
 
 ## Cuddles Collection Pink Dimple Moses Basket
 
-[![null](<https://cache.ndnb.live/ab80a6f0f013d23125ff33b23e2e82be6f992457/78359f80-5c3e-11eb-8689-3530ec2e7393.jpeg>)](<>)
+[![cuddles-collection-pink-dimple-moses-basket](<https://cache.ndnb.live/ab80a6f0f013d23125ff33b23e2e82be6f992457/78359f80-5c3e-11eb-8689-3530ec2e7393.jpeg>)](<>)
 
-[![null](</images/checkprice.png>)](<>)
+[![cuddles-collection-pink-dimple-moses-basket](</images/checkprice.png>)](<>)
 
 #### Product Description
 
