@@ -571,16 +571,15 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 #### Product Description
 
-your childs safety first this children s valley pod wicker rocking cradle with little gem assistance and all standards met required textile uk packaging bassinet foot beam and textile is suitable from birth and is safe to sleep it is recommended by doctors that your baby sleeps in a crib or cot in the same room with you to the first six months this product is the quality of our complete set of gold standard these children bassinet valley pastures pod bundle is the perfect starter kit verified for your small bed each package includes a basket clad fiber mat bassinet surround ceilings supported fleece covering a gem rocking textile support and bundle the bed system is 100 cotton cookie and the mattress cover is waterproof and machine washable made of solid pine the carrier has a function to smooth help your baby quietly rolled the manufacturer sleep complete to ensure this applies to 6 months from the date of purchase for the period of use of the expected product so you can be sure it will take not to renew the warranty claims and is valid only with the original receipt for the security to ensure their covered the guarantee also covers scratches shock and tears when the first in the 14 days reported of receipt of goods to ensure that you are satisfied with the product as are easy of use this basin complemented by a carefully detailed sleep instructions and all necessary linens for a good night for you and your baby the basket is shaped and can be removed easily machine washable create a comfortable sleeping area for your baby and bedding the support comes with a complete set of tools and instructions for quick and easy installation it has adjustable straps keep your insurance pool textiles ray machine when accidents industry experts is washed one of the most reliable international brand with over 30 years experience in the children s valley recognizes the importance of its customers and is proud of manufacturing and supplying the best products at affordable prices you rigorous testing methods and materials are especially safe and comfortable selected for you and your baby his unwavering commitment to product innovation has helped cement his status as a true market leader
+- **EASY TO USE** Easy to Use: This Moses Basket comes complete with a detailed care manual and all the required bedding for a sound nights’ sleep for you and your baby
+
+- **MANUFACTURERS WARRANTY** This is valid for 6 months from date of purchase, which covers the intended usage period of the product so you can be assured that it will last
 
 #### Our Rating For This Product
 
 4.6 out of 5 stars
 
-⭐⭐⭐⭐⭐
-
-#### Technical Details
-
+⭐⭐⭐⭐
 
 #### Customers Say about this product
 
@@ -590,9 +589,9 @@ your childs safety first this children s valley pod wicker rocking cradle with l
 
 | ✅  Pros | ❌ Cons |
 |-|-|
-| 👉  |👉   |
-| 👉  |👉   |
-| 👉  |👉   |
+| 👉 Good Value for Money |👉 Customers say the mattress is too small  |
+| 👉 Good Design and colours |👉   |
+| 👉 Sturdy and stable design |👉   |
 
 ---
 
@@ -604,7 +603,9 @@ your childs safety first this children s valley pod wicker rocking cradle with l
 
 #### Product Description
 
-your childs safety first these children valley bedding pool meets all the necessary steps to british standards and reach compliant bed pool adapted newborns and is back to sleep safely at night it is recommended by doctors that your baby sleeps in a crib or cot in the same room with you to the first six months this product has the quality of our gold standard the complete package is verified children valley basin of this bed is the perfect bed for your little booties on 1 september each bedding includes a body wrap cap padded quilted lining and padded for comfort and support the game comes in a nice design printing and our ease of soft poly maintenance suitable for most palm trees and pastures moses baskets complete warranty this is valid for 6 months from the date of purchase for the duration of use of the product so that certainly may be will take that which is not not renew the warranty claims and is only with the original input to keep it safe make sure you are covered the guarantee also covers scratches shock and tears when the first in the 14 days reported of receipt of goods to ensure that you are satisfied with the product as are easy of use this bedpan can be applied his bassinet in a few simple steps a united eleven of the visor is adjustable and the other the soft lining around the basket tighten the closure on the side or and the body comfort covered to ensure the covers can be hidden ideal to create a comfortable space for his precious little sleep industry experts one of the most reliable international brand with over 30 years experience in the field recognizes the children valley the importance of its customers and is proud to produce it and deliver the best products affordable prices you rigorous testing methods and materials are especially safe and comfortable selected for you and your baby his unwavering commitment to product innovation has helped cement his status as a true market leader
+- **SAFE** Your Childs Safety First: This Kinder Valley Moses Basket Bedding Set conforms to all necessary British Standards and is REACH compliant.
+
+- **EASY TO USE** Easy to Use: This Moses Basket Bedding Set can be applied to your moses basket in a few simple steps.
 
 #### Our Rating For This Product
 
@@ -627,9 +628,9 @@ your childs safety first these children valley bedding pool meets all the necess
 
 | ✅  Pros | ❌ Cons |
 |-|-|
-| 👉  |👉   |
-| 👉  |👉   |
-| 👉  |👉   |
+| 👉 Well Padded and good fabric |👉 Better baskets are available  |
+| 👉 Beautifully made |👉 Cheaper Design than other baskets  |
+| 👉 Good Value for Money |👉   |
 
 ---
 
@@ -641,35 +642,35 @@ your childs safety first these children valley bedding pool meets all the necess
 
 #### Product Description
 
-your childs safety first this wicker rocking cradle chester children valley meets british support for all necessary standards bassinet and carrier adapted newborns and is safe to sleep at night it is recommended by doctors that your baby sleeps in a crib or cot in the same room with you to the first six months this product is the quality of our comprehensive standard the oro valley wicker bassinet children this bundle is the perfect starter kit verified for your small bed each packet contains a wicker basket bassinet mattress fiber padded lining bedding complete set including body wrap adjustable hood and quilted duvet and a rocking chair can support static chester be left if needed all linen is from our soft tissue and covers the mattress dimples is waterproof breathable and manufacturers washable complete machine warranty this applies for 6 months from the date of purchase for the period of intended use of the product so you can be sure it will take with the original document has not renewed with warranty claims and to ensure safety are to fall the guarantee also covers scratches shock and tears when the first 14 reported in the days of receipt of goods to ensure that you are satisfied with the product such as assembly are easy the wicker pool is complete attention detailed manual and all linens safety and soundness to sleep nights care needs for you and your baby the bell can be adjusted with both sides fasteners and dressed for very little in order to create a comfortable sleeping area the carrier is with a complete set of tools and instructions for quick and easy installation and adjustable straps your pelvis to keep secure industry experts one of the most reliable international brand with over 30 years of experience in the field recognizes the children valley the importance of its customers and is proud to produce the best products at affordable prices and deliver you rigorous testing methods and materials are especially safe and comfortable selected for you and your baby his unwavering commitment to product innovation has helped cement his status as a true market leader
+- **EASY TO ASSEMBLE** Easy to Assemble: The Wicker Moses Basket comes complete with a detailed care manual and all the required bedding to ensure a safe and sound nights’ sleep for you and your baby.
+
+- **LUXURY DESIGN** Using luxury soft dimple fabric with a soft padding surround on a handmade Wicker Moses Basket, this basket also includes a comfortable mattress you can be certain your baby will sleep peacefully at night.  
 
 #### Our Rating For This Product
 
 4.5 out of 5 stars
 
-⭐⭐⭐⭐⭐
+⭐⭐⭐⭐
 
 #### Technical Details
 
+| Package Dimensions | 2 x 2 x 2 cm; 5 Kilograms |
+|--------------------|---------------------------|
+| Item Weight        | 5 kg                      |
 
 #### Customers Say about this product
 
->  
-
-
+>  "This basket is top class for style and durability so easy to assemble the covering is so soft and also chic i bought this for my sister as a baby present and she is over the moon with it and the fact that it rocks as well is brilliant very well made strong basket and stand and the soft mattress i cant fault it at all brilliant purchase will be buying more from this company"
 
 #### Pros and Cons
 
 | ✅  Pros | ❌ Cons |
 |-|-|
-| 👉  |👉   |
-| 👉  |👉   |
-| 👉  |👉   |
-
-
+| 👉 Looks Beautiful |👉 Some customers have reported the base being wobbly  |
+| 👉 Designed well |👉 Some customers have reported missing parts  |
+| 👉 Quality of the fabric is very good |👉 Frame could be better   |
 
 ---
-
 
 ## Grey Moses Basket Rocking Stand Review
 
@@ -679,7 +680,8 @@ your childs safety first this wicker rocking cradle chester children valley meet
 
 #### Product Description
 
-curved design of the cross and pasture palm basketsget the best kind of support for the palm or wicker bassinet their babies and ensure that they get every night a long deep sleep the beautiful body and blends design attractive cross curve oscillating color support and various kinds of all maternal issues and raise design this support the pine forest has a very smooth rocking motion keeps baby delivered in a deep sleep and ensures not seen for the sleep cycle is disturbed secure framework and solid foundation welcome baskets and last long in any time specifications security compatible with wicker baskets or palm conducive 70 83 5cm x 30 37cm moses
+**GOOD SUPPORT** Get the best kind of support for the wicker or palm moses basket of your babies and make sure that they get a deep and long sleep every night. The beautiful coloured body and attractive curved cross design of the rocking stand blends well with all different kinds of nursery themes and elevates the design.
+
 
 #### Our Rating For This Product
 
@@ -758,11 +760,16 @@ your childs safety first these children palm valley and pelvis wrinkles opal car
 
 #### Technical Details
 
+| Product Dimensions     | 86 x 40.5 x 49 cm; 1.5 Kilograms |
+|------------------------|----------------------------------|
+| Manufacturer reference | GREYMOBASRS                      |
+| Target gender          | Unisex                           |
+| Number Of Items        | 1                                |
+| Item Weight            | 1.5 kg                           |
 
 #### Customers Say about this product
 
 >  
-
 
 
 #### Pros and Cons
@@ -773,14 +780,12 @@ your childs safety first these children palm valley and pelvis wrinkles opal car
 | 👉  |👉   |
 | 👉  |👉   |
 
-
-
 ---
 
 
 ## Kinder Valley White Waffle Wicker Review
 
-[![kinder-valley-white-waffle-wicker](<https://cache.ndnb.live/9fab9ff5d9a3c245447131b35a16827641a2cd3c/9adf3920-5c33-11eb-b6d0-a999bf5e59ff.jpeg>)](<https://www.amazon.co.uk/White-Waffle-Dressing-Deluxe-Rocking/dp/B072N5FP88/?tag=cutemosesbaskets-21>)
+[![kinder-valley-white-waffle-wicker](<https://images-na.ssl-images-amazon.com/images/I/81PiBJQdmJL._AC_SX425_.jpg>)](<https://www.amazon.co.uk/White-Waffle-Dressing-Deluxe-Rocking/dp/B072N5FP88/?tag=cutemosesbaskets-21>)
 
 [![kinder-valley-white-waffle-wicker](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/White-Waffle-Dressing-Deluxe-Rocking/dp/B072N5FP88/?tag=cutemosesbaskets-21>)
 
