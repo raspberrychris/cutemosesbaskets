@@ -40,3 +40,16 @@ google_fonts = [
 
 heading_font = "Fira Code"
 body_font = "Open Sans"
+
+
+[[menu.main]]
+name = "Moses Baskets Buyers Guide"
+URL = "/"
+weight = 2
+parent = "Moses Baskets"
+
+[[menu.main]]
+name = "Moses Baskets Beginners Guide"
+URL = "/"
+weight = 2
+parent = "Moses Baskets"
