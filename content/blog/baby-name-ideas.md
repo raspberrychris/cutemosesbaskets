@@ -4,7 +4,7 @@ type: top
 toc: true
 menu:
 weight: 1
-canonicalUrl: “/"
+canonicalUrl: “/baby-name-ideas"
 ---
 
 In this article we will look at baby name ideas from around the world.  Starting off with names inspired from Greek Mythology and then working into some of the more unusual baby names compare to more popular ones in America and the world and those inspired by Authors.
