@@ -831,9 +831,9 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 | ✅  Pros | ❌ Cons |
 |-|-|
-| 👉  |👉   |
-| 👉  |👉   |
-| 👉  |👉   |
+| 👉 Beautiful design |👉 Some customers have said that the Mattress is too small for bassinet  |
+| 👉 Good price |👉 Slimmer than other moses baskets  |
+| 👉 Good customer service |👉 Less suitable for smaller Babies  |
 
 ---
 
@@ -852,9 +852,9 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 #### Our Rating For This Product
 
-4.5 out of 5 stars
+3 out of 5 stars
 
-⭐⭐⭐⭐
+⭐⭐⭐
 
 #### Technical Details
 
@@ -875,9 +875,9 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 | ✅  Pros | ❌ Cons |
 |-|-|
-| 👉  |👉   |
-| 👉  |👉   |
-| 👉  |👉   |
+| 👉 Looks Amazing |👉 Some customers have expressed that the cover doesn't fit properly |
+| 👉 Great Price |👉  1 Customer said the images were misleading |
+| 👉 Quick arrival |👉 Some customers have said the construction is flimsy  |
 
 ---
 
@@ -889,7 +889,9 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 #### Product Description
 
-deluxe fast deliveryhypo allergen excellent rating mattressplease moses wicker basket only for sale no floating storage included
+**Deluxe design**
+**Fast Delivery**
+**Hypo-Allergenic Superb Mattress**
 
 #### Our Rating For This Product
 
@@ -917,9 +919,9 @@ deluxe fast deliveryhypo allergen excellent rating mattressplease moses wicker b
 
 | ✅  Pros | ❌ Cons |
 |-|-|
-| 👉  |👉   |
-| 👉  |👉   |
-| 👉  |👉   |
+| 👉 Stunning design |👉 Some customers have reported the basket being sightly different to the images  |
+| 👉 Great price  |👉 May need to purchase a separate mattress  |
+| 👉Hypoallergenic Mattress |👉 Some customer have reported it being hard to assemble  |
 
 ---
 
