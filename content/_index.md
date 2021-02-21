@@ -933,7 +933,11 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 #### Product Description
 
-wicker solid wheelssuitable frames in natural wood from birth to 9 months approxbeautiful bed september certificate oko tex cotton cloth and draping holderbedding are made from 100 in september 100 polyester filling
+- Natural wicker design
+- Solid wooden chassis with wheels
+- Suitable from birth to 9 months approximately
+- Beautiful bedding set with drape and drape holder
+- Bedding set are made 100% cotton
 
 #### Our Rating For This Product
 
