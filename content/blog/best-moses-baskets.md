@@ -5,6 +5,7 @@ toc: true
 menu:
 weight: 1
 canonicalUrl: “/best-moses-baskets"
+url: best-moses-baskets
 ---
 
 # Best Moses Baskets
