@@ -25,7 +25,7 @@ Some of the most frequently asked questions about moses baskets are below:
 - [Where is the best place to put a Moses basket](/blog/where-is-the-best-place-to-put-a-moses-basket)
 - [Are Moses Baskets Safe for Newborns](/blog/are-moses-baskets-safe-for-newborns)
 - [Can you use a carrycot instead of a Moses Basket](/blog/can-you-use-a-carrycott-instead-of-a-moses-basket)
-
+- [Are Moses Baskets worth the money?](/blog/are-moses-baskets-worth-the-money)
 ## Considering buying a Moses Basket?  Read our moses baskets buying guide to choose the perfect moses basket for your little one.
 
 A traditional **Moses basket** makes it easy to keep your new born baby by your side. Moses Baskets are often wicker baskets that have handles that you can take your baby with you on a quick errand. Most of our products come with rocking stands to gently soothe your baby to sleep. There's also the option to buy a special stand that can accommodate any size of Moses basket. These separate stands are useful if you travel often with the baby. You can keep the matching Moses basket stand in the nursery and put the more portable spare in the boot of your car.
