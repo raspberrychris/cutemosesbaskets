@@ -5,6 +5,7 @@ toc: true
 menu:
 weight: 1
 canonicalUrl: “/baby-name-ideas"
+url: baby-name-ideas
 ---
 
 # Baby Name ideas

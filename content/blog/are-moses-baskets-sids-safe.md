@@ -5,6 +5,7 @@ toc: true
 menu:
 weight: 1
 canonicalUrl: “/are-moses-baskets-safe"
+url: are-moses-baskets-safe
 ---
 
 # Are Moses Baskets safe?
