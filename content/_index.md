@@ -11,6 +11,8 @@ Welcome to [Cute Moses Baskets](/) the top place for soon-to-be parents to find 
 
 ![moses-basket-baby](<https://images.unsplash.com/photo-1601168313753-6797eabb6550?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80>)
 
+{{<post-image image="https://images.unsplash.com/photo-1601168313753-6797eabb6550?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" />}}
+
 
 ## Moses Basket Beginners Guide
 
