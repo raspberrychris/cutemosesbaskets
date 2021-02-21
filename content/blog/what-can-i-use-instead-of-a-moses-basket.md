@@ -5,6 +5,7 @@ toc: true
 menu:
 weight: 1
 canonicalUrl: “/what-can-i-use-instead-of-a-moses-basket"
+url: what-can-i-use-instead-of-moses-basket
 ---
 
 # What can I use instead of a Moses Basket?

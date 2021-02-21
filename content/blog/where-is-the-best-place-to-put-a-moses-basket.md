@@ -5,6 +5,7 @@ toc: true
 menu:
 weight: 1
 canonicalUrl: “/where-is-the-best-place-to-put-a-moses-basket"
+url: where-is-the-best-place-to-put-a-moses-basket
 ---
 
 # Where is the best place to put a moses basket?

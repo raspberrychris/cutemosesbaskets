@@ -70,33 +70,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       {{ partial "google-fonts" . }}
 
   </head>
-
-
 <body>
-
-
   <!-- BACKGROUND COLOUR  -->
   <body class="bg-white">
-
     <div id="holy" class="container-lg bg-white h-100">
-
       <div id="header" class="px-1 bg-white">
         {{ partial "header.html" . }}
       </div>
-
-
-
       <div role="main" id="main" class="holy-main markdown-body px-4 bg-white">
         {{ block "main" . }}
         {{ end }}
 </div>
 
-
-
       <div id="side" class="pr-1 bg-white">
         <div id="toc" class="Box Box--white mb-3">
     <h4>About Me</h4>
-Hello my name is Chris and I run Cutemosesbaskets.com.
+Hello my name is Chris and I run Cutemosesbaskets.com.  This site reviews the best moses baskets in the market.  I am a new father and thought I would create this site to help parents navigate the path to finding a perfect moses basket for your little one!
   </div>
         <aside class="pr-3">
           {{ block "side" . }}
