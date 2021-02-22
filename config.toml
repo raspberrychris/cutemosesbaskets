@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Cute Moses Baskets"
 theme = "hugo-primer"
-paginate = 3
+paginate = 10
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 # Above are configs from hugoBasicExample
@@ -12,7 +12,7 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 googleAnalytics = ""
 disqusShortname=""
-copyright = "&copy;cutemosesbaskets.com 2021"
+copyright = "&copy;Cutemosesbaskets.com 2021"
 
 [params]
 # Chose Social Sharing Buttons you want to use.
@@ -53,3 +53,21 @@ name = "Moses Baskets Beginners Guide"
 URL = "/"
 weight = 2
 parent = "Moses Baskets"
+
+[[menu.main]]
+name = "Privacy Policy"
+URL = "/privacy-policy"
+weight = 2
+parent = "About"
+
+[[menu.main]]
+name = "Cookie Policy"
+URL = "/cookie-policy"
+weight = 2
+parent = "About"
+
+[[menu.main]]
+name = "About Us"
+URL = "about-us"
+parent= "About"
+weight = 2

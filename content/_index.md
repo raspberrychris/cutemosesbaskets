@@ -1460,8 +1460,8 @@ your childs safety first this rocker children palm valley and chester moses meet
 
 | ✅  Pros | ❌ Cons |
 |-|-|
-| 👉  |👉   |
-| 👉  |👉   |
+| 👉 Great Looking |👉   |
+| 👉 High quality materials |👉   |
 | 👉  |👉   |
 
 ---
