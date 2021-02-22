@@ -1474,7 +1474,11 @@ your childs safety first this rocker children palm valley and chester moses meet
 
 #### Product Description
 
-lightweight and durable the finished leather handles and can be moved with you around the house elegant to the baby close fresh basket bassinet to keep blue with a single sound texture and a new white basket creates environment sleeping baby machine perfect for washable cleaning peva mattressdressings 100 percent cotton without the trimmings
+**LIGHTWEIGHT** Lightweight and sturdy,
+**STYLISH** A stylish, fresh blue moses basket, with straightforward tone on tone appearances as well as a fresh white basket
+**COMFORTABLE** Produces the best resting environment for the baby
+**WASHABLE**  washable with wipe tidy PEVA cushion
+**COTTON** 100 percent cotton omitting trimmings
 
 #### Our Rating For This Product
 
@@ -1503,8 +1507,8 @@ lightweight and durable the finished leather handles and can be moved with you a
 
 | ✅  Pros | ❌ Cons |
 |-|-|
-| 👉  |👉   |
-| 👉  |👉   |
-| 👉  |👉   |
+| 👉 Lightweight |👉 Design may be too lightweight for some  |
+| 👉 Sturdy design |👉 Doesn't come with a quilt  |
+| 👉 Leather Handles |👉 Customer have said the product photography is misleading  |
 
 ---
