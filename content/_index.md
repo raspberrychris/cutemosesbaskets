@@ -45,7 +45,7 @@ Browse the very **best Cute Moses Baskets** from all around the internet in one 
 
 Check out our [blog](/blog) for the latest updates.  
 
-## Kinder Valley Broderie Anglaise Moses Basket Review
+## [Kinder Valley Broderie Anglaise Moses Basket Review](kinder-valley-broderie-anglaise-moses-basket-review)
 
 [![kinder-valley-broderie-anglaise-moses-basket](<https://images-na.ssl-images-amazon.com/images/I/91aBNIs6MbL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Kinder-Valley-Broderie-Anglaise-Basket/dp/B00OHMH44M/?tag=cutemosesbaskets-21>)
 
