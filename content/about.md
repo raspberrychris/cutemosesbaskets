@@ -1,8 +1,7 @@
 +++
-title = "About"
+title = "About Us"
 description = "Cutemosesbaskets.com is the #1 source for finding the best moses baskets"
 date = "2021-01-16"
-aliases = ["about-us"]
 author = "cutemosesbaskets.com"
 url = "about-us"
 menu = "main"
