@@ -1437,7 +1437,7 @@ your childs safety first these children valley pod bassinet with gems swing meet
 - **EASY TO ASSEMBLE**
 - **6 MONTH WARRANTY**
 - **EVERYTHING INCLUDED**
-- **SAFE AND SECURE**
+- **SAFE AND SECURE** 
 
 #### Our Rating For This Product
 
