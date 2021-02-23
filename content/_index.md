@@ -154,11 +154,9 @@ Check out our [blog](/blog) for the latest updates.
 
 ⭐⭐⭐⭐
 
-
 #### Customers Say about this product
 
 >  "I like how soft and I love the colour, however. I opened my package to make sure it fits the Moses basket and it has a stain on it. Not very impressed because i haven’t had this happen before. Would like a new one sent to me but have not got a reply yet."
-
 
 #### Pros and Cons
 
@@ -1426,10 +1424,7 @@ your childs safety first these children valley pod bassinet with gems swing meet
 | 👉  |👉   |
 | 👉  |👉   |
 
-
-
 ---
-
 
 ## Kinder Valley Beary Nice Cream Moses
 
@@ -1439,11 +1434,14 @@ your childs safety first these children valley pod bassinet with gems swing meet
 
 #### Product Description
 
-your childs safety first this rocker children palm valley and chester moses meets with all the necessary support to british standards bassinet and carrier adapted newborns and is safe to sleep at night it is recommended by doctors that your baby sleeps in a crib or cot in the same room with you to the first six months this product is the quality of our complete package these children gold palm valley standard the pool bundle is the perfect starter kit is verified for your small bed each package contains a basket palm fiber mattress padding bedding bassinet complete set including full body wrap adjustable hood and quilted duvet and chester position latch can be left static if necessary all linen is from our simple poly mild cleaning and mattress cover it is waterproof breathable and manufacturer washable complete machines guarantee this applies to 6 months from the date of purchase to cover use of the product for the period to help you be it safe for security with the original receipt only not renewed with warranty claims valid and takes is for sure that it covers the guarantee also covers scratches shock and tears when the first reported in the days after receipt of the goods 14 to ensure that you are satisfied with the product such as assembly are easy the basin palm ended at attention detailed manual and all linens safety and soundness to sleep nights care needs for you and your baby the bell can be adjusted with both sides fasteners and dressed for very little in order to create a comfortable sleeping area the carrier is with a complete set of tools and instructions for quick and easy installation and adjustable straps your pelvis to keep secure industry experts one of the most reliable international brand with over 30 years of experience in the field recognizes the children valley the importance of its customers and is proud to produce the best products at affordable prices and deliver you rigorous testing methods and materials are especially safe and comfortable selected for you and your baby his unwavering commitment to product innovation has helped cement his status as a true market leader
+- **EASY TO ASSEMBLE**
+- **6 MONTH WARRANTY**
+- **EVERYTHING INCLUDED**
+- **SAFE AND SECURE**
 
 #### Our Rating For This Product
 
-⭐⭐⭐⭐⭐
+⭐⭐⭐⭐
 
 #### Technical Details
 
@@ -1460,9 +1458,9 @@ your childs safety first this rocker children palm valley and chester moses meet
 
 | ✅  Pros | ❌ Cons |
 |-|-|
-| 👉 Great Looking |👉   |
+| 👉 Great Looking |👉 Not many negatives at this price   |
 | 👉 High quality materials |👉   |
-| 👉  |👉   |
+| 👉 Sturdy Design |👉   |
 
 ---
 
