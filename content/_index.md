@@ -91,7 +91,7 @@ Check out our [blog](/blog) for the latest updates.
 
 ---
 
-## Wicker Wheel Moses Basket Baby Full Review
+## [Wicker Wheel Moses Basket Baby Full Review](Wicker-Wheel-Moses-Basket-Baby-Full-Review)
 
 [![wicker-wheel-moses-basket-baby-full](<https://images-na.ssl-images-amazon.com/images/I/51E-a4NM0pL._AC_SY679_.jpg>)](<https://www.amazon.co.uk/Wicker-Wheel-Basket-Bedding-Canopy/dp/B07VFYCZ8V?&linkCode=ll1&tag=kidsteepees-21&linkId=21d5f03353c99d6a2771231a481e5c57&language=en_GB&ref_=as_li_ss_tl>)
 
@@ -131,7 +131,7 @@ Check out our [blog](/blog) for the latest updates.
 
 ---
 
-## [Kinder Valley Pink Dimple Moses Basket Bedding Set Review (Please note: Basket **NOT** included](Kinder-Valley-Pink-Dimple-Moses-Basket-Bedding-Set-Review)
+## [Kinder Valley Pink Dimple Moses Basket Bedding Set Review (Please note: Basket **NOT** included)](Kinder-Valley-Pink-Dimple-Moses-Basket-Bedding-Set-Review)
 
 [![kinder-valley-pink-dimple-moses-basket](<https://images-na.ssl-images-amazon.com/images/I/81xR%2BBTL1KL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Dimple-Moses-Basket-Dressings-included/dp/B019NF4U4E/?tag=cutemosesbaskets-21>)
 
