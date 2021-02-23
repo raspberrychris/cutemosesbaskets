@@ -1371,11 +1371,12 @@ size w45cm x l100cm h25cmcolour blue gray material 100 basketball wicker dressin
 
 #### Product Description
 
-extra padding basketpadding for moses if you want to dress up their own baskets moses all basketfits standards
+**PADDED DESIGN** Extra padding for you moses basket
+**PROVIDES A GOOD FIT** Fits all standard moses baskets
 
 #### Our Rating For This Product
 
-⭐⭐⭐⭐⭐
+⭐⭐⭐⭐
 
 #### Customers Say about this product
 
@@ -1385,9 +1386,9 @@ extra padding basketpadding for moses if you want to dress up their own baskets 
 
 | ✅  Pros | ❌ Cons |
 |-|-|
-| 👉  |👉   |
-| 👉  |👉   |
-| 👉  |👉   |
+| 👉 Value for money |👉 Customers have reported a few late deliveries  |
+| 👉 Arrived as described |👉 Some Customers have described it as 'Cheap looking'  |
+| 👉 Good fitting |👉 Some customers have found it too small for their moses basket  |
 
 ---
 
@@ -1437,7 +1438,7 @@ your childs safety first these children valley pod bassinet with gems swing meet
 - **EASY TO ASSEMBLE**
 - **6 MONTH WARRANTY**
 - **EVERYTHING INCLUDED**
-- **SAFE AND SECURE** 
+- **SAFE AND SECURE**
 
 #### Our Rating For This Product
 
