@@ -4,8 +4,8 @@ type: top
 toc: true
 menu:
 weight: 1
-canonicalUrl: “/kinder-valley-pink-dimple-moses-basket-bedding-set-review"
-url: kinder-valley-pink-dimple-moses-basket-bedding-set-review
+canonicalUrl: “/Kinder-Valley-Pink-Dimple-Moses-Basket-Bedding-Set-Review"
+url: Kinder-Valley-Pink-Dimple-Moses-Basket-Bedding-Set-Review
 ---
 
 ## Kinder Valley Pink Dimple Moses Basket Bedding Set Review (Please note: Basket **NOT** included)
