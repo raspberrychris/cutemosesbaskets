@@ -131,7 +131,7 @@ Check out our [blog](/blog) for the latest updates.
 
 ---
 
-## ![Kinder Valley Pink Dimple Moses Basket Bedding Set Review (Please note: Basket **NOT** included)](kinder-valley-pink-dimple-moses-basket-bedding-set-review)
+## ![Kinder Valley Pink Dimple Moses Basket Bedding Set Review (Please note: Basket **NOT** included)](/Kinder-Valley-Pink-Dimple-Moses-Basket-Bedding-Set-Review)
 
 [![kinder-valley-pink-dimple-moses-basket](<https://images-na.ssl-images-amazon.com/images/I/81xR%2BBTL1KL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Dimple-Moses-Basket-Dressings-included/dp/B019NF4U4E/?tag=cutemosesbaskets-21>)
 
