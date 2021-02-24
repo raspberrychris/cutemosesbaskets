@@ -1,63 +1,364 @@
-<script>
-    if('serviceWorker' in navigator) {
+const CACHE_VERSION = 1;
 
-        /**
-         * Define if <link rel='next|prev|prefetch'> should
-         * be preloaded when accessing this page
-         */
-        const PREFETCH = true;
+const BASE_CACHE_FILES = [
+    '/css/custom.css',
+    '/js/custom.js',
+    '/search/index.json',
+    '/manifest.json',
+    '/favicon.png',
+    '/images/logo.png',
+    '/techformist-logo-no-text.png',
+    '/assets/css/main.6a060eb7.css',
+    '/assets/js/main.67d669ac.js',
+    '/assets/js/sidebar.9ea42a6e.js',
+    '/assets/js/fuse_search.1ada4bca.js',
+];
 
-        /**
-         * Define which link-rel's should be preloaded if enabled.
-         */
-        const PREFETCH_LINK_RELS = ['index','next', 'prev', 'prefetch'];
+const OFFLINE_CACHE_FILES = [
+    '/images/logo.png',
+    '/techformist-logo-no-text.png',
+    '/assets/css/main.6a060eb7.css',
+    '/assets/js/main.67d669ac.js',
+    '/assets/js/sidebar.9ea42a6e.js',
+    '/assets/js/fuse_search.1ada4bca.js',
+];
 
-        /**
-         * prefetchCache
-         */
-        function prefetchCache() {
-            if(navigator.serviceWorker.controller) {
+const NOT_FOUND_CACHE_FILES = [
 
-                let links = document.querySelectorAll(
-                    PREFETCH_LINK_RELS.map((rel) => {
-                        return 'link[rel='+rel+']';
-                    }).join(',')
+    '/404.html',
+];
+
+const OFFLINE_PAGE = '/offline/index.html';
+const NOT_FOUND_PAGE = '/404.html';
+
+const CACHE_VERSIONS = {
+    assets: 'assets-v' + CACHE_VERSION,
+    content: 'content-v' + CACHE_VERSION,
+    offline: 'offline-v' + CACHE_VERSION,
+    notFound: '404-v' + CACHE_VERSION,
+};
+
+// Define MAX_TTL's in SECONDS for specific file extensions
+const MAX_TTL = {
+    '/': 3600,
+    html: 3600,
+    json: 86400,
+    js: 86400,
+    css: 86400,
+};
+
+const CACHE_BLACKLIST = [
+    (str) => {
+       return !str.startsWith('http://localhost') ;
+    },
+];
+
+const SUPPORTED_METHODS = [
+    'GET',
+];
+
+/**
+ * isBlackListed
+ * @param {string} url
+ * @returns {boolean}
+ */
+function isBlacklisted(url) {
+    return (CACHE_BLACKLIST.length > 0) ? !CACHE_BLACKLIST.filter((rule) => {
+        if(typeof rule === 'function') {
+            return !rule(url);
+        } else {
+            return false;
+        }
+    }).length : false
+}
+
+/**
+ * getFileExtension
+ * @param {string} url
+ * @returns {string}
+ */
+function getFileExtension(url) {
+    let extension = url.split('.').reverse()[0].split('?')[0];
+    return (extension.endsWith('/')) ? '/' : extension;
+}
+
+/**
+ * getTTL
+ * @param {string} url
+ */
+function getTTL(url) {
+    if (typeof url === 'string') {
+        let extension = getFileExtension(url);
+        if (typeof MAX_TTL[extension] === 'number') {
+            return MAX_TTL[extension];
+        } else {
+            return null;
+        }
+    } else {
+        return null;
+    }
+}
+
+/**
+ * installServiceWorker
+ * @returns {Promise}
+ */
+function installServiceWorker() {
+    return Promise.all(
+        [
+            caches.open(CACHE_VERSIONS.assets)
+                .then(
+                    (cache) => {
+                        return cache.addAll(BASE_CACHE_FILES);
+                    }
+                ),
+            caches.open(CACHE_VERSIONS.offline)
+                .then(
+                    (cache) => {
+                        return cache.addAll(OFFLINE_CACHE_FILES);
+                    }
+                ),
+            caches.open(CACHE_VERSIONS.notFound)
+                .then(
+                    (cache) => {
+                        return cache.addAll(NOT_FOUND_CACHE_FILES);
+                    }
+                )
+        ]
+    );
+}
+
+/**
+ * cleanupLegacyCache
+ * @returns {Promise}
+ */
+function cleanupLegacyCache() {
+
+    let currentCaches = Object.keys(CACHE_VERSIONS)
+        .map(
+            (key) => {
+                return CACHE_VERSIONS[key];
+            }
+        );
+
+    return new Promise(
+        (resolve, reject) => {
+
+            caches.keys()
+                .then(
+                    (keys) => {
+                        return legacyKeys = keys.filter(
+                            (key) => {
+                                return !~currentCaches.indexOf(key);
+                            }
+                        );
+                    }
+                )
+                .then(
+                    (legacy) => {
+                        if (legacy.length) {
+                            Promise.all(
+                                legacy.map(
+                                    (legacyKey) => {
+                                        return caches.delete(legacyKey)
+                                    }
+                                )
+                            )
+                                .then(
+                                    () => {
+                                        resolve()
+                                    }
+                                )
+                                .catch(
+                                    (err) => {
+                                        reject(err);
+                                    }
+                                );
+                        } else {
+                            resolve();
+                        }
+                    }
+                )
+                .catch(
+                    () => {
+                        reject();
+                    }
                 );
 
-                if(links.length > 0) {
-                    Array.from(links)
-                        .map((link) => {
-                            let href = link.getAttribute('href');
-                            navigator.serviceWorker.controller.postMessage({
-                                action : 'cache',
-                                url : href,
-                            });
-                        });
-                }
-
-
-            }
         }
+    );
+}
 
-        /**
-         * Register Service Worker
-         */
-        navigator.serviceWorker
-            .register('/sw.js', { scope: '/' })
-            .then(() => {
-                console.log('Service Worker Registered');
-            });
 
-        /**
-         * Wait if ServiceWorker is ready
-         */
-        navigator.serviceWorker
-            .ready
-            .then(() => {
-                if(PREFETCH) {
-                    prefetchCache();
-                }
-            });
+self.addEventListener(
+    'install', event => {
+        event.waitUntil(installServiceWorker());
+    }
+);
+
+// The activate handler takes care of cleaning up old caches.
+self.addEventListener(
+    'activate', event => {
+        event.waitUntil(
+            Promise.all(
+                [
+                    cleanupLegacyCache(),
+                ]
+            )
+                .catch(
+                    (err) => {
+                        event.skipWaiting();
+                    }
+                )
+        );
+    }
+);
+
+self.addEventListener(
+    'fetch', event => {
+
+        event.respondWith(
+            caches.open(CACHE_VERSIONS.content)
+                .then(
+                    (cache) => {
+
+                        return cache.match(event.request)
+                            .then(
+                                (response) => {
+
+                                    if (response) {
+
+                                        let headers = response.headers.entries();
+                                        let date = null;
+
+                                        for (let pair of headers) {
+                                            if (pair[0] === 'date') {
+                                                date = new Date(pair[1]);
+                                            }
+                                        }
+
+                                        if (date) {
+                                            let age = parseInt((new Date().getTime() - date.getTime()) / 1000);
+                                            let ttl = getTTL(event.request.url);
+
+                                            if (ttl && age > ttl) {
+
+                                                return new Promise(
+                                                    (resolve) => {
+
+                                                        return fetch(event.request)
+                                                            .then(
+                                                                (updatedResponse) => {
+                                                                    if (updatedResponse) {
+                                                                        cache.put(event.request, updatedResponse.clone());
+                                                                        resolve(updatedResponse);
+                                                                    } else {
+                                                                        resolve(response)
+                                                                    }
+                                                                }
+                                                            )
+                                                            .catch(
+                                                                () => {
+                                                                    resolve(response);
+                                                                }
+                                                            );
+
+                                                    }
+                                                )
+                                                    .catch(
+                                                        (err) => {
+                                                            return response;
+                                                        }
+                                                    );
+                                            } else {
+                                                return response;
+                                            }
+
+                                        } else {
+                                            return response;
+                                        }
+
+                                    } else {
+                                        return null;
+                                    }
+                                }
+                            )
+                            .then(
+                                (response) => {
+                                    if (response) {
+                                        return response;
+                                    } else {
+                                        return fetch(event.request)
+                                            .then(
+                                                (response) => {
+
+                                                    if(response.status < 400) {
+                                                        if (~SUPPORTED_METHODS.indexOf(event.request.method) && !isBlacklisted(event.request.url)) {
+                                                            cache.put(event.request, response.clone());
+                                                        }
+                                                        return response;
+                                                    }
+                                                    else {
+                                                        return caches.open(CACHE_VERSIONS.notFound).then((cache) => {
+                                                            return cache.match(NOT_FOUND_PAGE);
+                                                        })
+                                                    }
+                                                }
+                                            )
+                                            .then((response) => {
+                                                if(response) {
+                                                    return response;
+                                                }
+                                            })
+                                            .catch(
+                                                () => {
+
+                                                    return caches.open(CACHE_VERSIONS.offline)
+                                                        .then(
+                                                            (offlineCache) => {
+                                                                return offlineCache.match(OFFLINE_PAGE)
+                                                            }
+                                                        )
+
+                                                }
+                                            )
+
+                                    }
+                                }
+                            )
+                            .catch(
+                                (error) => {
+                                    console.error('  Error in fetch handler:', error);
+                                    throw error;
+                                }
+                            );
+                    }
+                )
+        );
 
     }
-</script>
+);
+Stay in touch!
+Tech in your inbox - news, tips, and summary of our posts. 2 emails per month.
+
+*
+username@gmail.com
+Subscribe
+ Provided by SendPulse
+Share on
+Prashanth Krishnamurthy
+WRITTEN BY
+Prashanth Krishnamurthy
+Technologist | Creator of Things
+
+See Also
+Format Hugo markdown and code
+Web Inspector to design static sites
+Copy/paste Datatable Issues in Hugo
+Build static sites using saber
+Create static sites in Vue using Gridsome
+Role-based menus for navigation in Vuetify
+What is Typescript and why should I care?
+
+
+©2021, All Rights Reserved
