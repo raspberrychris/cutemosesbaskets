@@ -1,22 +1,30 @@
 const CACHE_VERSION = 1;
 
 const BASE_CACHE_FILES = [
-    '/style.css',
-    '/script.js',
-    '/search.json',
+    '/css/custom.css',
+    '/js/custom.js',
+    '/search/index.json',
     '/manifest.json',
     '/favicon.png',
+    '/images/logo.png',
+    '/techformist-logo-no-text.png',
+    '/assets/css/main.6a060eb7.css',
+    '/assets/js/main.67d669ac.js',
+    '/assets/js/sidebar.9ea42a6e.js',
+    '/assets/js/fuse_search.1ada4bca.js',
 ];
 
 const OFFLINE_CACHE_FILES = [
-    '/style.css',
-    '/script.js',
-    '/offline/index.html',
+    '/images/logo.png',
+    '/techformist-logo-no-text.png',
+    '/assets/css/main.6a060eb7.css',
+    '/assets/js/main.67d669ac.js',
+    '/assets/js/sidebar.9ea42a6e.js',
+    '/assets/js/fuse_search.1ada4bca.js',
 ];
 
 const NOT_FOUND_CACHE_FILES = [
-    '/style.css',
-    '/script.js',
+
     '/404.html',
 ];
 
@@ -40,9 +48,9 @@ const MAX_TTL = {
 };
 
 const CACHE_BLACKLIST = [
-    //(str) => {
-    //    return !str.startsWith('http://localhost') && !str.startsWith('https://gohugohq.com');
-    //},
+    (str) => {
+       return !str.startsWith('http://localhost') ;
+    },
 ];
 
 const SUPPORTED_METHODS = [
@@ -117,10 +125,7 @@ function installServiceWorker() {
                     }
                 )
         ]
-    )
-        .then(() => {
-            return self.skipWaiting();
-        });
+    );
 }
 
 /**
@@ -184,40 +189,10 @@ function cleanupLegacyCache() {
     );
 }
 
-function precacheUrl(url) {
-    if(!isBlacklisted(url)) {
-        caches.open(CACHE_VERSIONS.content)
-            .then((cache) => {
-                cache.match(url)
-                    .then((response) => {
-                        if(!response) {
-                            return fetch(url)
-                        } else {
-                            // already in cache, nothing to do.
-                            return null
-                        }
-                    })
-                    .then((response) => {
-                        if(response) {
-                            return cache.put(url, response.clone());
-                        } else {
-                            return null;
-                        }
-                    });
-            })
-    }
-}
-
-
 
 self.addEventListener(
     'install', event => {
-        event.waitUntil(
-            Promise.all([
-                installServiceWorker(),
-                self.skipWaiting(),
-            ])
-        );
+        event.waitUntil(installServiceWorker());
     }
 );
 
@@ -228,8 +203,6 @@ self.addEventListener(
             Promise.all(
                 [
                     cleanupLegacyCache(),
-                    self.clients.claim(),
-                    self.skipWaiting(),
                 ]
             )
                 .catch(
@@ -273,7 +246,7 @@ self.addEventListener(
                                                 return new Promise(
                                                     (resolve) => {
 
-                                                        return fetch(event.request.clone())
+                                                        return fetch(event.request)
                                                             .then(
                                                                 (updatedResponse) => {
                                                                     if (updatedResponse) {
@@ -315,7 +288,7 @@ self.addEventListener(
                                     if (response) {
                                         return response;
                                     } else {
-                                        return fetch(event.request.clone())
+                                        return fetch(event.request)
                                             .then(
                                                 (response) => {
 
@@ -324,7 +297,8 @@ self.addEventListener(
                                                             cache.put(event.request, response.clone());
                                                         }
                                                         return response;
-                                                    } else {
+                                                    }
+                                                    else {
                                                         return caches.open(CACHE_VERSIONS.notFound).then((cache) => {
                                                             return cache.match(NOT_FOUND_PAGE);
                                                         })
@@ -347,7 +321,8 @@ self.addEventListener(
                                                         )
 
                                                 }
-                                            );
+                                            )
+
                                     }
                                 }
                             )
@@ -363,22 +338,3 @@ self.addEventListener(
 
     }
 );
-
-
-self.addEventListener('message', (event) => {
-
-    if(
-        typeof event.data === 'object' &&
-        typeof event.data.action === 'string'
-    ) {
-        switch(event.data.action) {
-            case 'cache' :
-                precacheUrl(event.data.url);
-                break;
-            default :
-                console.log('Unknown action: ' + event.data.action);
-                break;
-        }
-    }
-
-});
