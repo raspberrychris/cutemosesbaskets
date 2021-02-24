@@ -9,19 +9,6 @@
   <link rel="stylesheet" href="/my_css/cookie.css" />
 
 <!-- PWA-->
-if ('serviceWorker' in navigator) {
-    navigator.serviceWorker
-        .register('/sw.js', { scope: '/' })
-        .then(() => {
-            console.info('Cute Moses Baskets Registered');
-        }, err => console.error("Cute Moses Baskets Service Worker registration failed: ", err));
-
-    navigator.serviceWorker
-        .ready
-        .then(() => {
-            console.info('Cute Moses Baskets Service Worker Ready');
-        });
-}
 
 
 {{ end }}
