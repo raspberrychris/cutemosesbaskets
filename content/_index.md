@@ -1335,7 +1335,11 @@ enter foryourlittleone baskets aesthetically pleasing light for your little doll
 
 #### Product Description
 
-size w45cm x l100cm h25cmcolour blue gray material 100 basketball wicker dressing 100 polyester includes crib mattresses blankets liner coverletwashing instructions dressings machine washable at 30 c cart clean
+- **GOOD SIZE** Size: W45cm x L100cm x H25cm
+- **COLOUR CHOICE** : Blue / Grey
+- **100% WICKER**: Basket: 100% Wicker, Dressings: 100% Polyester
+- **EVERYTHING INCLUDED** Includes: Moses Basket, Mattress, Padded Liner, Coverlet
+- **EASY TO WASH** Washing Instructions: Dressings: Machine Washable at 30° C, Basket: Wipe Clean
 
 #### Our Rating For This Product
 
@@ -1349,7 +1353,6 @@ size w45cm x l100cm h25cmcolour blue gray material 100 basketball wicker dressin
 >  
 
 
-
 #### Pros and Cons
 
 | ✅  Pros | ❌ Cons |
@@ -1358,10 +1361,7 @@ size w45cm x l100cm h25cmcolour blue gray material 100 basketball wicker dressin
 | 👉  |👉   |
 | 👉  |👉   |
 
-
-
 ---
-
 
 ## Padding Moses Baskets (Padding Only)
 
