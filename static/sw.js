@@ -1,17 +1,11 @@
 const CACHE_VERSION = 1;
 
 const BASE_CACHE_FILES = [
-    '/css/custom.css',
-    '/js/custom.js',
-    '/search/index.json',
+    '/style.css',
+    '/primer-build.js',
     '/manifest.json',
     '/favicon.png',
-    '/images/logo.png',
-    '/techformist-logo-no-text.png',
-    '/assets/css/main.6a060eb7.css',
-    '/assets/js/main.67d669ac.js',
-    '/assets/js/sidebar.9ea42a6e.js',
-    '/assets/js/fuse_search.1ada4bca.js',
+
 ];
 
 const OFFLINE_CACHE_FILES = [
@@ -28,7 +22,7 @@ const NOT_FOUND_CACHE_FILES = [
     '/404.html',
 ];
 
-const OFFLINE_PAGE = '/offline/index.html';
+const OFFLINE_PAGE = '/index.html';
 const NOT_FOUND_PAGE = '/404.html';
 
 const CACHE_VERSIONS = {
