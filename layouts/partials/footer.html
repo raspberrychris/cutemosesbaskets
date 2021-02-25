@@ -1,3 +1,20 @@
+<script>
+  if('serviceWorker' in navigator) {
+      navigator.serviceWorker
+          .register('static/sw.js', { scope: '/' })
+          .then(function(registration) {
+              //console.log('Service Worker Registered');
+          });
+
+      navigator.serviceWorker
+          .ready
+          .then(function(registration) {
+              //console.log('Service Worker Ready');
+          });
+  }
+</script>
+
+
 {{/* Credits and Copyright */}}
 {{ if (default true .Site.Params.ShowFooterCredits) }}
   <span class="text-small text-gray">
@@ -14,19 +31,5 @@
 
 
 
-<script>
-  if('serviceWorker' in navigator) {
-      navigator.serviceWorker
-          .register('/sw.js', { scope: '/' })
-          .then(function(registration) {
-              //console.log('Service Worker Registered');
-          });
 
-      navigator.serviceWorker
-          .ready
-          .then(function(registration) {
-              //console.log('Service Worker Ready');
-          });
-  }
-</script>
 {{ end }}
