@@ -22,7 +22,7 @@
         "sizes": "512x512",
         "type": "image/png"
     }],
-    "start_url": "https://cutemosesbaskets.com",
+    "start_url": "/",
     "display": "standalone",
     "orientation" : "portrait",
     "background_color": "#FFFFFF",
