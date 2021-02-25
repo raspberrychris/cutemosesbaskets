@@ -24,7 +24,7 @@ const OFFLINE_CACHE_FILES = [
 
 const NOT_FOUND_CACHE_FILES = [
 
-    'layouts/404.html',
+    '/layouts/404.html',
 ];
 
 const OFFLINE_PAGE = '/layouts/404.html';
