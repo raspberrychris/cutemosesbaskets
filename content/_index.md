@@ -1315,8 +1315,6 @@ enter foryourlittleone baskets aesthetically pleasing light for your little doll
 
 >  
 
-
-
 #### Pros and Cons
 
 | ✅  Pros | ❌ Cons |
