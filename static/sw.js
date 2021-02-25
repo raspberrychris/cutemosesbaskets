@@ -1,34 +1,27 @@
 const CACHE_VERSION = 1;
 
 const BASE_CACHE_FILES = [
-    '/assets/style.css',
-    '/assets/primer-build.css',
+    '/style.css',
+    '/script.js',
+    '/search.json',
     '/manifest.json',
-    '/pwa/favicon.png',
-    'https://i.ibb.co/sgkQn5D/cute-moses-baskets-logo-removebg-preview.png',
-    '/assets/custom_style.css',
-    '/assets/syntax.css',
-    '/assets/stylesheet.scss',
+    '/favicon.png',
 ];
 
 const OFFLINE_CACHE_FILES = [
-  '/assets/style.css',
-  '/assets/primer-build.css',
-  '/manifest.json',
-  '/pwa/favicon.png',
-  'https://i.ibb.co/sgkQn5D/cute-moses-baskets-logo-removebg-preview.png',
-  '/assets/custom_style.css',
-  '/assets/syntax.css',
-  '/assets/stylesheet.scss',
+    '/style.css',
+    '/script.js',
+    '/offline/index.html',
 ];
 
 const NOT_FOUND_CACHE_FILES = [
-
-    '/layouts/404.html',
+    '/style.css',
+    '/script.js',
+    '/404.html',
 ];
 
-const OFFLINE_PAGE = '/layouts/404.html';
-const NOT_FOUND_PAGE = '/layouts/404.html';
+const OFFLINE_PAGE = '/offline/index.html';
+const NOT_FOUND_PAGE = '/404.html';
 
 const CACHE_VERSIONS = {
     assets: 'assets-v' + CACHE_VERSION,
@@ -47,9 +40,9 @@ const MAX_TTL = {
 };
 
 const CACHE_BLACKLIST = [
-    (str) => {
-       return !str.startsWith('http://localhost') ;
-    },
+    //(str) => {
+    //    return !str.startsWith('http://localhost') && !str.startsWith('https://gohugohq.com');
+    //},
 ];
 
 const SUPPORTED_METHODS = [
@@ -124,7 +117,10 @@ function installServiceWorker() {
                     }
                 )
         ]
-    );
+    )
+        .then(() => {
+            return self.skipWaiting();
+        });
 }
 
 /**
@@ -188,10 +184,40 @@ function cleanupLegacyCache() {
     );
 }
 
+function precacheUrl(url) {
+    if(!isBlacklisted(url)) {
+        caches.open(CACHE_VERSIONS.content)
+            .then((cache) => {
+                cache.match(url)
+                    .then((response) => {
+                        if(!response) {
+                            return fetch(url)
+                        } else {
+                            // already in cache, nothing to do.
+                            return null
+                        }
+                    })
+                    .then((response) => {
+                        if(response) {
+                            return cache.put(url, response.clone());
+                        } else {
+                            return null;
+                        }
+                    });
+            })
+    }
+}
+
+
 
 self.addEventListener(
     'install', event => {
-        event.waitUntil(installServiceWorker());
+        event.waitUntil(
+            Promise.all([
+                installServiceWorker(),
+                self.skipWaiting(),
+            ])
+        );
     }
 );
 
@@ -202,6 +228,8 @@ self.addEventListener(
             Promise.all(
                 [
                     cleanupLegacyCache(),
+                    self.clients.claim(),
+                    self.skipWaiting(),
                 ]
             )
                 .catch(
@@ -245,7 +273,7 @@ self.addEventListener(
                                                 return new Promise(
                                                     (resolve) => {
 
-                                                        return fetch(event.request)
+                                                        return fetch(event.request.clone())
                                                             .then(
                                                                 (updatedResponse) => {
                                                                     if (updatedResponse) {
@@ -287,7 +315,7 @@ self.addEventListener(
                                     if (response) {
                                         return response;
                                     } else {
-                                        return fetch(event.request)
+                                        return fetch(event.request.clone())
                                             .then(
                                                 (response) => {
 
@@ -296,8 +324,7 @@ self.addEventListener(
                                                             cache.put(event.request, response.clone());
                                                         }
                                                         return response;
-                                                    }
-                                                    else {
+                                                    } else {
                                                         return caches.open(CACHE_VERSIONS.notFound).then((cache) => {
                                                             return cache.match(NOT_FOUND_PAGE);
                                                         })
@@ -320,8 +347,7 @@ self.addEventListener(
                                                         )
 
                                                 }
-                                            )
-
+                                            );
                                     }
                                 }
                             )
@@ -337,3 +363,22 @@ self.addEventListener(
 
     }
 );
+
+
+self.addEventListener('message', (event) => {
+
+    if(
+        typeof event.data === 'object' &&
+        typeof event.data.action === 'string'
+    ) {
+        switch(event.data.action) {
+            case 'cache' :
+                precacheUrl(event.data.url);
+                break;
+            default :
+                console.log('Unknown action: ' + event.data.action);
+                break;
+        }
+    }
+
+});
