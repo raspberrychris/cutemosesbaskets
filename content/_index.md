@@ -1374,7 +1374,7 @@ enter foryourlittleone baskets aesthetically pleasing light for your little doll
 
 #### Our Rating For This Product
 
-⭐⭐⭐⭐
+⭐⭐⭐
 
 #### Customers Say about this product
 
