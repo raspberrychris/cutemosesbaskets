@@ -103,13 +103,11 @@ function installServiceWorker() {
             caches.open(CACHE_VERSIONS.offline)
                 .then(
                     (cache) => {
-                        return cache.addAll(OFFLINE_CACHE_FILES);
                     }
                 ),
             caches.open(CACHE_VERSIONS.notFound)
                 .then(
                     (cache) => {
-                        return cache.addAll(NOT_FOUND_CACHE_FILES);
                     }
                 )
         ]
