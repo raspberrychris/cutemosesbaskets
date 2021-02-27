@@ -3,7 +3,8 @@ const CACHE_VERSION = 1;
 const BASE_CACHE_FILES = [
     '/assets/style.css',
     '/manifest.json',
-    '/pwa/favicon.png',
+    '/pwa/favicon.png'
+    'layouts/index.html',
 ];
 
 const OFFLINE_CACHE_FILES = [
