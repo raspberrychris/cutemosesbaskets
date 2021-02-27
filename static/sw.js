@@ -3,12 +3,12 @@ const CACHE_VERSION = 1;
 const BASE_CACHE_FILES = [
     '/assets/style.css',
     '/manifest.json',
-    '/pwa/favicon.png'
+    '/pwa/favicon.ico'
 ];
 
 const OFFLINE_CACHE_FILES = [
     '/assets/style.css',
-    '/404.html',
+    '/layouts/404.html',
 ];
 
 const NOT_FOUND_CACHE_FILES = [
