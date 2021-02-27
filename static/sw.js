@@ -8,7 +8,6 @@ const BASE_CACHE_FILES = [
 
 const OFFLINE_CACHE_FILES = [
     '/assets/style.css',
-    '/script.js',
     '/404.html',
 ];
 
