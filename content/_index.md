@@ -571,9 +571,9 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 | ✅  Pros | ❌ Cons |
 |-|-|
-| 👉  |👉   |
-| 👉  |👉   |
-| 👉  |👉   |
+| 👉 Easy to clean  |👉 Canopy bars maybe difficult to put into place for some  |
+| 👉 Sturdy Design |👉 Needs bigger sheets than most moses baskets  |
+| 👉 Lighweight and easy to move from room to room |👉 Some customers have said that the handles are not the same colour as the photos  |
 
 ---
 
@@ -1225,7 +1225,8 @@ drape with self supporting rod to complete moses sides basket comes game with lu
 
 #### Product Description
 
-your childs safety first this wicker rocking cradle chester children valley meets british support for all necessary standards bassinet and carrier adapted newborns and is safe to sleep at night it is recommended by doctors that your baby sleeps in a crib or cot in the same room with you to the first six months this product is the quality of our comprehensive standard the oro valley wicker bassinet children this bundle is the perfect starter kit verified for your small bed each packet contains a wicker basket bassinet mattress fiber padded lining bedding complete set including body wrap adjustable hood and quilted duvet and a rocking chair can support static chester be left if needed all linen is from our simple poly mild cleaning and mattress cover it is waterproof breathable and manufacturer washable complete machines guarantee this applies to 6 months from the date of purchase to cover use of the product for the period to help you be it safe for security with the original receipt only not renewed with warranty claims valid and takes is for sure that it covers the guarantee also covers scratches shock and tears when the first 14 reported in the days of receipt of goods to ensure that you are satisfied with the product such as assembly are easy the wicker pool is complete attention detailed manual and all linens safety and soundness to sleep nights care needs for you and your baby the bell can be adjusted with both sides fasteners and dressed for very little in order to create a comfortable sleeping area the carrier is with a complete set of tools and instructions for quick and easy installation and adjustable straps your pelvis to keep secure industry experts one of the most reliable international brand with over 30 years of experience in the field recognizes the children valley the importance of its customers and is proud to produce the best products at affordable prices and deliver you rigorous testing methods and materials are especially safe and comfortable selected for you and your baby his unwavering commitment to product innovation has helped cement his status as a true market leader
+- **SAFETY**
+
 
 #### Our Rating For This Product
 
