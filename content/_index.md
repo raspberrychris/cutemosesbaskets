@@ -205,11 +205,11 @@ Check out our [blog](/blog) for the latest updates.
 |-|-|
 | 👉 Absolutely Beautiful design |👉 Some customers have reported damage to the item on arrival   |
 | 👉 Reasonable Price Point |👉 -  |
-| 👉 Spacious |👉 -  |
+| 👉 Spacious |👉   |
 
 ---
 
-## Shnuggle Dreami Moses Basket Curve Review
+## [Shnuggle Dreami Moses Basket Curve Review](/Shnuggle-Moses-Basket-With-White-Waffle-Review)
 
 [![schnuggle-dreami-moses-basket-curve](<https://images-na.ssl-images-amazon.com/images/I/71FQAsnCZ9L._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Shnuggle-Dreami-Moses-Basket-Rocking/dp/B016APJP4A/?tag=cutemosesbaskets-21>)
 
