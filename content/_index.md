@@ -166,7 +166,7 @@ Check out our [blog](/blog) for the latest updates.
 
 ---
 
-## Mcc Full Set Grey Wicker Moses Basket Review - (**TOP PICK!!**)
+## [Mcc Full Set Grey Wicker Moses Basket Review - (**TOP PICK!!**)](/Mcc-Full-Set-Grey-Wicker-Moses-Basket-Review)
 
 [![Mcc-Full-Set-Grey-Wicker-Moses-Basket](<https://images-na.ssl-images-amazon.com/images/I/81de%2Bsk2gyL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Mcc%C2%AE-Wicker-Cocoon-Dressing-Rocking/dp/B0754HZKSD/?tag=cutemosesbaskets-21>)
 
@@ -720,7 +720,7 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 | ✅  Pros | ❌ Cons |
 |-|-|
-| 👉  |👉   |
+| 👉  |👉 Some customers have reported the product not looking exactly the same as the photos  |
 | 👉  |👉   |
 | 👉  |👉   |
 
