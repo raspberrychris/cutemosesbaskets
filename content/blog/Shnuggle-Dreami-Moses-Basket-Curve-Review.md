@@ -2,6 +2,8 @@
 title: "Shnuggle Dreami Moses Basket Curve Review"
 date: 2021-03-09T21:15:44Z
 draft: false
+canonicalUrl: “/shnuggle-dreami-moses-basket-curve-review"
+url: shnuggle-dreami-moses-basket-curve-review
 ---
 
 ## Shnuggle Dreami Moses Basket Curve Review
