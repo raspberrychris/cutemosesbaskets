@@ -433,7 +433,7 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 ---
 
-## [Kinder Valley White 100% Cotton Waffle Review](/kinder-valley-white-100-cotton-waffle-review)
+## [Kinder Valley White 100% Cotton Waffle Review](kinder-valley-white-100-cotton-waffle-review)
 
 [![kinder-valley-white-100-cotton-white](<https://images-na.ssl-images-amazon.com/images/I/91yYDXfZYDL._AC_SX450_.jpg>)](<https://www.amazon.co.uk/White-Waffle-Bedding-Basket-Included/dp/B07T6F74BP/?tag=cutemosesbaskets-21>)
 
