@@ -43,7 +43,7 @@ Browse the very **best Cute Moses Baskets** from all around the internet in one 
 
 Check out our [blog](/blog) for the latest updates.  
 
-## [Kinder Valley Broderie Anglaise Moses Basket Review](kinder-valley-broderie-anglaise-moses-basket-review)
+## [Kinder Valley Broderie Anglaise Moses Basket Review](/kinder-valley-broderie-anglaise-moses-basket-review)
 
 [![kinder-valley-broderie-anglaise-moses-basket](<https://images-na.ssl-images-amazon.com/images/I/91aBNIs6MbL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Kinder-Valley-Broderie-Anglaise-Basket/dp/B00OHMH44M/?tag=cutemosesbaskets-21>)
 
@@ -89,7 +89,7 @@ Check out our [blog](/blog) for the latest updates.
 
 ---
 
-## [Wicker Wheel Moses Basket Baby Full Review](Wicker-Wheel-Moses-Basket-Baby-Full-Review)
+## [Wicker Wheel Moses Basket Baby Full Review](/Wicker-Wheel-Moses-Basket-Baby-Full-Review)
 
 [![wicker-wheel-moses-basket-baby-full](<https://images-na.ssl-images-amazon.com/images/I/51E-a4NM0pL._AC_SY679_.jpg>)](<https://www.amazon.co.uk/Wicker-Wheel-Basket-Bedding-Canopy/dp/B07VFYCZ8V?&linkCode=ll1&tag=kidsteepees-21&linkId=21d5f03353c99d6a2771231a481e5c57&language=en_GB&ref_=as_li_ss_tl>)
 
@@ -129,7 +129,7 @@ Check out our [blog](/blog) for the latest updates.
 
 ---
 
-## [Kinder Valley Pink Dimple Moses Basket Bedding Set Review (Please note: Basket **NOT** included)](Kinder-Valley-Pink-Dimple-Moses-Basket-Bedding-Set-Review)
+## [Kinder Valley Pink Dimple Moses Basket Bedding Set Review (Please note: Basket **NOT** included)](/Kinder-Valley-Pink-Dimple-Moses-Basket-Bedding-Set-Review)
 
 [![kinder-valley-pink-dimple-moses-basket](<https://images-na.ssl-images-amazon.com/images/I/81xR%2BBTL1KL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Dimple-Moses-Basket-Dressings-included/dp/B019NF4U4E/?tag=cutemosesbaskets-21>)
 
@@ -166,7 +166,7 @@ Check out our [blog](/blog) for the latest updates.
 
 ---
 
-## [Mcc Full Set Grey Wicker Moses Basket Review - (**TOP PICK!!**)](mcc-full-set-grey-wicker-moses-basket-review)
+## [Mcc Full Set Grey Wicker Moses Basket Review - (**TOP PICK!!**)](/mcc-full-set-grey-wicker-moses-basket-review)
 
 [![Mcc-Full-Set-Grey-Wicker-Moses-Basket](<https://images-na.ssl-images-amazon.com/images/I/81de%2Bsk2gyL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Mcc%C2%AE-Wicker-Cocoon-Dressing-Rocking/dp/B0754HZKSD/?tag=cutemosesbaskets-21>)
 
@@ -209,7 +209,7 @@ Check out our [blog](/blog) for the latest updates.
 
 ---
 
-## [Shnuggle Dreami Moses Basket Curve Review](Shnuggle-Moses-Basket-With-White-Waffle-Review)
+## [Shnuggle Dreami Moses Basket Curve Review](/Shnuggle-Moses-Basket-With-White-Waffle-Review)
 
 [![schnuggle-dreami-moses-basket-curve](<https://images-na.ssl-images-amazon.com/images/I/71FQAsnCZ9L._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Shnuggle-Dreami-Moses-Basket-Rocking/dp/B016APJP4A/?tag=cutemosesbaskets-21>)
 
@@ -260,7 +260,7 @@ Update: I was really happy with the product but my baby outgrown it when she was
 
 ---
 
-## [The Little Green Sheep Natural Knitted Review (BEST BASKET FOR NATURAL DESIGN - NO CHEMICALS)](The-Little-Green-Sheep-Natural-Knitted-Review)
+## [The Little Green Sheep Natural Knitted Review (BEST BASKET FOR NATURAL DESIGN - NO CHEMICALS)](/The-Little-Green-Sheep-Natural-Knitted-Review)
 
 [![little-green-sheep-natural-knitted](<https://images-eu.ssl-images-amazon.com/images/I/61Fg5b%2B2BmL.__AC_SY300_QL70_ML2_.jpg>)](<https://www.amazon.co.uk/Little-Green-Sheep-Natural-Mattress/dp/B07K7ZCPBH/?tag=cutemosesbaskets-21>)
 
@@ -306,7 +306,7 @@ Update: I was really happy with the product but my baby outgrown it when she was
 
 ---
 
-## [Kinder Valley Classic Pink Broderie Anglaise Review](kinder-valley-classic-pink-broderie-anglaise-review)
+## [Kinder Valley Classic Pink Broderie Anglaise Review](/kinder-valley-classic-pink-broderie-anglaise-review)
 
 [![kinder-valley-classic-pink-broderie-anglaise](<https://images-na.ssl-images-amazon.com/images/I/81vJhLHESFL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Broderie-Anglaise-Moses-Basket-Folding/dp/B01D55UQCI/?tag=cutemosesbaskets-21>)
 
