@@ -522,7 +522,7 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 ---
 
-## [Shnuggle Moses Basket With White Waffle Review](shnuggle-moses-basket-with-white-waffle-review)
+## [Shnuggle Moses Basket With White Waffle Review](/shnuggle-moses-basket-with-white-waffle-review)
 
 [![shnuggle-moses-basket-with-white-waffle](<https://images-na.ssl-images-amazon.com/images/I/81Do9sHpyEL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Shnuggle-Basket-Waffle-Dressing-Mattress/dp/B00GSW9OV0/?tag=cutemosesbaskets-21>)
 
