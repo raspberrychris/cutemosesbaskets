@@ -59,7 +59,7 @@ Check out our [blog](/blog) for the latest updates.
 
 - **PERFECT STARTER BED** The Moses Basket is a perfect first bed for your baby. The mattress is also easily washable, for any spillages.
 
-- **WATER RESISTENT** The mattress is water resistant and breathable allowing easy air movement and heat dissipation.
+- **WATER RESISTANT** The mattress is water resistant and breathable allowing easy air movement and heat dissipation.
 
 #### Our Rating For This Product
 
@@ -433,7 +433,7 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 ---
 
-## Kinder Valley White 100% Cotton Waffle Review
+## [Kinder Valley White 100% Cotton Waffle Review](kinder-valley-white-100-cotton-waffle-review)
 
 [![kinder-valley-white-100-cotton-white](<https://images-na.ssl-images-amazon.com/images/I/91yYDXfZYDL._AC_SX450_.jpg>)](<https://www.amazon.co.uk/White-Waffle-Bedding-Basket-Included/dp/B07T6F74BP/?tag=cutemosesbaskets-21>)
 
@@ -468,7 +468,7 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 ---
 
-## Clair De Lune Silver Lining Palm Review
+## [Clair De Lune Silver Lining Palm Review](clair-de-lune-silver-lining-palm-review)
 
 [![clair-de-lune-silver-lining-palm](<https://images-na.ssl-images-amazon.com/images/I/61BaORDb3yL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Clair-Lune-Silver-Lining-Basket/dp/B01NBQZV3R/?tag=cutemosesbaskets-21>)
 
@@ -522,7 +522,7 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 ---
 
-## [Shnuggle Moses Basket With White Waffle Review](/shnuggle-moses-basket-with-white-waffle-review)
+## [Shnuggle Moses Basket With White Waffle Review](shnuggle-moses-basket-with-white-waffle-review)
 
 [![shnuggle-moses-basket-with-white-waffle](<https://images-na.ssl-images-amazon.com/images/I/81Do9sHpyEL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Shnuggle-Basket-Waffle-Dressing-Mattress/dp/B00GSW9OV0/?tag=cutemosesbaskets-21>)
 
