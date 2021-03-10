@@ -1,7 +1,8 @@
 ---
 title: "The Little Green Sheep Natural Knitted Review"
 date: 2021-03-09T21:26:02Z
-draft: false
+canonicalUrl: “/the-little-green-sheep-natural-knitted-review"
+url: the-little-green-sheep-natural-knitted-review
 ---
 
 ## The Little Green Sheep Natural Knitted Review (BEST BASKET FOR NATURAL DESIGN - NO CHEMICALS)

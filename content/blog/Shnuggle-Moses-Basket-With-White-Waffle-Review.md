@@ -1,7 +1,6 @@
 ---
 title: "Shnuggle Moses Basket With White Waffle Review"
 date: 2021-03-09T21:26:02Z
-draft: false
 canonicalUrl: “/shnuggle-moses-basket-with-white-waffle-review"
 url: shnuggle-moses-basket-with-white-waffle-review
 
