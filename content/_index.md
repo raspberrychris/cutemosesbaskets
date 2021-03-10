@@ -306,7 +306,7 @@ Update: I was really happy with the product but my baby outgrown it when she was
 
 ---
 
-## Kinder Valley Classic Pink Broderie Anglaise Review
+## [Kinder Valley Classic Pink Broderie Anglaise Review](/kinder-valley-classic-pink-broderie-anglaise-review)
 
 [![kinder-valley-classic-pink-broderie-anglaise](<https://images-na.ssl-images-amazon.com/images/I/81vJhLHESFL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Broderie-Anglaise-Moses-Basket-Folding/dp/B01D55UQCI/?tag=cutemosesbaskets-21>)
 
@@ -387,7 +387,7 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 ---
 
-## Mcc Full Set Natural Palm Moses Review
+## [Mcc Full Set Natural Palm Moses Review](/mcc-full-set-natural-palm-moses-review)
 
 [![mcc-full-set-natural-palm-moses](<https://images-na.ssl-images-amazon.com/images/I/71oeCfAzeLL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Natural-Moses-Basket-Mattress-Rocking/dp/B00JGZAGJK/?tag=cutemosesbaskets-21>)
 
