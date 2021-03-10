@@ -343,7 +343,7 @@ Update: I was really happy with the product but my baby outgrown it when she was
 
 ---
 
-## Kinder Valley Waffle Moses Basket (White) Review
+## [Kinder Valley Waffle Moses Basket (White) Review](kinder-valley-white-grey-waffle-review)
 
 [![kinder-valley-waffle-moses-basket-white](<https://images-na.ssl-images-amazon.com/images/I/91aWu3PwTcL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Kinder-Valley-Waffle-Moses-Basket/dp/B00OEAWVDG/?tag=cutemosesbaskets-21>)
 
@@ -433,7 +433,7 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 ---
 
-## [Kinder Valley White 100% Cotton Waffle Review](kinder-valley-white-100-cotton-waffle-review)
+## [Kinder Valley White 100% Cotton Waffle Review](/kinder-valley-white-100-cotton-waffle-review)
 
 [![kinder-valley-white-100-cotton-white](<https://images-na.ssl-images-amazon.com/images/I/91yYDXfZYDL._AC_SX450_.jpg>)](<https://www.amazon.co.uk/White-Waffle-Bedding-Basket-Included/dp/B07T6F74BP/?tag=cutemosesbaskets-21>)
 
