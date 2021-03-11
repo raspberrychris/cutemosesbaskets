@@ -6,53 +6,55 @@ url: shnuggle-moses-basket-with-white-waffle-review
 
 ---
 
-## Shnuggle Dreami Moses Basket Curve Review
+[![shnuggle-moses-basket-with-white-waffle](<https://images-na.ssl-images-amazon.com/images/I/81Do9sHpyEL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Shnuggle-Basket-Waffle-Dressing-Mattress/dp/B00GSW9OV0/?tag=cutemosesbaskets-21>)
 
-[![schnuggle-dreami-moses-basket-curve](<https://images-na.ssl-images-amazon.com/images/I/71FQAsnCZ9L._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Shnuggle-Dreami-Moses-Basket-Rocking/dp/B016APJP4A/?tag=cutemosesbaskets-21>)
-
-[![schnuggle-dreami-moses-basket-curve](</images/checkprice.webp>)](<https://www.amazon.co.uk/Shnuggle-Dreami-Moses-Basket-Rocking/dp/B016APJP4A/?tag=cutemosesbaskets-21>)
+[![shnuggle-moses-basket-with-white-waffle](</images/checkprice.webp>)](<https://www.amazon.co.uk/Shnuggle-Basket-Waffle-Dressing-Mattress/dp/B00GSW9OV0/?tag=cutemosesbaskets-21>)
 
 #### Product Description
 
-- **GREAT DESIGN** The perfect Moses Basket and Stand to keep baby close, day & night.
+- **CLASSIC DESIGN** Shnuggle Classic Moses Basket with stay up hood
 
-- **BREATHABLE** 3D Mesh Covers and ventilated base for excellent airflow
+- **HYPOALLERGENIC** Hypoallergenic and easy to clean
 
-- **FOLDS UP**for easy storage and travel
+- **DURABLE** Super strong and long lasting
 
-- **EASY TO CLEAN** Easy-to-clean and hypoallergenic base
+- **GOOD SIZE** Product dimensions 90 x 46 x 54 cm
 
-- **LARGE** Larger than standard Moses Baskets for longer use
+- **UK DESIGN** Designed and made in the UK
 
 #### Our Rating For This Product
 
-4.7 out of 5 stars
+4.6 out of 5 stars
 
 ⭐⭐⭐⭐
 
+![cute-moses-basket](https://m.media-amazon.com/images/S/aplus-media/vc/ef391f89-d135-47e3-a0b2-803b64317adb.__CR24,233,1554,961_PT0_SX970_V1___.jpg)
+
 #### Technical Details
 
-| Model Number                | DREAMI-GRY                   |
-|-----------------------------|------------------------------|
-| Product Dimensions          | 88 x 45 x 61 cm; 6 Kilograms |
-| Item model number           | DREAMI-GRY                   |
-| Target gender               | Unisex                       |
-| Material Type               | Fabric                       |
-| Additional product features | Hypoallergenic               |
-| Batteries required          | No                           |
-| Item Weight                 | 6 kg                         |
+| Awards won                  | Junior Design Award             |
+|-----------------------------|---------------------------------|
+| Model Number                | SHN-GRY-WAF                     |
+| Product Dimensions          | 90 x 46 x 54 cm; 3.14 Kilograms |
+| Item model number           | SHN-GRY-WAF                     |
+| Target gender               | Unisex                          |
+| Material Type               | Cotton                          |
+| Additional product features | Hypoallergenic                  |
+| Batteries required          | No                              |
+| Frustration-free packaging  | Certified frustration-free      |
+| Is portable                 | No                              |
+| Item Weight                 | 3.14 kg                         |
 
 #### Customers Say about this product
 
->  "Great product, we have chicco next to me as well but I prefer this one. Perfect size, easy to transport.
-Update: I was really happy with the product but my baby outgrown it when she was 3 months old (she’s not massive baby) such a shame cause it was really good product"
+>  "A beautiful sturdy product Easily assembled excellent value for money larger than a normal Moses basket breathable base lasted a good 6 months"
 
 #### Pros and Cons
 
 | ✅  Pros | ❌ Cons |
 |-|-|
-| 👉 Excellent quality materials  |👉 Some Customers have retuned the product  |
-| 👉 Well packaged |👉 More expensive than other baskets  |
-| 👉 Lightweight |👉 Some Customers have reported it being hard to assemble  |
+| 👉 Easy to clean  |👉 Canopy bars maybe difficult to put into place for some  |
+| 👉 Sturdy Design |👉 Needs bigger sheets than most moses baskets  |
+| 👉 Lighweight and easy to move from room to room |👉 Some customers have said that the handles are not the same colour as the photos  |
 
 ---
