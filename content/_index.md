@@ -209,7 +209,7 @@ Check out our [blog](/blog) for the latest updates.
 
 ---
 
-## [Shnuggle Dreami Moses Basket Curve Review](/Shnuggle-Moses-Basket-With-White-Waffle-Review)
+## [Shnuggle Dreami Moses Basket Curve Review](shnuggle-dreami-moses-basket-curve-review)
 
 [![schnuggle-dreami-moses-basket-curve](<https://images-na.ssl-images-amazon.com/images/I/71FQAsnCZ9L._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Shnuggle-Dreami-Moses-Basket-Rocking/dp/B016APJP4A/?tag=cutemosesbaskets-21>)
 
