@@ -648,7 +648,7 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 ---
 
-## White Dimple Moses Basket Deluxe Rocking Review
+## [White Dimple Moses Basket Deluxe Rocking Review](white-dimple-moses-basket-deluxe-rocking-review)
 
 [![white-dimple-moses-basket-deluxe-rocking](<https://images-eu.ssl-images-amazon.com/images/I/91ev0FWUV1L.__AC_SY300_SX300_QL70_ML2_.jpg>)](<https://www.amazon.co.uk/Dimple-Basket-Deluxe-Rocking-Starter/dp/B07NS29KTT/?tag=cutemosesbaskets-21>)
 
@@ -686,7 +686,7 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 ---
 
-## Grey Moses Basket Rocking Stand Review
+## [Grey Moses Basket Rocking Stand Review](grey-moses-basket-rocking-stand-review)
 
 [![grey-moses-basket-rocking-stand](<https://images-eu.ssl-images-amazon.com/images/I/91rgZks7JTL.__AC_SY300_QL70_ML2_.jpg>)](<https://www.amazon.co.uk/Grey-Moses-Basket-Rocking-Stand/dp/B07RRBWB7R/?tag=cutemosesbaskets-21>)
 
@@ -726,7 +726,7 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 ---
 
-## Kinder Valley Little Gem Rocking Stand Review
+## [Kinder Valley Little Gem Rocking Stand Review](kinder-valley-little-gem-rocking-stand-review)
 
 [![kinder-valley-little-gem-rocking-stand](<https://images-na.ssl-images-amazon.com/images/I/91Y3b7hyECL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Deluxe-Little-White-Rocking-Stand/dp/B06XJZPH7N/?tag=cutemosesbaskets-21>)
 
@@ -760,7 +760,7 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 ---
 
-## Kinder Valley Brown Giraffe Moses Basket
+## [Kinder Valley Brown Giraffe Moses Basket](kinder-valley-brown-giraffe-moses-basket)
 
 [![kinder-valley-brown-giraffe-moses-basket](<https://images-eu.ssl-images-amazon.com/images/I/91uxKzwf5wL.__AC_SX300_SY300_QL70_ML2_.jpg>)](<https://www.amazon.co.uk/Brown-Giraffe-Moses-Basket-Folding/dp/B01LZCIR20/?tag=cutemosesbaskets-21>)
 
@@ -789,8 +789,6 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 #### Customers Say about this product
 
 >  "Lovely gender neutral basket. I love this item! Only thing I would mention is the picture is misleading the way the top cover sits on the basket. It just sinks in as there's nothing to attach it to the basket itself."
-
-
 
 #### Pros and Cons
 
