@@ -8,8 +8,6 @@ canonicalUrl: “/are-moses-baskets-safe"
 url: are-moses-baskets-safe
 ---
 
-# Are Moses Baskets safe?
-
 ### Sleeping safely
 
 For the initial 6 months of your baby's life the most safe area for them to sleep remains in a cot as well as in the same space as the person looking after them for all the time they are sleeping.

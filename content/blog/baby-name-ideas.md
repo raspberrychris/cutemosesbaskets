@@ -8,8 +8,6 @@ canonicalUrl: “/baby-name-ideas"
 url: baby-name-ideas
 ---
 
-# Baby Name ideas
-
 In this article we will look at baby name ideas from around the world.  Starting off with names inspired from Greek Mythology and then working into some of the more unusual baby names compare to more popular ones in America and the world and those inspired by Authors.
 
 ## Baby Girl Names Based on Greek Mythology:

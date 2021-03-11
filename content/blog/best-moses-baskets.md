@@ -8,8 +8,6 @@ canonicalUrl: “/best-moses-baskets"
 url: best-moses-baskets
 ---
 
-# Best Moses Baskets
-
 Black, Orange And Turquoise Woven Moses Basket.
 
 The Little Green Sheep Natural Knitted Moses Basket and Mattress.
