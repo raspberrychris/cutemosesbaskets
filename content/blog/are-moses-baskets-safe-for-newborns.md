@@ -8,8 +8,6 @@ canonicalUrl: “/are-moses-baskets-safe-for-newborns"
 url: are-moses-baskets-safe-for-newborns
 ---
 
-# Are Moses Baskets Safe for newborns?
-
 Moses baskets, made from woven material, have great aesthetic appeal and are one of the key purchases for any soon-to-be parents
 
 Named from the sort of basket Moses' mom could have put him in to drift down the river, these baskets are similar to a carrycot.
