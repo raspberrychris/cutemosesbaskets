@@ -1,8 +1,8 @@
 ---
 title: "Kinder Valley White Waffle Grey Wicker Review"
 date: 2021-03-09T21:26:02Z
-canonicalUrl: “/kinder-valley-white-grey-wicker-review"
-url: kinder-valley-white-grey-wicker-review
+canonicalUrl: “/kinder-valley-white-waffle-grey-wicker-review"
+url: kinder-valley-white-waffle-grey-wicker-review
 ---
 
 [![kinder-valley-white-waffle-grey-wicker](<https://images-na.ssl-images-amazon.com/images/I/81Wbf63mYTL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Waffle-Wicker-Basket-Rocking-Textile/dp/B07SNDY9G9/?tag=cutemosesbaskets-21>)

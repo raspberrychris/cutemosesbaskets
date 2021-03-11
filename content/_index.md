@@ -800,7 +800,7 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 ---
 
-## Kinder Valley White Waffle Wicker Review
+## [Kinder Valley White Waffle Wicker Review](kinder-valley-white-grey-waffle-review)
 
 [![kinder-valley-white-waffle-wicker](<https://images-na.ssl-images-amazon.com/images/I/81PiBJQdmJL._AC_SX425_.jpg>)](<https://www.amazon.co.uk/White-Waffle-Dressing-Deluxe-Rocking/dp/B072N5FP88/?tag=cutemosesbaskets-21>)
 
@@ -834,7 +834,7 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 ---
 
-## Clair De Lune My Dolly White Review
+## [Clair De Lune My Dolly White Review](clair-de-lune-my-dolly-white-review)
 
 [![clair-de-lune-my-dolly-white](<https://images-na.ssl-images-amazon.com/images/I/91QoHzFgk5L._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Clair-Lune-Bedding-Mattress-Adjustable/dp/B00EPLKJJM/?tag=cutemosesbaskets-21>)
 
@@ -878,7 +878,7 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 ---
 
-## White Dimple Grey Wicker Moses Basket Review
+## [White Dimple Grey Wicker Moses Basket Review](white-dimple-grey-wicker-moses-basket-review)
 
 [![white-dimple-grey-wicker-moses-basket](<https://images-eu.ssl-images-amazon.com/images/I/51emZ0B8WtL.__AC_SX300_SY300_QL70_ML2_.jpg>)](<https://www.amazon.co.uk/White-Dimple-Wicker-Moses-Basket/dp/B01FI29UOQ/?tag=cutemosesbaskets-21>)
 
