@@ -577,7 +577,7 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 ---
 
-## Kinder Valley White Waffle Grey Wicker Review
+## [Kinder Valley White Waffle Grey Wicker Review](kinder-valley-white-waffle-grey-wicker-review)
 
 [![kinder-valley-white-waffle-grey-wicker](<https://images-na.ssl-images-amazon.com/images/I/81Wbf63mYTL._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Waffle-Wicker-Basket-Rocking-Textile/dp/B07SNDY9G9/?tag=cutemosesbaskets-21>)
 
@@ -609,7 +609,7 @@ Adjustable hood perfect to create a cosy sleeping space for your precious little
 
 ---
 
-## Kinder Valley Beary Nice Blue Moses Review
+## [Kinder Valley Beary Nice Blue Moses Review](kinder-valley-beary-nice-blue-moses-review)
 
 [![kinder-valley-beary-nice-blue-moses](<https://images-na.ssl-images-amazon.com/images/I/91g6qarYB8L._AC_SX679_.jpg>)](<https://www.amazon.co.uk/Beary-Moses-Basket-Dressings-included/dp/B019NH1Q76/?tag=cutemosesbaskets-21>)
 
