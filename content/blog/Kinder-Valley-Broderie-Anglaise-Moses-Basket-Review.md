@@ -16,6 +16,13 @@ url: kinder-valley-broderie-anglaise-moses-basket-review
 
 #### Product Description
 
+The Kinder Valley Broderie Anglaise Moses Basket is a stylish and elegant basket, perfect for your little one. The moses basket features an easy care poly cotton with soft padding surround, which can be machine washed at 40°C. It has a hood/canopy that can be adjusted to the desired position by tightening plastic screws on the basket handles. This Moses Basket from Kinder Valley is suitable for newborns up to 6 months old.  
+
+Kinder Valley Broderie Anglaise Moses Basket is available in two colors, White and Pink. This beautiful Moses basket has a soft padding surround to ensure your baby's comfort. The Broderie Anglaise design is available in white with pink trim.
+
+The Moses Basket from Kinder Valley provides an ideal sleeping environment for your newborn or infant. It features a sturdy, easy-care poly cotton fabric that can be easily cleaned by hand washing or machine washing on the delicate cycle. The hood/canopy can be adjusted.
+
+
 - **EASY CARE** Suitable for a newborn to six months, this Moses Basket uses Easy-care Poly Cotton with a soft padding surround.
 
 - **COMFORTABLE** A good balance between comfort and style, moses Basket will ensure safe and sound sleeping for you and your baby.

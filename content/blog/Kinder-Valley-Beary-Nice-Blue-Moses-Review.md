@@ -11,6 +11,10 @@ url: kinder-valley-beary-nice-blue-moses-review
 
 #### Product Description
 
+Kinder Valley Beary Nice Blue Moses Basket Set is a cute and practical bedding set for your little one. The set includes a reversible quilt, fitted sheet, bumper pad and two pillowcases. Made from 100% cotton, the Moses basket bedding set is soft on your baby's delicate skin.
+
+The design of the bumper pad features an embroidered bear face with teddy ears and nose to keep your baby comfy and cozy as they drift off to sleep. The reverse side has a blue dotty pattern that will look great in any nursery setting.
+
 - **SAFE** Your Childs Safety First: This Kinder Valley Moses Basket Bedding Set conforms to all necessary British Standards and is REACH compliant.
 
 - **EASY TO USE** Easy to Use: This Moses Basket Bedding Set can be applied to your moses basket in a few simple steps.

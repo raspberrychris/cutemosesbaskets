@@ -12,6 +12,8 @@ url: clair-de-lune-silver-lining-palm-review
 
 #### Product Description
 
+The Clair de Lune Silver Lining Palm is a traditional style moses basket that includes all the essentials for your baby’s first bed. The lightweight palm leaf construction enhances airflow throughout the basket, while an adjustable and removable hood provides extra warmth as needed. This stylish moses basket also includes a padded liner surround for comfort, reversible coverlet to match your nursery décor and mattress to keep baby cozy and comfortable.
+
 - **PALM BASKET** – A sturdy Moses basket crafted using lightweight palm leaf that enhances airflow throughout the basket. A beautiful, portable design with integrated handles, it’s a traditional choice for your baby’s first bed without skimping on style!
 
 - **INCLUDES BEDDING** - Comes complete with padded liner surround for comfort, reversible coverlet, mattress and adjustable, removable hood. *Stand sold separately
