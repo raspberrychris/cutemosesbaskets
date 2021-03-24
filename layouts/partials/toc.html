@@ -1,84 +1,21 @@
-{{- $headers := findRE "<h[1-4].*?>(.|\n])+?</h[1-4]>" .Content -}}
-{{- $has_headers := ge (len $headers) 1 -}}
-{{- if $has_headers -}}
+{{ if or (.Params.toc) (site.Params.toc) }}
+<aside class="toc">
+    <div id="toc-label-bar" class="flexy">
+        <div class="toc-label">
+            <h5 class="toc-label-title">Table of Contents</h5>
+        </div>
+        <!-- table of content drop down arrow -->
+        <div class="drop-down-arrow">
+            <svg class="svg-drop-down svg-icon" viewBox="0 0 20 20">
+                <path
+                    d="M11.611,10.049l-4.76-4.873c-0.303-0.31-0.297-0.804,0.012-1.105c0.309-0.304,0.803-0.293,1.105,0.012l5.306,5.433c0.304,0.31,0.296,0.805-0.012,1.105L7.83,15.928c-0.152,0.148-0.35,0.223-0.547,0.223c-0.203,0-0.406-0.08-0.559-0.236c-0.303-0.309-0.295-0.803,0.012-1.104L11.611,10.049z">
+                </path>
+            </svg>
+        </div>
+    </div>
 
-{{- $largest := 6 -}}
-{{- range $headers -}}
-  {{- $headerLevel := index (findRE "[1-4]" . 1) 0 -}}
-  {{- $headerLevel := len (seq $headerLevel) -}}
-  {{- if lt $headerLevel $largest -}}
-    {{- $largest = $headerLevel -}}
-  {{- end -}}
-{{- end -}}
-
-{{- $firstHeaderLevel := len (seq (index (findRE "[1-4]" (index $headers 0) 1) 0)) -}}
-
-{{- $.Scratch.Set "bareul" slice -}}
-<div id="TableOfContents">
-<ul>
-  {{- range seq (sub $firstHeaderLevel $largest) -}}
-    <ul>
-    {{- $.Scratch.Add "bareul" (sub (add $largest .) 1) -}}
-  {{- end -}}
-  {{- range $i, $header := $headers -}}
-    {{- $headerLevel := index (findRE "[1-4]" . 1) 0 -}}
-    {{- $headerLevel := len (seq $headerLevel) -}}
-
-    {{/* get id="xyz" */}}
-    {{ $id := index (findRE "(id=\"(.*?)\")" $header 9) 0 }}
-
-    {{/* strip id="" to leave xyz (no way to get regex capturing groups in hugo :( */}}
-    {{ $cleanedID := replace (replace $id "id=\"" "") "\"" "" }}
-    {{- $header := replaceRE "<h[1-4].*?>((.|\n])+?)</h[1-4]>" "$1" $header -}}
-
-    {{- if ne $i 0 -}}
-      {{- $prevHeaderLevel := index (findRE "[1-4]" (index $headers (sub $i 1)) 1) 0 -}}
-      {{- $prevHeaderLevel := len (seq $prevHeaderLevel) -}}
-        {{- if gt $headerLevel $prevHeaderLevel -}}
-          {{- range seq $prevHeaderLevel (sub $headerLevel 1) -}}
-            <ul>
-            {{/* the first should not be recorded */}}
-            {{- if ne $prevHeaderLevel . -}}
-              {{- $.Scratch.Add "bareul" . -}}
-            {{- end -}}
-          {{- end -}}
-        {{- else -}}
-          </li>
-          {{- if lt $headerLevel $prevHeaderLevel -}}
-            {{- range seq (sub $prevHeaderLevel 1) -1 $headerLevel -}}
-              {{- if in ($.Scratch.Get "bareul") . -}}
-                </ul>
-                {{/* manually do pop item */}}
-                {{- $tmp := $.Scratch.Get "bareul" -}}
-                {{- $.Scratch.Delete "bareul" -}}
-                {{- $.Scratch.Set "bareul" slice}}
-                {{- range seq (sub (len $tmp) 1) -}}
-                  {{- $.Scratch.Add "bareul" (index $tmp (sub . 1)) -}}
-                {{- end -}}
-              {{- else -}}
-                </ul></li>
-              {{- end -}}
-            {{- end -}}
-          {{- end -}}
-        {{- end -}}
-        <li>
-          <a href="#{{- $cleanedID  -}}">{{- $header | safeHTML -}}</a>
-    {{- else -}}
-    <li>
-      <a href="#{{- $cleanedID -}}">{{- $header | safeHTML -}}</a>
-    {{- end -}}
-  {{- end -}}
-  <!-- {{- $firstHeaderLevel := len (seq (index (findRE "[1-4]" (index $headers 0) 1) 0)) -}} -->
-  {{ $firstHeaderLevel := $largest }}
-  {{- $lastHeaderLevel := len (seq (index (findRE "[1-4]" (index $headers (sub (len $headers) 1)) 1) 0)) -}}
-  </li>
-  {{- range seq (sub $lastHeaderLevel $firstHeaderLevel) -}}
-    {{- if in ($.Scratch.Get "bareul") (add . $firstHeaderLevel) -}}
-      </ul>
-    {{- else -}}
-      </ul></li>
-    {{- end -}}
-  {{- end -}}
-</ul>
-</div>
-{{- end -}}
+    <div class="toc-content">
+        {{ .TableOfContents }}
+    </div>
+</aside>
+{{end}}
