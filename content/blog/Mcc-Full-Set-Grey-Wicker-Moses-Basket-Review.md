@@ -13,11 +13,14 @@ url: mcc-full-set-grey-wicker-moses-basket-review
 
 #### Product Description
 
+The Mcc Full Set Grey Wicker Moses Basket is a stunningly designed moses basket, that will suit any bedroom. It comes with a 100% cotton cover and is made from durable materials meaning it's safe for your baby and will provide more than adequate protection. This moses basket also features a curving rocking stand allowing rocking motion from side to side.
+
 - **STUNNING DESIGN** Perfectly designed moses basket that will suit any bedroom. 100% Cotton Cover
 
 - **ROBUST AND DURABLE** Durable materials mean that this is safe for your baby and will provide more than adequate protection.
 
 - **ROCKING MOVEMENT** Curved rocking stand allows rocking motion from side to side.
+
 #### Our Rating For This Product
 
 4.7 out of 5 stars

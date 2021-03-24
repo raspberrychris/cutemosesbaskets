@@ -1,5 +1,6 @@
 User-agent: *
 Disallow: /tags/
 Disallow: /categories/
+Disallow: /link/
 
 Sitemap: https:///cutemosesbaskets.com/sitemap.xml

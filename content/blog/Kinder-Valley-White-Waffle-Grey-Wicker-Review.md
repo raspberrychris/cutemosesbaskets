@@ -11,6 +11,10 @@ url: kinder-valley-white-waffle-grey-wicker-review
 
 #### Product Description
 
+This Moses basket is designed to last for years and comes complete with a detailed care manual. It has an easy-to-use design, which makes it ideal for first time parents.
+
+Kinder Valley’s White Waffle Grey Moses Basket is the perfect place for your little one to sleep soundly at night. This portable crib will help you keep your baby close by while you get some rest yourself. The sturdy construction of this crib ensures that it will last throughout several children. The breathable mesh sides allow
+
 - **EASY TO USE** Easy to Use: This Moses Basket comes complete with a detailed care manual and all the required bedding for a sound nights’ sleep for you and your baby
 
 - **MANUFACTURERS WARRANTY** This is valid for 6 months from date of purchase, which covers the intended usage period of the product so you can be assured that it will last

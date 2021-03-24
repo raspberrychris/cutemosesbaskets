@@ -13,6 +13,8 @@ url: kinder-valley-white-100-cotton-waffle-review
 
 #### Product Description
 
+Kinder Valley's White 100% Cotton Waffle Moses Basket Pod is perfect for your little one. The full body surround is padded and covered by the styled fabric to ensure extra comfort, the coverlet can be tucked in, perfect to create a cosy sleeping space for your precious little one. Easy to Use: This Kinder Valley Moses Basket Pod Set can be applied to your moses basket in a few simple steps. Safety First: Your child's safety first
+
 - **EASY TO USE** Easy to Use: This Moses Basket Pod Bedding Set can be applied to your moses basket in a few simple steps. The full body surround is padded and is covered by the styled fabric to ensure extra comfort, the coverlet can be tucked in, perfect to create a cosy sleeping space for your precious little one.
 
 - **SAFETY FIRST** Your Childs Safety First: This Kinder Valley Moses Basket Pod Bedding Set conforms to all necessary British Standards and is REACH compliant.
