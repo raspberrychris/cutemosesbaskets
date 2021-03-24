@@ -1,5 +1,6 @@
 ---
 title: Are Moses Baskets Safe for newborns?
+description: Find out if using a Moses basket is right for you and your new bundle of joy! This article will help walk you through the safety precautions.
 type: top
 toc: true
 menu:
