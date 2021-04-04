@@ -1,7 +1,6 @@
 ---
 title: Kinder Valley Broderie Anglaise Moses Basket Review
 type: top
-toc: true
 menu:
 weight: 1
 canonicalUrl: “/kinder-valley-broderie-anglaise-moses-basket-review"
